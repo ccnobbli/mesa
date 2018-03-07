@@ -6,12 +6,12 @@
       <file name="/Dummy.txt" timestamp="1520004761172">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1520271368048">
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1520447010296">
         <mark key="'" line="1514" column="8" />
-        <mark key="[" line="1467" column="148" />
+        <mark key="[" line="1468" column="97" />
         <mark key="m" line="1533" column="21" />
-        <mark key="]" line="1467" column="149" />
-        <mark key="." line="1467" column="149" />
+        <mark key="]" line="1468" column="97" />
+        <mark key="." line="1468" column="97" />
       </file>
       <file name="/Python Console" timestamp="1520278247605">
         <mark key="[" line="0" column="0" />
@@ -35,7 +35,7 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Coalition.py" timestamp="1519842369664">
         <mark key="[" line="60" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1520273547603">
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1520447576700">
         <mark key="'" line="383" column="28" />
         <mark key="[" line="386" column="8" />
         <mark key="]" line="386" column="8" />
@@ -56,20 +56,21 @@
         <mark key="^" line="1866" column="31" />
         <mark key="." line="2000" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1520271474370">
-        <mark key="[" line="719" column="38" />
-        <mark key="]" line="719" column="38" />
-        <mark key="." line="719" column="38" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1520448252496">
+        <mark key="[" line="734" column="0" />
+        <mark key="]" line="775" column="43" />
+        <mark key="." line="775" column="43" />
+        <mark key="^" line="775" column="43" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1520286859484">
         <mark key="]" line="26" column="9" />
         <mark key="^" line="32" column="0" />
         <mark key="." line="26" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1520273248491">
-        <mark key="[" line="23" column="134" />
-        <mark key="]" line="23" column="134" />
-        <mark key="." line="23" column="134" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1520448445343">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/Scratch.py" timestamp="1519839679507">
         <mark key="[" line="19" column="0" />
@@ -140,7 +141,7 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBQb3NzaWJsZSBkaXJlY3Rpb25zIHRvIG1vdmUgaW4KICAgICAgICAgICAgbm9ydGgsIGVhc3QsIHNvdXRoLCB3ZXN0ID0gVHJ1ZSwgVHJ1ZSwgVHJ1ZSwgVHJ1ZQogICAgICAgICAgICAjIEZJWE1FIFJlcGxhY2UgQ29uc3RhbnQgd2l0aCBDb25maWcgZm9yIHZpc2lvbiBsaW1pdAogICAgICAgICAgICBmb3IgY3JpbWluYWwgaW4gY3JpbWluYWxzX25lYXI6CiAgICAgICAgICAgICAgICAjIEVzc2VudGlhbGx5IGNoZWNraW5nIGlmIGNyaW1pbmFscyBhcmUgdmlzaW9uX3JhZGl1cyBpbiBhbGwgY2FyZGluYWwgZGlyZWN0aW9ucwogICAgICAgICAgICAgICAgIyBGcm9tIGh0dHBzOi8vc3RhY2tvdmVyZmxvdy5jb20vcXVlc3Rpb25zLzIxMjM5NDcvY2FsY3VsYXRlLWRpc3RhbmNlLWJldHdlZW4tdHdvLXgteS1jb29yZGluYXRlcwogICAgICAgICAgICAgICAgZGlzdGFuY2VfeCA9IG1pbiggYWJzKCBzZWxmLnggLSBjcmltaW5hbC54ICksIDUwIC0gYWJzKHNlbGYueCAtIHNlbGYueSkpCiAgICAgICAgICAgICAgICBkaXN0YW5jZV95ID0gbWluKCBhYnMoIHNlbGYueSAtIGNyaW1pbmFsLnkpLCA1MCAtIGFicyggc2VsZi55IC0gY3JpbWluYWwueSkpCiAgICAgICAgICAgICAgICBpZiAwIDwgIDw9IHZpc2lvbl9yYWRpdXM6IG5vcnRoID0gRmFsc2UKICAgICAgICAgICAgICAgIGlmIC12aXNpb25fcmFkaXVzIDw9IChjcmltaW5hbC55IC0gc2VsZi55KSA8IDA6IHNvdXRoID0gRmFsc2UKICAgICAgICAgICAgICAgIGlmIDAgPCAoY3JpbWluYWwueCAtIHNlbGYueCkgPD0gdmlzaW9uX3JhZGl1czogZWFzdCA9IEZhbHNlCiAgICAgICAgICAgICAgICBpZiAtdmlzaW9uX3JhZGl1cyA8PSAoY3JpbWluYWwueSAtIHNlbGYueCkgPCAwOiB3ZXN0ID0gRmFsc2UK</text>
+        <text encoding="base64">cHJpbnQoImhlbGxvIikK</text>
       </register>
       <register name="-" type="4">
         <text>(criminal.y - self.y)</text>
@@ -152,18 +153,41 @@
         <text>role=0, crime_</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">cHJpbnQoImhlbGxvIikK</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CgoKcHJpbnQoZml4ZWQuZXhwZWN0X2NvbHVtbl9wYXJhbWV0ZXJpemVkX2Rpc3RyaWJ1dGlvbl9rc190ZXN0X3BfdmFsdWVfdG9fYmVfZ3JlYXRlcl90aGFuKCJub3JtIiwgIm5vcm0iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcF92YWx1ZT0wLjUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXJhbXM9Z2UuZGF0YXNldC51dGlsLmluZmVyX2Rpc3RyaWJ1dGlvbl9wYXJhbWV0ZXJzKGZpeGVkLm5vcm0sICJub3JtIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvdXRwdXRfZm9ybWF0PSJDT01QTEVURSIpKQoKZml4ZWQuc2F2ZV9leHBlY3RhdGlvbnNfY29uZmlnKCIuL3NjcmF0Y2gvdGVzdF9jb25maWcuanNvbiIpCgpjb25maWcgPSBqc29uLmxvYWQob3BlbigiLi9zY3JhdGNoL3Rlc3RfY29uZmlnLmpzb24iKSkKCmZpeGVkLm5vcm0gPSBmaXhlZC5ub3JtKjIwMAoKCnByaW50KGZpeGVkLnZhbGlkYXRlKGNvbmZpZykpCgoKCiMgZml4ZWQudG9fY3N2KCIuL3Rlc3RzL3Rlc3Rfc2V0cy9maXhlZF9kaXN0cmlidXRpb25hbF90ZXN0X2RhdGFzZXQuY3N2IikK</text>
+      </register>
+      <register name="3" type="4">
+        <text># generate data
+fixed = ge.dataset.PandasDataSet({
+    'norm': stats.norm.rvs(-2, 5, 500),
+    'beta': stats.beta.rvs(0.5, 10, 500),
+    'gamma': stats.gamma.rvs(2, 20, 500),
+    'poisson': stats.poisson.rvs(8.2, 40, 500),
+    'uniform': stats.uniform.rvs(-5, 11, 500),
+    'chi2': stats.chi2.rvs(df=30, size=500),
+    'exponential': stats.expon.rvs(loc=4.2, scale=1, size=500)
+})</text>
+      </register>
+      <register name="4" type="4">
+        <text>=ge.util.infer_distribution_parameters(column='norm',
+                                                                                                                                        distribution='norm'
+                                                                                                                                        )</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">IyBQb3NzaWJsZSBkaXJlY3Rpb25zIHRvIG1vdmUgaW4KICAgICAgICAgICAgbm9ydGgsIGVhc3QsIHNvdXRoLCB3ZXN0ID0gVHJ1ZSwgVHJ1ZSwgVHJ1ZSwgVHJ1ZQogICAgICAgICAgICAjIEZJWE1FIFJlcGxhY2UgQ29uc3RhbnQgd2l0aCBDb25maWcgZm9yIHZpc2lvbiBsaW1pdAogICAgICAgICAgICBmb3IgY3JpbWluYWwgaW4gY3JpbWluYWxzX25lYXI6CiAgICAgICAgICAgICAgICAjIEVzc2VudGlhbGx5IGNoZWNraW5nIGlmIGNyaW1pbmFscyBhcmUgdmlzaW9uX3JhZGl1cyBpbiBhbGwgY2FyZGluYWwgZGlyZWN0aW9ucwogICAgICAgICAgICAgICAgIyBGcm9tIGh0dHBzOi8vc3RhY2tvdmVyZmxvdy5jb20vcXVlc3Rpb25zLzIxMjM5NDcvY2FsY3VsYXRlLWRpc3RhbmNlLWJldHdlZW4tdHdvLXgteS1jb29yZGluYXRlcwogICAgICAgICAgICAgICAgZGlzdGFuY2VfeCA9IG1pbiggYWJzKCBzZWxmLnggLSBjcmltaW5hbC54ICksIDUwIC0gYWJzKHNlbGYueCAtIHNlbGYueSkpCiAgICAgICAgICAgICAgICBkaXN0YW5jZV95ID0gbWluKCBhYnMoIHNlbGYueSAtIGNyaW1pbmFsLnkpLCA1MCAtIGFicyggc2VsZi55IC0gY3JpbWluYWwueSkpCiAgICAgICAgICAgICAgICBpZiAwIDwgIDw9IHZpc2lvbl9yYWRpdXM6IG5vcnRoID0gRmFsc2UKICAgICAgICAgICAgICAgIGlmIC12aXNpb25fcmFkaXVzIDw9IChjcmltaW5hbC55IC0gc2VsZi55KSA8IDA6IHNvdXRoID0gRmFsc2UKICAgICAgICAgICAgICAgIGlmIDAgPCAoY3JpbWluYWwueCAtIHNlbGYueCkgPD0gdmlzaW9uX3JhZGl1czogZWFzdCA9IEZhbHNlCiAgICAgICAgICAgICAgICBpZiAtdmlzaW9uX3JhZGl1cyA8PSAoY3JpbWluYWwueSAtIHNlbGYueCkgPCAwOiB3ZXN0ID0gRmFsc2UK</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">IyBQb3NzaWJsZSBkaXJlY3Rpb25zIHRvIG1vdmUgaW4KICAgICAgICAgICAgbm9ydGgsIGVhc3QsIHNvdXRoLCB3ZXN0ID0gVHJ1ZSwgVHJ1ZSwgVHJ1ZSwgVHJ1ZQogICAgICAgICAgICAjIEZJWE1FIFJlcGxhY2UgQ29uc3RhbnQgd2l0aCBDb25maWcgZm9yIHZpc2lvbiBsaW1pdAogICAgICAgICAgICBmb3IgY3JpbWluYWwgaW4gY3JpbWluYWxzX25lYXI6CiAgICAgICAgICAgICAgICAjIEVzc2VudGlhbGx5IGNoZWNraW5nIGlmIGNyaW1pbmFscyBhcmUgdmlzaW9uX3JhZGl1cyBpbiBhbGwgY2FyZGluYWwgZGlyZWN0aW9ucwogICAgICAgICAgICAgICAgIyBGcm9tIGh0dHBzOi8vc3RhY2tvdmVyZmxvdy5jb20vcXVlc3Rpb25zLzIxMjM5NDcvY2FsY3VsYXRlLWRpc3RhbmNlLWJldHdlZW4tdHdvLXgteS1jb29yZGluYXRlcwogICAgICAgICAgICAgICAgZGlzdGFuY2VfeCA9IG1pbiggYWJzKCBzZWxmLnggLSBjcmltaW5hbC54ICksIDUwIC0gYWJzKHNlbGYueCAtIHNlbGYueSkpCiAgICAgICAgICAgICAgICBkaXN0YW5jZV95ID0gbWluKCBhYnMoIHNlbGYueSAtIGNyaW1pbmFsLnkpLCA1MCAtIGFicyggc2VsZi55IC0gY3JpbWluYWwueSkpCiAgICAgICAgICAgICAgICBpZiAwIDwgIDw9IHZpc2lvbl9yYWRpdXM6IG5vcnRoID0gRmFsc2UKICAgICAgICAgICAgICAgIGlmIC12aXNpb25fcmFkaXVzIDw9IChjcmltaW5hbC55IC0gc2VsZi55KSA8IDA6IHNvdXRoID0gRmFsc2UKICAgICAgICAgICAgICAgIGlmIDAgPCAoY3JpbWluYWwueCAtIHNlbGYueCkgPD0gdmlzaW9uX3JhZGl1czogZWFzdCA9IEZhbHNlCiAgICAgICAgICAgICAgICBpZiAtdmlzaW9uX3JhZGl1cyA8PSAoY3JpbWluYWwueSAtIHNlbGYueCkgPCAwOiB3ZXN0ID0gRmFsc2UK</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3RhbmNlID0gbWF0aC5zcXJ0KG1pbiggYWJzKCBzZWxmLnggLSBjcmltaW5hbC54ICksIDUwIC0gYWJzKHNlbGYueCAtIHNlbGYueSkpXiAyICsgbWluKCBhYnMoIHNlbGYueSAtIGNyaW1pbmFsLnkpLCA1MCAtIGFicyggc2VsZi55IC0gY3JpbWluYWwueSkpXiAyICkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHhfc2VhcmNoX3BvcyA9IHdyYXAoc2VsZi54ICsgeF9zZWFyY2gsIHNlbGYueSlbMF0K</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>#if agent_role is not 1 or 2 or 3:
         #    print(&quot;Please enter: CIVILIAN, CRIMINAL, or POLICE to select an agent role to search for.&quot;)
         #for agent in Agent.getInstances():
@@ -173,21 +197,6 @@
         #civilian_list = [civilian for civilian in agent_list if civilian.role == Agent.Role.CIVILIAN]
         #police_list = [police for police in agent_list if police.role == Agent.Role.POLICE]
         #criminal_list = [criminals for criminals in agent_list if criminals.role == Agent.Role.CRIMINAL]</text>
-      </register>
-      <register name="6" type="4">
-        <text>locations = []
-        agent_list = []</text>
-      </register>
-      <register name="7" type="4">
-        <text>civilian_location = []
-        police_location = []
-        criminal_location = []</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">Y2l2aWxpYW5fbG9jYXRpb24gPSBbY2l2aWxpYW4gZm9yIGNpdmlsaWFuIGluIGNpdmlsaWFuX2xpc3QgaWYgc2VsZi5kaXN0YW5jZShzZWxmLngsIGNpdmlsaWFuLngsIHNlbGYueSwgY2l2aWxpYW4ueSkgPD0gY2VsbF9yYWRpdXNdCiAgICAgICAgcG9saWNlX2xvY2F0aW9uID0gW3BvbGljZSBmb3IgcG9saWNlIGluIHBvbGljZV9saXN0IGlmIHNlbGYuZGlzdGFuY2Uoc2VsZi54LCBwb2xpY2UueCwgc2VsZi55LCBwb2xpY2UueSkgPD0gY2VsbF9yYWRpdXNdCiAgICAgICAgY3JpbWluYWxfbG9jYXRpb24gPSBbY3JpbWluYWwgZm9yIGNyaW1pbmFsIGluIGNyaW1pbmFsX2xpc3QgaWYgc2VsZi5kaXN0YW5jZShzZWxmLngsIGNyaW1pbmFsLngsIHNlbGYueSwgY3JpbWluYWwueSkgPD0gY2VsbF9yYWRpdXNdIAoKICAgICAgICBpZiBhZ2VudF9yb2xlID09IEFnZW50LlJvbGUuQ0lWSUxJQU46CiAgICAgICAgICAgIHJldHVybiBjaXZpbGlhbl9sb2NhdGlvbgogICAgICAgIGlmIGFnZW50X3JvbGUgPT0gQWdlbnQuUm9sZS5DUklNSU5BTDoKICAgICAgICAgICAgcmV0dXJuIHBvbGljZV9sb2NhdGlvbgogICAgICAgIGlmIGFnZW50X3JvbGUgPT0gQWdlbnQuUm9sZS5QT0xJQ0U6CiAgICAgICAgICAgIHJldHVybiBjcmltaW5hbF9sb2NhdGlvbg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGQgPSByYW5kb20uc2FtcGxlKFsxLCAyLCAzLCA0XSwgMSlbMF0K</text>
       </register>
       <register name=":" type="4">
         <text>h matchpairs</text>
