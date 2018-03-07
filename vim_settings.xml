@@ -6,12 +6,13 @@
       <file name="/Dummy.txt" timestamp="1520004761172">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1520447010296">
-        <mark key="'" line="1514" column="8" />
-        <mark key="[" line="1468" column="97" />
-        <mark key="m" line="1533" column="21" />
-        <mark key="]" line="1468" column="97" />
-        <mark key="." line="1468" column="97" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1520450321892">
+        <mark key="'" line="1515" column="8" />
+        <mark key="[" line="1511" column="118" />
+        <mark key="m" line="1534" column="21" />
+        <mark key="]" line="1463" column="28" />
+        <mark key="." line="1463" column="28" />
+        <mark key="^" line="1463" column="28" />
       </file>
       <file name="/Python Console" timestamp="1520278247605">
         <mark key="[" line="0" column="0" />
@@ -35,11 +36,10 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Coalition.py" timestamp="1519842369664">
         <mark key="[" line="60" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1520447576700">
-        <mark key="'" line="383" column="28" />
-        <mark key="[" line="386" column="8" />
-        <mark key="]" line="386" column="8" />
-        <mark key="." line="386" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1520450933221">
+        <mark key="[" line="380" column="20" />
+        <mark key="]" line="383" column="0" />
+        <mark key="." line="383" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/main.py" timestamp="1519234690112">
         <mark key="[" line="72" column="15" />
@@ -56,21 +56,23 @@
         <mark key="^" line="1866" column="31" />
         <mark key="." line="2000" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1520448252496">
-        <mark key="[" line="734" column="0" />
-        <mark key="]" line="775" column="43" />
-        <mark key="." line="775" column="43" />
-        <mark key="^" line="775" column="43" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1520450138211">
+        <mark key="[" line="729" column="48" />
+        <mark key="]" line="729" column="113" />
+        <mark key="." line="729" column="113" />
+        <mark key="^" line="729" column="113" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1520286859484">
         <mark key="]" line="26" column="9" />
         <mark key="^" line="32" column="0" />
         <mark key="." line="26" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1520448445343">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1520449894753">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/Scratch.py" timestamp="1519839679507">
         <mark key="[" line="19" column="0" />
@@ -135,83 +137,65 @@
       <jump line="1522" column="25" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" />
       <jump line="1559" column="90" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" />
       <jump line="1510" column="8" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>jj</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoImhlbGxvIikK</text>
+        <text encoding="base64">ICAgICAgICAjcmV0dXJuIHBhcmFtc1snbG9jJ10sIHBhcmFtc1snc2NhbGUnXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>(criminal.y - self.y)</text>
+        <text encoding="base64">ID0gZXZhbA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxmXD4=</text>
+        <text encoding="base64">XDxmcm96ZW5cPg==</text>
       </register>
       <register name="0" type="4">
         <text>role=0, crime_</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoImhlbGxvIikK</text>
+        <text encoding="base64">ICAgICAgICAjcmV0dXJuIHBhcmFtc1snbG9jJ10sIHBhcmFtc1snc2NhbGUnXQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgoKcHJpbnQoZml4ZWQuZXhwZWN0X2NvbHVtbl9wYXJhbWV0ZXJpemVkX2Rpc3RyaWJ1dGlvbl9rc190ZXN0X3BfdmFsdWVfdG9fYmVfZ3JlYXRlcl90aGFuKCJub3JtIiwgIm5vcm0iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcF92YWx1ZT0wLjUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXJhbXM9Z2UuZGF0YXNldC51dGlsLmluZmVyX2Rpc3RyaWJ1dGlvbl9wYXJhbWV0ZXJzKGZpeGVkLm5vcm0sICJub3JtIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvdXRwdXRfZm9ybWF0PSJDT01QTEVURSIpKQoKZml4ZWQuc2F2ZV9leHBlY3RhdGlvbnNfY29uZmlnKCIuL3NjcmF0Y2gvdGVzdF9jb25maWcuanNvbiIpCgpjb25maWcgPSBqc29uLmxvYWQob3BlbigiLi9zY3JhdGNoL3Rlc3RfY29uZmlnLmpzb24iKSkKCmZpeGVkLm5vcm0gPSBmaXhlZC5ub3JtKjIwMAoKCnByaW50KGZpeGVkLnZhbGlkYXRlKGNvbmZpZykpCgoKCiMgZml4ZWQudG9fY3N2KCIuL3Rlc3RzL3Rlc3Rfc2V0cy9maXhlZF9kaXN0cmlidXRpb25hbF90ZXN0X2RhdGFzZXQuY3N2IikK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjcmV0dXJuIHBhcmFtc1snZGYnXSwgcGFyYW1zWydsb2MnXSwgcGFyYW1zWydzY2FsZSddCg==</text>
       </register>
-      <register name="3" type="4">
-        <text># generate data
-fixed = ge.dataset.PandasDataSet({
-    'norm': stats.norm.rvs(-2, 5, 500),
-    'beta': stats.beta.rvs(0.5, 10, 500),
-    'gamma': stats.gamma.rvs(2, 20, 500),
-    'poisson': stats.poisson.rvs(8.2, 40, 500),
-    'uniform': stats.uniform.rvs(-5, 11, 500),
-    'chi2': stats.chi2.rvs(df=30, size=500),
-    'exponential': stats.expon.rvs(loc=4.2, scale=1, size=500)
-})</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjcmV0dXJuIHBhcmFtc1snbWluJ10sIHBhcmFtc1snbWF4J10K</text>
       </register>
-      <register name="4" type="4">
-        <text>=ge.util.infer_distribution_parameters(column='norm',
-                                                                                                                                        distribution='norm'
-                                                                                                                                        )</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjcmV0dXJuIHBhcmFtc1snbGFtYmRhJ10sIHBhcmFtc1snbG9jJ10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBQb3NzaWJsZSBkaXJlY3Rpb25zIHRvIG1vdmUgaW4KICAgICAgICAgICAgbm9ydGgsIGVhc3QsIHNvdXRoLCB3ZXN0ID0gVHJ1ZSwgVHJ1ZSwgVHJ1ZSwgVHJ1ZQogICAgICAgICAgICAjIEZJWE1FIFJlcGxhY2UgQ29uc3RhbnQgd2l0aCBDb25maWcgZm9yIHZpc2lvbiBsaW1pdAogICAgICAgICAgICBmb3IgY3JpbWluYWwgaW4gY3JpbWluYWxzX25lYXI6CiAgICAgICAgICAgICAgICAjIEVzc2VudGlhbGx5IGNoZWNraW5nIGlmIGNyaW1pbmFscyBhcmUgdmlzaW9uX3JhZGl1cyBpbiBhbGwgY2FyZGluYWwgZGlyZWN0aW9ucwogICAgICAgICAgICAgICAgIyBGcm9tIGh0dHBzOi8vc3RhY2tvdmVyZmxvdy5jb20vcXVlc3Rpb25zLzIxMjM5NDcvY2FsY3VsYXRlLWRpc3RhbmNlLWJldHdlZW4tdHdvLXgteS1jb29yZGluYXRlcwogICAgICAgICAgICAgICAgZGlzdGFuY2VfeCA9IG1pbiggYWJzKCBzZWxmLnggLSBjcmltaW5hbC54ICksIDUwIC0gYWJzKHNlbGYueCAtIHNlbGYueSkpCiAgICAgICAgICAgICAgICBkaXN0YW5jZV95ID0gbWluKCBhYnMoIHNlbGYueSAtIGNyaW1pbmFsLnkpLCA1MCAtIGFicyggc2VsZi55IC0gY3JpbWluYWwueSkpCiAgICAgICAgICAgICAgICBpZiAwIDwgIDw9IHZpc2lvbl9yYWRpdXM6IG5vcnRoID0gRmFsc2UKICAgICAgICAgICAgICAgIGlmIC12aXNpb25fcmFkaXVzIDw9IChjcmltaW5hbC55IC0gc2VsZi55KSA8IDA6IHNvdXRoID0gRmFsc2UKICAgICAgICAgICAgICAgIGlmIDAgPCAoY3JpbWluYWwueCAtIHNlbGYueCkgPD0gdmlzaW9uX3JhZGl1czogZWFzdCA9IEZhbHNlCiAgICAgICAgICAgICAgICBpZiAtdmlzaW9uX3JhZGl1cyA8PSAoY3JpbWluYWwueSAtIHNlbGYueCkgPCAwOiB3ZXN0ID0gRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAjcmV0dXJuIHBhcmFtc1snYWxwaGEnXSwgcGFyYW1zWydsb2MnXSwgcGFyYW1zWydzY2FsZSddCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBQb3NzaWJsZSBkaXJlY3Rpb25zIHRvIG1vdmUgaW4KICAgICAgICAgICAgbm9ydGgsIGVhc3QsIHNvdXRoLCB3ZXN0ID0gVHJ1ZSwgVHJ1ZSwgVHJ1ZSwgVHJ1ZQogICAgICAgICAgICAjIEZJWE1FIFJlcGxhY2UgQ29uc3RhbnQgd2l0aCBDb25maWcgZm9yIHZpc2lvbiBsaW1pdAogICAgICAgICAgICBmb3IgY3JpbWluYWwgaW4gY3JpbWluYWxzX25lYXI6CiAgICAgICAgICAgICAgICAjIEVzc2VudGlhbGx5IGNoZWNraW5nIGlmIGNyaW1pbmFscyBhcmUgdmlzaW9uX3JhZGl1cyBpbiBhbGwgY2FyZGluYWwgZGlyZWN0aW9ucwogICAgICAgICAgICAgICAgIyBGcm9tIGh0dHBzOi8vc3RhY2tvdmVyZmxvdy5jb20vcXVlc3Rpb25zLzIxMjM5NDcvY2FsY3VsYXRlLWRpc3RhbmNlLWJldHdlZW4tdHdvLXgteS1jb29yZGluYXRlcwogICAgICAgICAgICAgICAgZGlzdGFuY2VfeCA9IG1pbiggYWJzKCBzZWxmLnggLSBjcmltaW5hbC54ICksIDUwIC0gYWJzKHNlbGYueCAtIHNlbGYueSkpCiAgICAgICAgICAgICAgICBkaXN0YW5jZV95ID0gbWluKCBhYnMoIHNlbGYueSAtIGNyaW1pbmFsLnkpLCA1MCAtIGFicyggc2VsZi55IC0gY3JpbWluYWwueSkpCiAgICAgICAgICAgICAgICBpZiAwIDwgIDw9IHZpc2lvbl9yYWRpdXM6IG5vcnRoID0gRmFsc2UKICAgICAgICAgICAgICAgIGlmIC12aXNpb25fcmFkaXVzIDw9IChjcmltaW5hbC55IC0gc2VsZi55KSA8IDA6IHNvdXRoID0gRmFsc2UKICAgICAgICAgICAgICAgIGlmIDAgPCAoY3JpbWluYWwueCAtIHNlbGYueCkgPD0gdmlzaW9uX3JhZGl1czogZWFzdCA9IEZhbHNlCiAgICAgICAgICAgICAgICBpZiAtdmlzaW9uX3JhZGl1cyA8PSAoY3JpbWluYWwueSAtIHNlbGYueCkgPCAwOiB3ZXN0ID0gRmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3RhbmNlID0gbWF0aC5zcXJ0KG1pbiggYWJzKCBzZWxmLnggLSBjcmltaW5hbC54ICksIDUwIC0gYWJzKHNlbGYueCAtIHNlbGYueSkpXiAyICsgbWluKCBhYnMoIHNlbGYueSAtIGNyaW1pbmFsLnkpLCA1MCAtIGFicyggc2VsZi55IC0gY3JpbWluYWwueSkpXiAyICkK</text>
+        <text encoding="base64">ICAgICAgICAjcmV0dXJuIHBhcmFtc1snYWxwaGEnXSwgcGFyYW1zWydiZXRhJ10sIHBhcmFtc1snbG9jJ10sIHBhcmFtc1snc2NhbGUnXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHhfc2VhcmNoX3BvcyA9IHdyYXAoc2VsZi54ICsgeF9zZWFyY2gsIHNlbGYueSlbMF0K</text>
+        <text encoding="base64">ICAgICAgICAjcmV0dXJuIHBhcmFtc1snbWVhbiddLCBwYXJhbXNbJ3N0ZF9kZXYnXQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>#if agent_role is not 1 or 2 or 3:
-        #    print(&quot;Please enter: CIVILIAN, CRIMINAL, or POLICE to select an agent role to search for.&quot;)
-        #for agent in Agent.getInstances():
-        #     agent_list.append(agent)
-        # Iterate through each cell within cell_radius
-        
-        #civilian_list = [civilian for civilian in agent_list if civilian.role == Agent.Role.CIVILIAN]
-        #police_list = [police for police in agent_list if police.role == Agent.Role.POLICE]
-        #criminal_list = [criminals for criminals in agent_list if criminals.role == Agent.Role.CRIMINAL]</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZnJvemVuID0gZXZhbChjb2RlKQpwcmludChmcm96ZW4pCg==</text>
       </register>
       <register name=":" type="4">
         <text>h matchpairs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
+      <last-search encoding="base64">XDxmcm96ZW5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmcm96ZW5cPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>read_csv</entry>
         <entry>read</entry>
         <entry>outer</entry>
         <entry>normal</entry>
@@ -228,9 +212,10 @@ fixed = ge.dataset.PandasDataSet({
         <entry>and</entry>
         <entry>scale</entry>
         <entry>tuple</entry>
-        <entry encoding="base64">XDxwcmludFw+</entry>
         <entry>beta</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry encoding="base64">XDxwcmludFw+</entry>
+        <entry encoding="base64">XDxmcm96ZW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>h matchpairs</entry>
