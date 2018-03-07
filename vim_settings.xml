@@ -3,16 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1520004761172">
+      <file name="/Dummy.txt" timestamp="1520456116613">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1520450321892">
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1520456704642">
         <mark key="'" line="1515" column="8" />
-        <mark key="[" line="1511" column="118" />
+        <mark key="[" line="1603" column="92" />
         <mark key="m" line="1534" column="21" />
-        <mark key="]" line="1463" column="28" />
-        <mark key="." line="1463" column="28" />
-        <mark key="^" line="1463" column="28" />
+        <mark key="]" line="1602" column="0" />
+        <mark key="." line="1602" column="0" />
       </file>
       <file name="/Python Console" timestamp="1520278247605">
         <mark key="[" line="0" column="0" />
@@ -25,6 +24,7 @@
         <mark key="]" line="95" column="29" />
         <mark key="." line="95" column="29" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_fixtures/distributional_expectations_partition_fixtures.py" timestamp="1520455921567" />
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_fixtures/fixed_distributional_datasets.py" timestamp="1519395036823">
         <mark key="[" line="0" column="67" />
       </file>
@@ -49,23 +49,26 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Agent.py" timestamp="1519844382650">
         <mark key="[" line="69" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1519838742250">
-        <mark key="'" line="2809" column="47" />
-        <mark key="[" line="2000" column="15" />
-        <mark key="]" line="2000" column="16" />
-        <mark key="^" line="1866" column="31" />
-        <mark key="." line="2000" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1520457165332">
+        <mark key="'" line="2813" column="47" />
+        <mark key="[" line="1958" column="12" />
+        <mark key="]" line="1958" column="12" />
+        <mark key="^" line="1957" column="15" />
+        <mark key="." line="1958" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1520450138211">
-        <mark key="[" line="729" column="48" />
-        <mark key="]" line="729" column="113" />
-        <mark key="." line="729" column="113" />
-        <mark key="^" line="729" column="113" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1520456555589">
+        <mark key="[" line="735" column="0" />
+        <mark key="]" line="735" column="0" />
+        <mark key="." line="735" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1520286859484">
         <mark key="]" line="26" column="9" />
         <mark key="^" line="32" column="0" />
         <mark key="." line="26" column="9" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_fixtures/fixed_distribution_data.py" timestamp="1520456768114">
+        <mark key="'" line="12" column="17" />
+        <mark key="[" line="56" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1520449894753">
         <mark key="'" line="11" column="0" />
@@ -139,16 +142,17 @@
       <jump line="1510" column="8" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" />
       <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" />
       <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" />
+      <jump line="12" column="17" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/test_fixtures/fixed_distribution_data.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjcmV0dXJuIHBhcmFtc1snbG9jJ10sIHBhcmFtc1snc2NhbGUnXQo=</text>
+      <register name="&quot;" type="4">
+        <text>provided</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gZXZhbA==</text>
+        <text>provided</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm96ZW5cPg==</text>
@@ -157,31 +161,31 @@
         <text>role=0, crime_</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjcmV0dXJuIHBhcmFtc1snbG9jJ10sIHBhcmFtc1snc2NhbGUnXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbG9jJzogc3RkX2xvYywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjcmV0dXJuIHBhcmFtc1snZGYnXSwgcGFyYW1zWydsb2MnXSwgcGFyYW1zWydzY2FsZSddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3RyKHBvc2l0aW9uYWxfcGFyYW1ldGVycykpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjcmV0dXJuIHBhcmFtc1snbWluJ10sIHBhcmFtc1snbWF4J10K</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZWxpZiAnc3RkX2RldicgaW4gcGFyYW1zLmtleXMoKToKICAgICAgICAgICAgaWYgcGFyYW1zWydzdGRfZGV2J10gPCAwOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigic3RkX2RldiBjYW5ub3QgYmUgbGVzcyB0aGFuIHplcm8iKQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjcmV0dXJuIHBhcmFtc1snbGFtYmRhJ10sIHBhcmFtc1snbG9jJ10K</text>
+        <text encoding="base64">ICAgIGZpeGVkLnRvX2NzdigiLi90ZXN0cy90ZXN0X3NldHMvZml4ZWRfZGlzdHJpYnV0aW9uYWxfdGVzdF9kYXRhc2V0LmNzdiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjcmV0dXJuIHBhcmFtc1snYWxwaGEnXSwgcGFyYW1zWydsb2MnXSwgcGFyYW1zWydzY2FsZSddCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJEb25lIGdlbmVyYXRpbmcgbmV3IGJhc2UgZGF0YSwgcGFydGl0aW9ucywgYW5kIHRlc3QgZGF0YS4iKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRmLnRvX2NzdignLi4vdGVzdF9zZXRzL2Rpc3RyaWJ1dGlvbmFsX2V4cGVjdGF0aW9uc19kYXRhX3Rlc3QuY3N2JywgZmxvYXRfZm9ybWF0PSclLicgKyBzdHIocHJlY2lzaW9uKSArICdnJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjcmV0dXJuIHBhcmFtc1snYWxwaGEnXSwgcGFyYW1zWydiZXRhJ10sIHBhcmFtc1snbG9jJ10sIHBhcmFtc1snc2NhbGUnXQo=</text>
+        <text encoding="base64">ICAgIGRmID0gZ2VuZXJhdGVfbmV3X2RhdGEoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjcmV0dXJuIHBhcmFtc1snbWVhbiddLCBwYXJhbXNbJ3N0ZF9kZXYnXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvemVuID0gZXZhbChjb2RlKQpwcmludChmcm96ZW4pCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlLndyaXRlKGpzb24uZHVtcHModGVzdF9wYXJ0aXRpb25zKSkK</text>
       </register>
       <register name=":" type="4">
         <text>h matchpairs</text>
