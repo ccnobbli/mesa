@@ -33,11 +33,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1520529004964">
+      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1520529637974">
         <mark key="'" line="80" column="0" />
-        <mark key="[" line="93" column="31" />
-        <mark key="]" line="93" column="31" />
-        <mark key="." line="93" column="31" />
+        <mark key="[" line="98" column="96" />
+        <mark key="]" line="98" column="96" />
+        <mark key="." line="98" column="96" />
+        <mark key="^" line="98" column="96" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1520524080437">
         <mark key="[" line="110" column="8" />
@@ -52,10 +53,10 @@
       <file name="/Dummy.txt" timestamp="1520456116613">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/Scratch.py" timestamp="1520525526444">
-        <mark key="[" line="108" column="32" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/Scratch.py" timestamp="1520530038225">
+        <mark key="[" line="40" column="3" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/Coalition.py" timestamp="1519842369664">
         <mark key="[" line="60" column="18" />
@@ -139,8 +140,8 @@
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>list(set(self.crime_place))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGdyaWQudXBkYXRlX2dyaWQoaSkK</text>
       </register>
       <register name="-" type="4">
         <text>list(set(self.crime_place))</text>
@@ -152,32 +153,32 @@
         <text>role=0, crime_</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jcmltZV9wbGFjZS5yZW1vdmUobGFzdF9wbGFjZSkK</text>
+        <text encoding="base64">ICAgIGdyaWQudXBkYXRlX2dyaWQoaSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuY3JpbWVfcGxhY2UucmVtb3ZlKGxhc3RfcGxhY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jcmltZV9wbGFjZSA9IGxpc3Qoc2V0KG1hcCh0dXBsZSwgc2VsZi5jcmltZV9wbGFjZSkpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyByZW1vdmUgY3JpbWVfc2NlbmVzIHRoYXQgd2VyZSBkaXNwYXRjaGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jcmltZV9wbGFjZS5yZW1vdmUobGFzdF9wbGFjZSkK</text>
       </register>
-      <register name="4" type="4">
-        <text>for i in range(num_dispacted):
-                self.crime_place.r</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuY3JpbWVfcGxhY2UucmVtb3ZlKGxhc3RfcGxhY2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyByZW1vdmUgY3JpbWVfc2NlbmVzIHRoYXQgd2VyZSBkaXNwYXRjaGVkCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Zgo=</text>
+      <register name="6" type="4">
+        <text>for i in range(num_dispacted):
+                self.crime_place.r</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBkaXN0YW5jZShzZWxmKToK</text>
+        <text encoding="base64">Zgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFuZG9tLnNodWZmbGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>h matchpairs</text>
