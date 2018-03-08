@@ -33,12 +33,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1520529637974">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="98" column="96" />
-        <mark key="]" line="98" column="96" />
-        <mark key="." line="98" column="96" />
-        <mark key="^" line="98" column="96" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1520534141117">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="78" column="35" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1520524080437">
         <mark key="[" line="110" column="8" />
@@ -141,10 +140,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdyaWQudXBkYXRlX2dyaWQoaSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBGSVhNRQo=</text>
       </register>
       <register name="-" type="4">
-        <text>list(set(self.crime_place))</text>
+        <text>Find the closest police officer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm96ZW5cPg==</text>
@@ -153,29 +152,29 @@
         <text>role=0, crime_</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdyaWQudXBkYXRlX2dyaWQoaSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBGSVhNRQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jcmltZV9wbGFjZSA9IGxpc3Qoc2V0KG1hcCh0dXBsZSwgc2VsZi5jcmltZV9wbGFjZSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIk51bWJlciBvZiBjcmltZXM6ICIgKyBzdHIobGVuKHNlbGYuY3JpbWVfcGxhY2UpKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jcmltZV9wbGFjZS5yZW1vdmUobGFzdF9wbGFjZSkK</text>
+        <text encoding="base64">ICAgIGdyaWQudXBkYXRlX2dyaWQoaSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuY3JpbWVfcGxhY2UucmVtb3ZlKGxhc3RfcGxhY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jcmltZV9wbGFjZSA9IGxpc3Qoc2V0KG1hcCh0dXBsZSwgc2VsZi5jcmltZV9wbGFjZSkpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyByZW1vdmUgY3JpbWVfc2NlbmVzIHRoYXQgd2VyZSBkaXNwYXRjaGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jcmltZV9wbGFjZS5yZW1vdmUobGFzdF9wbGFjZSkK</text>
       </register>
-      <register name="6" type="4">
-        <text>for i in range(num_dispacted):
-                self.crime_place.r</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuY3JpbWVfcGxhY2UucmVtb3ZlKGxhc3RfcGxhY2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyByZW1vdmUgY3JpbWVfc2NlbmVzIHRoYXQgd2VyZSBkaXNwYXRjaGVkCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Zgo=</text>
+      <register name="8" type="4">
+        <text>for i in range(num_dispacted):
+                self.crime_place.r</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
