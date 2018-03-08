@@ -33,11 +33,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1520527232790">
+      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1520529004964">
         <mark key="'" line="80" column="0" />
-        <mark key="[" line="93" column="12" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+        <mark key="[" line="93" column="31" />
+        <mark key="]" line="93" column="31" />
+        <mark key="." line="93" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1520524080437">
         <mark key="[" line="110" column="8" />
@@ -139,11 +139,11 @@
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyByZW1vdmUgY3JpbWVfc2NlbmVzIHRoYXQgd2VyZSBkaXNwYXRjaGVkCg==</text>
+      <register name="&quot;" type="4">
+        <text>list(set(self.crime_place))</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG51bV9kaXNwYWN0ZWQgPSAw</text>
+        <text>list(set(self.crime_place))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm96ZW5cPg==</text>
@@ -152,32 +152,32 @@
         <text>role=0, crime_</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyByZW1vdmUgY3JpbWVfc2NlbmVzIHRoYXQgd2VyZSBkaXNwYXRjaGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jcmltZV9wbGFjZS5yZW1vdmUobGFzdF9wbGFjZSkK</text>
       </register>
-      <register name="2" type="4">
-        <text>for i in range(num_dispacted):
-                self.crime_place.r</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuY3JpbWVfcGxhY2UucmVtb3ZlKGxhc3RfcGxhY2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyByZW1vdmUgY3JpbWVfc2NlbmVzIHRoYXQgd2VyZSBkaXNwYXRjaGVkCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Zgo=</text>
+      <register name="4" type="4">
+        <text>for i in range(num_dispacted):
+                self.crime_place.r</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBkaXN0YW5jZShzZWxmKToK</text>
+        <text encoding="base64">Zgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFuZG9tLnNodWZmbGUK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlZiBkaXN0YW5jZShzZWxmKToK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFuZG9tLnNodWZmbGUK</text>
       </register>
       <register name=":" type="4">
         <text>h matchpairs</text>
