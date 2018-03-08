@@ -33,6 +33,17 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1520525219993">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="95" column="42" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1520524080437">
+        <mark key="[" line="110" column="8" />
+        <mark key="]" line="110" column="8" />
+        <mark key="." line="110" column="8" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/Scratch.py" timestamp="1519839679507">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -41,10 +52,10 @@
       <file name="/Dummy.txt" timestamp="1520456116613">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/Scratch.py" timestamp="1520366661101">
-        <mark key="[" line="106" column="32" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/Scratch.py" timestamp="1520524889072">
+        <mark key="[" line="108" column="32" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/Coalition.py" timestamp="1519842369664">
         <mark key="[" line="60" column="18" />
@@ -53,9 +64,9 @@
         <mark key="'" line="2716" column="47" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1520286859484">
-        <mark key="]" line="26" column="9" />
-        <mark key="^" line="32" column="0" />
-        <mark key="." line="26" column="9" />
+        <mark key="]" line="27" column="9" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="27" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_fixtures/fixed_distribution_data.py" timestamp="1520456768114">
         <mark key="'" line="12" column="17" />
@@ -122,16 +133,17 @@
       <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" />
       <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" />
       <jump line="12" column="17" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/test_fixtures/fixed_distribution_data.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/PycharmProjects/ABM/environment.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>jj</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>print(dist.moment(1))</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBOb3cgbW92ZSBwb2xpY2U=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm96ZW5cPg==</text>
@@ -140,34 +152,31 @@
         <text>role=0, crime_</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">IyBUZXN0IGVycm9uZW91cyBwYXJhbXMKCiAgICAgICAgZGYuZXhwZWN0X2NvbHVtbl9wYXJhbWV0ZXJpemVkX2Rpc3RyaWJ1dGlvbl9rc190ZXN0X3BfdmFsdWVfdG9fYmVfZ3JlYXRlcl90aGFuKCdub3JtJywgJ25vcm0nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFyYW1zPXsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbWVhbic6IC01MCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnc3RkX2Rldic6LTIwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KQoK</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBhc3NlcnQoRmFsc2UpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBwcmludChzdHIoZSkp</text>
-      </register>
-      <register name="4" type="4">
-        <text>self.assertTrue(
-            
-        )</text>
-      </register>
-      <register name="5" type="4">
-        <text>ge.dataset.util.infer_distribution_parameters(
-                                                                                               df.gamma_std, 'gamma')</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkZHJlc3VsdCkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFJlc2V0IHJhbmRvbSBzZWVkCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Zgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBucC5yYW5kb20uc2VlZChOb25lKW5wLnJhbmRvbS5zZWVkKE5vbmUpCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlZiBkaXN0YW5jZShzZWxmKToK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmFuZG9tLnNodWZmbGUK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IyBUZXN0IGVycm9uZW91cyBwYXJhbXMKCiAgICAgICAgZGYuZXhwZWN0X2NvbHVtbl9wYXJhbWV0ZXJpemVkX2Rpc3RyaWJ1dGlvbl9rc190ZXN0X3BfdmFsdWVfdG9fYmVfZ3JlYXRlcl90aGFuKCdub3JtJywgJ25vcm0nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFyYW1zPXsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbWVhbic6IC01MCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnc3RkX2Rldic6LTIwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KQoK</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICBhc3NlcnQoRmFsc2UpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBwcmludChzdHIoZSkp</text>
       </register>
       <register name=":" type="4">
         <text>h matchpairs</text>
