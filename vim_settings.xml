@@ -18,11 +18,6 @@
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_fixtures/fixed_distributional_datasets.py" timestamp="1519395036823">
         <mark key="[" line="0" column="67" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1520450933221">
-        <mark key="[" line="379" column="20" />
-        <mark key="]" line="382" column="0" />
-        <mark key="." line="382" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/main.py" timestamp="1519234690112">
         <mark key="[" line="72" column="15" />
         <mark key="]" line="90" column="38" />
@@ -46,13 +41,6 @@
       <file name="/Dummy.txt" timestamp="1520456116613">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1520521567713">
-        <mark key="'" line="1545" column="8" />
-        <mark key="[" line="1481" column="0" />
-        <mark key="m" line="1584" column="21" />
-        <mark key="]" line="1481" column="0" />
-        <mark key="." line="1481" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/Scratch.py" timestamp="1520366661101">
         <mark key="[" line="106" column="32" />
         <mark key="]" line="89" column="0" />
@@ -62,7 +50,7 @@
         <mark key="[" line="60" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1520457165332">
-        <mark key="'" line="2830" column="47" />
+        <mark key="'" line="2716" column="47" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1520286859484">
         <mark key="]" line="26" column="9" />
