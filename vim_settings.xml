@@ -6,12 +6,13 @@
       <file name="/Dummy.txt" timestamp="1520456116613">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1520456704642">
-        <mark key="'" line="1515" column="8" />
-        <mark key="[" line="1603" column="92" />
-        <mark key="m" line="1534" column="21" />
-        <mark key="]" line="1602" column="0" />
-        <mark key="." line="1602" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1520518368788">
+        <mark key="'" line="1494" column="8" />
+        <mark key="[" line="1521" column="40" />
+        <mark key="m" line="1533" column="21" />
+        <mark key="]" line="1521" column="21" />
+        <mark key="." line="1521" column="21" />
+        <mark key="^" line="1521" column="21" />
       </file>
       <file name="/Python Console" timestamp="1520278247605">
         <mark key="[" line="0" column="0" />
@@ -56,10 +57,10 @@
         <mark key="^" line="1957" column="15" />
         <mark key="." line="1958" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1520456555589">
-        <mark key="[" line="735" column="0" />
-        <mark key="]" line="735" column="0" />
-        <mark key="." line="735" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1520518626679">
+        <mark key="[" line="730" column="24" />
+        <mark key="]" line="733" column="0" />
+        <mark key="." line="733" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1520286859484">
         <mark key="]" line="26" column="9" />
@@ -149,10 +150,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>provided</text>
+        <text>incorrect</text>
       </register>
       <register name="-" type="4">
-        <text>provided</text>
+        <text>incorrect</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm96ZW5cPg==</text>
@@ -160,32 +161,33 @@
       <register name="0" type="4">
         <text>role=0, crime_</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbG9jJzogc3RkX2xvYywK</text>
+      <register name="1" type="4">
+        <text>ge.dataset.util.infer_distribution_parameters(
+                                                                                               df.gamma_std, 'gamma')</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3RyKHBvc2l0aW9uYWxfcGFyYW1ldGVycykpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkZHJlc3VsdCkK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZWxpZiAnc3RkX2RldicgaW4gcGFyYW1zLmtleXMoKToKICAgICAgICAgICAgaWYgcGFyYW1zWydzdGRfZGV2J10gPCAwOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigic3RkX2RldiBjYW5ub3QgYmUgbGVzcyB0aGFuIHplcm8iKQ==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpeGVkLnRvX2NzdigiLi90ZXN0cy90ZXN0X3NldHMvZml4ZWRfZGlzdHJpYnV0aW9uYWxfdGVzdF9kYXRhc2V0LmNzdiIpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJEb25lIGdlbmVyYXRpbmcgbmV3IGJhc2UgZGF0YSwgcGFydGl0aW9ucywgYW5kIHRlc3QgZGF0YS4iKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRmLnRvX2NzdignLi4vdGVzdF9zZXRzL2Rpc3RyaWJ1dGlvbmFsX2V4cGVjdGF0aW9uc19kYXRhX3Rlc3QuY3N2JywgZmxvYXRfZm9ybWF0PSclLicgKyBzdHIocHJlY2lzaW9uKSArICdnJykK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRmID0gZ2VuZXJhdGVfbmV3X2RhdGEoKQo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlLndyaXRlKGpzb24uZHVtcHModGVzdF9wYXJ0aXRpb25zKSkK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIFJlc2V0IHJhbmRvbSBzZWVkCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBucC5yYW5kb20uc2VlZChOb25lKW5wLnJhbmRvbS5zZWVkKE5vbmUpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIyBDb2RlIHVzZWQgdG8gY3JlYXRlIHJlcHJvZHVjaWJsZSBhbmQgc3RhdGljIHRlc3QgZGF0YQogICAgICAgICNucC5yYW5kb20uc2VlZCgxMjM0NSkKICAgICAgICAjZml4ZWQgPSBnZS5kYXRhc2V0LlBhbmRhc0RhdGFTZXQoewogICAgICAgICMgICAgJ25vcm0nOiBzdGF0cy5ub3JtLnJ2cyhsb2M9bm9ybV9tZWFuLCBzY2FsZT1ub3JtX3N0ZCwgc2l6ZT01MDApLAogICAgICAgICMgICAgJ25vcm1fc3RkJzogc3RhdHMubm9ybS5ydnMoc2l6ZT01MDApLAogICAgICAgICMgICAgJ2JldGEnOiBzdGF0cy5iZXRhLnJ2cyhhPWJldGFfYSwgYj1iZXRhX2IsIGxvYz1iZXRhX2xvYywgc2NhbGU9YmV0YV9zY2FsZSwgc2l6ZT01MDApLAogICAgICAgICMgICAgJ2JldGFfc3RkJzogc3RhdHMuYmV0YS5ydnMoYT1iZXRhX2EsIGI9YmV0YV9iLCBzaXplPTUwMCksCiAgICAgICAgIyAgICAnZ2FtbWEnOiBzdGF0cy5nYW1tYS5ydnMoYT1nYW1tYV9hLCBsb2M9Z2FtbWFfbG9jLCBzY2FsZT1nYW1tYV9zY2FsZSwgc2l6ZT01MDApLAogICAgICAgICMgICAgJ2dhbW1hX3N0ZCc6IHN0YXRzLmdhbW1hLnJ2cyhhPWdhbW1hX2EsIHNpemU9NTAwKSwKICAgICAgICAjICAgICdwb2lzc29uJzogc3RhdHMucG9pc3Nvbi5ydnMobXU9cG9pc3Nvbl9sYW1iZGEsIGxvYz1wb2lzc29uX2xvYywgc2l6ZT01MDApLAogICAgICAgICMgICAgJ3BvaXNzb25fc3RkJzogc3RhdHMucG9pc3Nvbi5ydnMobXU9cG9pc3Nvbl9sYW1iZGEsIHNpemU9NTAwKSwKICAgICAgICAjICAgICd1bmlmb3JtJzogc3RhdHMudW5pZm9ybS5ydnMobG9jPXVuaWZvcm1fbG9jLCBzY2FsZT11bmlmb3JtX3NjYWxlLCBzaXplPTUwMCksCiAgICAgICAgIyAgICAndW5pZm9ybV9zdGQnOiBzdGF0cy51bmlmb3JtLnJ2cyhzaXplPTUwMCksCiAgICAgICAgIyAgICAnY2hpMic6IHN0YXRzLmNoaTIucnZzKGRmPWNoaTJfZGYsIGxvYz1jaGkyX2xvYywgc2NhbGU9Y2hpMl9zY2FsZSwgc2l6ZT01MDApLAogICAgICAgICMgICAgJ2NoaTJfc3RkJzogc3RhdHMuY2hpMi5ydnMoZGY9Y2hpMl9kZiwgc2l6ZT01MDApLAogICAgICAgICMgICAgJ2V4cG9uZW50aWFsJzogc3RhdHMuZXhwb24ucnZzKGxvYz1leHBvbl9sb2MsIHNjYWxlPWV4cG9uX3NjYWxlLCBzaXplPTUwMCksCiAgICAgICAgIyAgICAnZXhwb25lbnRpYWxfc3RkJzogc3RhdHMuZXhwb24ucnZzKHNpemU9NTAwKQogICAgICAgICN9KQogICAgICAgICNmaXhlZC50b19jc3YoIi4vdGVzdHMvdGVzdF9zZXRzL2ZpeGVkX2Rpc3RyaWJ1dGlvbmFsX3Rlc3RfZGF0YXNldC5jc3YiKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbG9jJzogc3RkX2xvYywK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3RyKHBvc2l0aW9uYWxfcGFyYW1ldGVycykpCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ZWxpZiAnc3RkX2RldicgaW4gcGFyYW1zLmtleXMoKToKICAgICAgICAgICAgaWYgcGFyYW1zWydzdGRfZGV2J10gPCAwOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigic3RkX2RldiBjYW5ub3QgYmUgbGVzcyB0aGFuIHplcm8iKQ==</text>
       </register>
       <register name=":" type="4">
         <text>h matchpairs</text>
