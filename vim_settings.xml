@@ -21,6 +21,9 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/batch_scratch.py" timestamp="1520605623890">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/__init__.py" timestamp="1520611573702">
+        <mark key="[" line="24" column="11" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/Agent.py" timestamp="1519844382650">
         <mark key="[" line="69" column="18" />
       </file>
@@ -57,8 +60,12 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Coalition.py" timestamp="1519842369664">
         <mark key="[" line="60" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1520457165332">
-        <mark key="'" line="2747" column="47" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1520612201575">
+        <mark key="'" line="2755" column="47" />
+        <mark key="[" line="210" column="62" />
+        <mark key="]" line="210" column="61" />
+        <mark key="^" line="210" column="61" />
+        <mark key="." line="210" column="61" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1520286859484">
         <mark key="]" line="27" column="9" />
