@@ -60,12 +60,12 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Coalition.py" timestamp="1519842369664">
         <mark key="[" line="60" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1520612201575">
-        <mark key="'" line="2755" column="47" />
-        <mark key="[" line="210" column="62" />
-        <mark key="]" line="210" column="61" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1520613035030">
+        <mark key="'" line="2759" column="47" />
+        <mark key="[" line="220" column="47" />
+        <mark key="]" line="220" column="47" />
         <mark key="^" line="210" column="61" />
-        <mark key="." line="210" column="61" />
+        <mark key="." line="220" column="47" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1520286859484">
         <mark key="]" line="27" column="9" />
@@ -144,10 +144,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">IGBfZXhwZWN0YXRpb25fY29uZmlnYA==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IGBfZXhwZWN0YXRpb25fY29uZmlnYA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm96ZW5cPg==</text>
