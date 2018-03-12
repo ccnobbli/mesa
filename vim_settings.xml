@@ -27,10 +27,10 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Agent.py" timestamp="1519844382650">
         <mark key="[" line="69" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/batch.py" timestamp="1520878837145">
-        <mark key="[" line="81" column="23" />
-        <mark key="]" line="81" column="23" />
-        <mark key="." line="81" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/batch.py" timestamp="1520882011186">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1520609319794" />
       <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1520449894753">
@@ -40,12 +40,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1520603471690">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="78" column="35" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-      </file>
+      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1520603471690" />
       <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1520524080437">
         <mark key="[" line="110" column="8" />
         <mark key="]" line="110" column="8" />
@@ -142,11 +137,11 @@
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Average</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjYXgxLnNldF9hc3BlY3QoMSkK</text>
       </register>
       <register name="-" type="4">
-        <text>Average</text>
+        <text encoding="base64">ICNheDEuc2V0X2FzcGVjdCgxKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm96ZW5cPg==</text>
@@ -154,19 +149,25 @@
       <register name="0" type="4">
         <text>role=0, crime_</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgCiAgICAgICAgOnJldHVybjog</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAjYXgxLnNldF9hc3BlY3QoMSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jaXZpbGlhbl90aW1lc19yb2JiZWRbY2l2aWxpYW4udWlkXXNlbGYuY2l2aWxpYW5fdGltZXNfcm9iYmVkW2NpdmlsaWFuLnVpZF1kZAo=</text>
+        <text encoding="base64">ICAgICAgICBheDEuc2V0X2FzcGVjdCgxKQo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAKICAgICAgICBwbHQudGl0bGUoIkFnZ3JlZ2F0ZWQgQ2l2aWxpYW4gTG9jYXRpb25zIikKICAgICAgICBwbHQuaW1zaG93KGFnZ19jaXZpbGlhbl9sb2NhdGlvbnMsIGNtYXA9J2hvdCcsIGFzcGVjdD0nYXV0bycpCiAgICAgICAgcGx0LnNob3coKQ==</text>
+        <text encoding="base64">ICAgICAgCiAgICAgICAgOnJldHVybjog</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgYXgxLnNldF9hc3BlY3Qo</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jaXZpbGlhbl90aW1lc19yb2JiZWRbY2l2aWxpYW4udWlkXXNlbGYuY2l2aWxpYW5fdGltZXNfcm9iYmVkW2NpdmlsaWFuLnVpZF1kZAo=</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">ICAKICAgICAgICBwbHQudGl0bGUoIkFnZ3JlZ2F0ZWQgQ2l2aWxpYW4gTG9jYXRpb25zIikKICAgICAgICBwbHQuaW1zaG93KGFnZ19jaXZpbGlhbl9sb2NhdGlvbnMsIGNtYXA9J2hvdCcsIGFzcGVjdD0nYXV0bycpCiAgICAgICAgcGx0LnNob3coKQ==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgYXgxLnNldF9hc3BlY3Qo</text>
+      </register>
+      <register name="7" type="4">
         <text>f, (ax1, ax2, ax3) = plt.subplots(1, 3, sharey=True)
         ax1.imshow(init_police_location, cmap='hot', aspect='auto')
         ax1.set_title(&quot;Initial Police Locations&quot;)
@@ -174,17 +175,11 @@
         ax2.set_title(&quot;Average Police Locations&quot;)
         ax3.imshow(crime_loc, cmap='hot', aspect='auto')</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAjIFBvbGljZSBMb2NhdGlvbiBoZWF0bWFwcwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">bGVuKGdyaWQuY3JpbWVzX3RoaXNfdHVybikK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgcHJpbnQoaSk=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">dGhlIGV4cGVjdGF0aW9ucyBnZW5lcmF0ZWQgaW4geW91ciBjdXJyZW50IHNlc3Npb24sIG9yIFwKICAgICAgICAgICA=</text>
+        <text encoding="base64">bGVuKGdyaWQuY3JpbWVzX3RoaXNfdHVybikK</text>
       </register>
       <register name=":" type="4">
         <text>h matchpairs</text>
