@@ -27,10 +27,10 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Agent.py" timestamp="1519844382650">
         <mark key="[" line="69" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/batch.py" timestamp="1520606405175">
-        <mark key="[" line="65" column="47" />
-        <mark key="]" line="65" column="47" />
-        <mark key="." line="65" column="47" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/batch.py" timestamp="1520866573982">
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="37" column="8" />
+        <mark key="." line="37" column="8" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1520609319794" />
       <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1520449894753">
@@ -54,17 +54,17 @@
       <file name="/Dummy.txt" timestamp="1520605541507">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/Scratch.py" timestamp="1520606108836">
+      <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/Scratch.py" timestamp="1520866533605">
         <mark key="[" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/Coalition.py" timestamp="1519842369664">
         <mark key="[" line="60" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1520864680254">
-        <mark key="'" line="2892" column="47" />
-        <mark key="[" line="730" column="21" />
-        <mark key="]" line="730" column="21" />
-        <mark key="." line="730" column="21" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1520865659155">
+        <mark key="'" line="2895" column="47" />
+        <mark key="[" line="699" column="64" />
+        <mark key="]" line="699" column="64" />
+        <mark key="." line="699" column="64" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1520286859484">
         <mark key="]" line="27" column="9" />
@@ -143,10 +143,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>expectation 2</text>
+        <text>civ_wealth = [x.resources[0] for x in grid.civilians]</text>
       </register>
       <register name="-" type="4">
-        <text>expectation 2</text>
+        <text>civ_wealth = [x.resources[0] for x in grid.civilians]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm96ZW5cPg==</text>
@@ -154,32 +154,32 @@
       <register name="0" type="4">
         <text>role=0, crime_</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIElmIEZhbHNlLCBhbGwgZXhwZWN0YXRpb25zIGFyZSB3cml0dGVuIHRvIHRoZSBKU09OIGNvbmZpZyBmaWxlLgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">bGVuKGdyaWQuY3JpbWVzX3RoaXNfdHVybikK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIElmIEZhbHNlLCBpdCByZW1haW5zIGZvciBlYWNoIGV4cGVjdGF0aW9uLgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgcHJpbnQoaSk=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIElmIEZhbHNlLCBpdCByZW1haW5zIGZvciBlYWNoIGV4cGVjdGF0aW9uLgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">dGhlIGV4cGVjdGF0aW9ucyBnZW5lcmF0ZWQgaW4geW91ciBjdXJyZW50IHNlc3Npb24sIG9yIFwKICAgICAgICAgICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIElmIEZhbHNlLCBhbGwgZXhwZWN0YXRpb25zIGFyZSB3cml0dGVuIHRvIHRoZSBKU09OIGNvbmZpZyBmaWxlLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRoZSBjb3B5IG9mIHRoZSBleHBlY3RhdGlvbiB3aWxsIG5vdCBoYXZlIGBzdWNjZXNzX29uX2xhc3RfcnVuYCBrZXktdmFsdWUuIFRoZSBvdGhlciBrZXktdmFsdWUgcGFpcnMgXAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIElmIEZhbHNlLCBpdCByZW1haW5zIGZvciBlYWNoIGV4cGVjdGF0aW9uLgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">bmV3X2V4cGVjdGF0aW9uOgogICAgICAgICAgICAgICAgICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIElmIEZhbHNlLCBpdCByZW1haW5zIGZvciBlYWNoIGV4cGVjdGF0aW9uLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFRoZSBjb3B5IG9mIHRoZSBleHBlY3RhdGlvbiB3aWxsIG5vdCBoYXZlIGBzdWNjZXNzX29uX2xhc3RfcnVuYCBrZXktdmFsdWUuIFRoZSBvdGhlciBrZXktdmFsdWUgcGFpcnMgXAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">bmV3X2V4cGVjdGF0aW9uOgogICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>h matchpairs</text>
