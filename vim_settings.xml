@@ -60,12 +60,12 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Coalition.py" timestamp="1519842369664">
         <mark key="[" line="60" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1520619219846">
-        <mark key="'" line="2780" column="47" />
-        <mark key="[" line="253" column="60" />
-        <mark key="]" line="251" column="42" />
-        <mark key="^" line="251" column="42" />
-        <mark key="." line="251" column="42" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1520621142426">
+        <mark key="'" line="2833" column="47" />
+        <mark key="[" line="365" column="29" />
+        <mark key="]" line="365" column="29" />
+        <mark key="." line="365" column="29" />
+        <mark key="^" line="315" column="48" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1520286859484">
         <mark key="]" line="27" column="9" />
@@ -144,10 +144,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGBfZXhwZWN0YXRpb25fY29uZmlnYA==</text>
+        <text encoding="base64">Y29waWVzIG9mIHRoZSBwcm92aWRlZCA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGBfZXhwZWN0YXRpb25fY29uZmlnYA==</text>
+        <text encoding="base64">Y29waWVzIG9mIHRoZSBwcm92aWRlZCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm96ZW5cPg==</text>
@@ -156,31 +156,31 @@
         <text>role=0, crime_</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFRoZSBjb3B5IG9mIHRoZSBleHBlY3RhdGlvbiB3aWxsIG5vdCBoYXZlIGBzdWNjZXNzX29uX2xhc3RfcnVuYCBrZXktdmFsdWUuIFRoZSBvdGhlciBrZXktdmFsdWUgcGFpcnMgXAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">bmV3X2V4cGVjdGF0aW9uOgogICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBGSVhNRQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIk51bWJlciBvZiBjcmltZXM6ICIgKyBzdHIobGVuKHNlbGYuY3JpbWVfcGxhY2UpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdyaWQudXBkYXRlX2dyaWQoaSkK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jcmltZV9wbGFjZSA9IGxpc3Qoc2V0KG1hcCh0dXBsZSwgc2VsZi5jcmltZV9wbGFjZSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBGSVhNRQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jcmltZV9wbGFjZS5yZW1vdmUobGFzdF9wbGFjZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIk51bWJlciBvZiBjcmltZXM6ICIgKyBzdHIobGVuKHNlbGYuY3JpbWVfcGxhY2UpKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuY3JpbWVfcGxhY2UucmVtb3ZlKGxhc3RfcGxhY2UpCg==</text>
+        <text encoding="base64">ICAgIGdyaWQudXBkYXRlX2dyaWQoaSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyByZW1vdmUgY3JpbWVfc2NlbmVzIHRoYXQgd2VyZSBkaXNwYXRjaGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jcmltZV9wbGFjZSA9IGxpc3Qoc2V0KG1hcCh0dXBsZSwgc2VsZi5jcmltZV9wbGFjZSkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>h matchpairs</text>
