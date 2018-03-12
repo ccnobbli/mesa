@@ -60,9 +60,11 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Coalition.py" timestamp="1519842369664">
         <mark key="[" line="60" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1520861011661">
-        <mark key="'" line="2856" column="47" />
-        <mark key="[" line="678" column="68" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1520864680254">
+        <mark key="'" line="2892" column="47" />
+        <mark key="[" line="730" column="21" />
+        <mark key="]" line="730" column="21" />
+        <mark key="." line="730" column="21" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1520286859484">
         <mark key="]" line="27" column="9" />
@@ -140,11 +142,11 @@
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIElmIEZhbHNlLCBhbGwgZXhwZWN0YXRpb25zIGFyZSB3cml0dGVuIHRvIHRoZSBKU09OIGNvbmZpZyBmaWxlLgo=</text>
+      <register name="&quot;" type="4">
+        <text>expectation 2</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIElmIEZhbHNlLCBpdCByZW1haW5zIGZvciBlYWNoIGV4Y2VwdGlvbi4=</text>
+        <text>expectation 2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm96ZW5cPg==</text>
