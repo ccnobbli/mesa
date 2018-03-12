@@ -27,10 +27,10 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Agent.py" timestamp="1519844382650">
         <mark key="[" line="69" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/batch.py" timestamp="1520868363470">
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="37" column="8" />
-        <mark key="." line="37" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/batch.py" timestamp="1520878837145">
+        <mark key="[" line="81" column="23" />
+        <mark key="]" line="81" column="23" />
+        <mark key="." line="81" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1520609319794" />
       <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1520449894753">
@@ -54,7 +54,7 @@
       <file name="/Dummy.txt" timestamp="1520605541507">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/Scratch.py" timestamp="1520866533605">
+      <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/Scratch.py" timestamp="1520878789115">
         <mark key="[" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/Coalition.py" timestamp="1519842369664">
@@ -143,10 +143,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>civ_wealth = [x.resources[0] for x in grid.civilians]</text>
+        <text>Average</text>
       </register>
       <register name="-" type="4">
-        <text>civ_wealth = [x.resources[0] for x in grid.civilians]</text>
+        <text>Average</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm96ZW5cPg==</text>
@@ -155,31 +155,36 @@
         <text>role=0, crime_</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">bGVuKGdyaWQuY3JpbWVzX3RoaXNfdHVybikK</text>
+        <text encoding="base64">ICAgICAgCiAgICAgICAgOnJldHVybjog</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgcHJpbnQoaSk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jaXZpbGlhbl90aW1lc19yb2JiZWRbY2l2aWxpYW4udWlkXXNlbGYuY2l2aWxpYW5fdGltZXNfcm9iYmVkW2NpdmlsaWFuLnVpZF1kZAo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">dGhlIGV4cGVjdGF0aW9ucyBnZW5lcmF0ZWQgaW4geW91ciBjdXJyZW50IHNlc3Npb24sIG9yIFwKICAgICAgICAgICA=</text>
+        <text encoding="base64">ICAKICAgICAgICBwbHQudGl0bGUoIkFnZ3JlZ2F0ZWQgQ2l2aWxpYW4gTG9jYXRpb25zIikKICAgICAgICBwbHQuaW1zaG93KGFnZ19jaXZpbGlhbl9sb2NhdGlvbnMsIGNtYXA9J2hvdCcsIGFzcGVjdD0nYXV0bycpCiAgICAgICAgcGx0LnNob3coKQ==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIElmIEZhbHNlLCBhbGwgZXhwZWN0YXRpb25zIGFyZSB3cml0dGVuIHRvIHRoZSBKU09OIGNvbmZpZyBmaWxlLgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgYXgxLnNldF9hc3BlY3Qo</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIElmIEZhbHNlLCBpdCByZW1haW5zIGZvciBlYWNoIGV4cGVjdGF0aW9uLgo=</text>
+      <register name="5" type="4">
+        <text>f, (ax1, ax2, ax3) = plt.subplots(1, 3, sharey=True)
+        ax1.imshow(init_police_location, cmap='hot', aspect='auto')
+        ax1.set_title(&quot;Initial Police Locations&quot;)
+        ax2.imshow(police_loc, cmap='hot', aspect='auto')
+        ax2.set_title(&quot;Average Police Locations&quot;)
+        ax3.imshow(crime_loc, cmap='hot', aspect='auto')</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIElmIEZhbHNlLCBpdCByZW1haW5zIGZvciBlYWNoIGV4cGVjdGF0aW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICAjIFBvbGljZSBMb2NhdGlvbiBoZWF0bWFwcwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">bGVuKGdyaWQuY3JpbWVzX3RoaXNfdHVybikK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRoZSBjb3B5IG9mIHRoZSBleHBlY3RhdGlvbiB3aWxsIG5vdCBoYXZlIGBzdWNjZXNzX29uX2xhc3RfcnVuYCBrZXktdmFsdWUuIFRoZSBvdGhlciBrZXktdmFsdWUgcGFpcnMgXAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgcHJpbnQoaSk=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">bmV3X2V4cGVjdGF0aW9uOgogICAgICAgICAgICAgICAgICA=</text>
+        <text encoding="base64">dGhlIGV4cGVjdGF0aW9ucyBnZW5lcmF0ZWQgaW4geW91ciBjdXJyZW50IHNlc3Npb24sIG9yIFwKICAgICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>h matchpairs</text>
