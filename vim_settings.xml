@@ -41,10 +41,10 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1520884995608">
-        <mark key="[" line="50" column="8" />
-        <mark key="]" line="50" column="8" />
-        <mark key="." line="50" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1520964413084">
+        <mark key="[" line="184" column="30" />
+        <mark key="]" line="184" column="30" />
+        <mark key="." line="184" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1520962334275">
         <mark key="[" line="113" column="8" />
@@ -66,7 +66,7 @@
         <mark key="]" line="699" column="64" />
         <mark key="." line="699" column="64" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1520963096089">
+      <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1520963985353">
         <mark key="]" line="27" column="9" />
         <mark key="^" line="33" column="0" />
         <mark key="." line="27" column="9" />
@@ -144,19 +144,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text># FIXME Took this out for now - was causing issues - also the global lists for agents and roles are already made in populate()
-        total_agent_list = []
-
-        #for agent in Agent.getInstances():
-         #  total_agent_list.append(agent)
-         #  if agent.Role.CIVILIAN:
-        #       self.civilians.append(agent)
-        #   if agent.Role.POLICE:
-        #       self.police.append(agent)
-           #if agent is in a crime coalition, append coalition list here</text>
+        <text>hierarchy=new_coalition)</text>
       </register>
       <register name="-" type="4">
-        <text>self.members[0].look_for_agents(agent_role=Agent.Role.CIVILIAN, cell_radius=crime_radius, agents_list=civilians)</text>
+        <text>hierarchy=new_coalition)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm96ZW5cPg==</text>
