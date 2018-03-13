@@ -28,10 +28,10 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Agent.py" timestamp="1519844382650">
         <mark key="[" line="69" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/batch.py" timestamp="1520882011186">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/batch.py" timestamp="1520965290666">
+        <mark key="[" line="88" column="43" />
+        <mark key="]" line="88" column="43" />
+        <mark key="." line="88" column="43" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1520609319794" />
       <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1520449894753">
@@ -144,10 +144,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>hierarchy=new_coalition)</text>
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>hierarchy=new_coalition)</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm96ZW5cPg==</text>
