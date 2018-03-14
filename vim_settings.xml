@@ -43,7 +43,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1520967262474" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1521056647491">
+        <mark key="[" line="186" column="32" />
+        <mark key="]" line="186" column="32" />
+        <mark key="." line="186" column="32" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1520966626378">
         <mark key="[" line="115" column="8" />
         <mark key="]" line="115" column="8" />
@@ -150,10 +154,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CmRpc3RyaWJ1dGlvbiA9ICdub3JtJwoKZnJvemVuID0gZXZhbCgic3RhdHMuIiArIGRpc3RyaWJ1dGlvbiArICcoKScpCiNwcmludChjb2RlKQojZnJvemVuID0gZXZhbChjb2RlKQpwcmludChmcm96ZW4p</text>
+        <text>np.random.randint(0, self.config['grid_width'] + 1)</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>np.random.randint(0, self.config['grid_width'] + 1)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm96ZW5cPg==</text>
