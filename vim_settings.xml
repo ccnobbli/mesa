@@ -38,12 +38,10 @@
         <mark key="." line="88" column="43" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1520609319794" />
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1520449894753">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1521055535878">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1520967262474" />
       <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1520966626378">
@@ -73,7 +71,7 @@
         <mark key="]" line="699" column="64" />
         <mark key="." line="699" column="64" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1521054273124">
+      <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1521055988462">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="34" column="0" />
@@ -151,8 +149,8 @@
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdjaXZpbGlhbl92aXNpb25fcmFkaXVzJzogMwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CmRpc3RyaWJ1dGlvbiA9ICdub3JtJwoKZnJvemVuID0gZXZhbCgic3RhdHMuIiArIGRpc3RyaWJ1dGlvbiArICcoKScpCiNwcmludChjb2RlKQojZnJvemVuID0gZXZhbChjb2RlKQpwcmludChmcm96ZW4p</text>
       </register>
       <register name="-" type="4">
         <text>100</text>
@@ -163,32 +161,32 @@
       <register name="0" type="4">
         <text>role=0, crime_</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICdjaXZpbGlhbl92aXNpb25fcmFkaXVzJzogMwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmRpc3RyaWJ1dGlvbiA9ICdub3JtJwoKZnJvemVuID0gZXZhbCgic3RhdHMuIiArIGRpc3RyaWJ1dGlvbiArICcoKScpCiNwcmludChjb2RlKQojZnJvemVuID0gZXZhbChjb2RlKQpwcmludChmcm96ZW4p</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICNncmlkLnVwZGF0ZV9ncmlkKGkpCg==</text>
+        <text encoding="base64">ICAgICdjaXZpbGlhbl92aXNpb25fcmFkaXVzJzogMwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICNncmlkLnVwZGF0ZV9ncmlkKGkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaS55ICs9IDEK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgaSBpbiBzZWxmLm1lbWJlcnM6Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnkgKz0gMQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4K</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaS55ICs9IDEK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgaSBpbiBzZWxmLm1lbWJlcnM6Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnkgKz0gMQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaS54ICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgaSBpbiBzZWxmLm1lbWJlcnM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaS54ICs9IDEK</text>
       </register>
       <register name=":" type="4">
         <text>h matchpairs</text>
