@@ -21,6 +21,7 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/batch_scratch.py" timestamp="1520605623890">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1521129905560" />
       <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/__init__.py" timestamp="1520611573702">
         <mark key="[" line="24" column="11" />
       </file>
@@ -37,7 +38,13 @@
         <mark key="]" line="89" column="43" />
         <mark key="." line="89" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1520609319794" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1521129748385">
+        <mark key="'" line="1110" column="20" />
+        <mark key="[" line="729" column="39" />
+        <mark key="]" line="729" column="59" />
+        <mark key="." line="729" column="59" />
+        <mark key="^" line="729" column="59" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1521055535878">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -70,10 +77,7 @@
         <mark key="[" line="60" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1520865659155">
-        <mark key="'" line="2895" column="47" />
-        <mark key="[" line="699" column="64" />
-        <mark key="]" line="699" column="64" />
-        <mark key="." line="699" column="64" />
+        <mark key="'" line="2830" column="47" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1521124282230">
         <mark key="[" line="7" column="0" />
@@ -148,71 +152,71 @@
       <jump line="12" column="17" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/test_fixtures/fixed_distribution_data.py" />
       <jump line="80" column="0" filename="$USER_HOME$/PycharmProjects/ABM/environment.py" />
       <jump line="123" column="15" filename="$USER_HOME$/PycharmProjects/ABM/Coalition_Crime.py" />
+      <jump line="707" column="48" filename="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" />
+      <jump line="1111" column="20" filename="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>np.random.randint(0, self.config['grid_width'] + 1)</text>
+        <text>params</text>
       </register>
       <register name="-" type="4">
-        <text>np.random.randint(0, self.config['grid_width'] + 1)</text>
+        <text>params</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmcm96ZW5cPg==</text>
+        <text>parameterized</text>
       </register>
       <register name="0" type="4">
         <text>role=0, crime_</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CmRpc3RyaWJ1dGlvbiA9ICdub3JtJwoKZnJvemVuID0gZXZhbCgic3RhdHMuIiArIGRpc3RyaWJ1dGlvbiArICcoKScpCiNwcmludChjb2RlKQojZnJvemVuID0gZXZhbChjb2RlKQpwcmludChmcm96ZW4p</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAia3Nfc3RhdGlzdGljIjoga3NfcmVzdWx0WzBdLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdjaXZpbGlhbl92aXNpb25fcmFkaXVzJzogMwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInRydWVfdmFsdWUiOiAwLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICNncmlkLnVwZGF0ZV9ncmlkKGkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICBkaXN0cmlidXRpb25fb2JqZWN0ID0gZ2V0YXR0cihzdGF0cywgZGlzdHJpYnV0aW9uKShwb3NpdGlvbmFsX3BhcmFtZXRlcnMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaS55ICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgaSBpbiBzZWxmLm1lbWJlcnM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRyeSB0byBkZXRlY3QgYmFkIHBhcmFtZXRlcnMKICAgICAgICB0cnk6CiAgICAgICAgICAgICMgRnJvemVuIFNjaXB5IFBhcmFtcyB0ZXN0IC0gdGVzdCBpZiBhbnkgZXJyb3JzIGFyZSB0aHJvd24gd2hlbiB3ZSB0cnkgdG8gY3JlYXRlIHRoaXMgZGlzdHJpYnV0aW9uCiAgICAgICAgICAgIGRpc3QgPSBldmFsKCJzdGF0cy4iICsgZGlzdHJpYnV0aW9uICsgc3RyKHBvc2l0aW9uYWxfcGFyYW1ldGVycykpCiAgICAgICAgICAgICNpZiBkaXN0Lm1vbWVudCgwKSA9PSAnRm5hbic6CiAgICAgICAgICAgICMgICAgcmFpc2UgVmFsdWVFcnJvcigiSXQgYXBwZWFycyB5b3UgYXJlIHVzaW5nIGJhZCBwYXJhbWV0ZXJzLCBzZWUgc2NpcHkuc3RhdHMgZG9jdW1lbnRhdGlvbiIpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnkgKz0gMQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CmRpc3RyaWJ1dGlvbiA9ICdub3JtJwoKZnJvemVuID0gZXZhbCgic3RhdHMuIiArIGRpc3RyaWJ1dGlvbiArICcoKScpCiNwcmludChjb2RlKQojZnJvemVuID0gZXZhbChjb2RlKQpwcmludChmcm96ZW4p</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICdjaXZpbGlhbl92aXNpb25fcmFkaXVzJzogMwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaS54ICs9IDEK</text>
+        <text encoding="base64">ICAgICNncmlkLnVwZGF0ZV9ncmlkKGkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>h matchpairs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmcm96ZW5cPg==</last-search>
+      <last-search>parameterized</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmcm96ZW5cPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>parameterized</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>read</entry>
         <entry>outer</entry>
         <entry>normal</entry>
         <entry>norm</entry>
         <entry>beta(</entry>
         <entry>norm'</entry>
         <entry>mean =</entry>
-        <entry>ks_test</entry>
         <entry>distribution</entry>
         <entry>p_value_to_be_greater</entry>
         <entry>gamma</entry>
@@ -225,9 +229,12 @@
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry encoding="base64">XDxwcmludFw+</entry>
         <entry encoding="base64">XDxmcm96ZW5cPg==</entry>
+        <entry>ks_test</entry>
+        <entry>parameterized</entry>
       </history-search>
       <history-cmd>
         <entry>h matchpairs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
