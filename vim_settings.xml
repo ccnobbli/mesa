@@ -21,10 +21,11 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/batch_scratch.py" timestamp="1520605623890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1521135817966">
-        <mark key="[" line="459" column="111" />
-        <mark key="]" line="459" column="111" />
-        <mark key="." line="459" column="111" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1521211560760">
+        <mark key="[" line="466" column="34" />
+        <mark key="]" line="466" column="34" />
+        <mark key="." line="466" column="34" />
+        <mark key="^" line="493" column="115" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/__init__.py" timestamp="1520611573702">
         <mark key="[" line="24" column="11" />
@@ -164,10 +165,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, parameters 0 and 1</text>
+        <text>beta distributions can have at most 4 parameters: 'alpha', 'beta', 'loc', 'scale'&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>, parameters 0 and 1</text>
+        <text>beta distributions can have at most 4 parameters: 'alpha', 'beta', 'loc', 'scale'&quot;</text>
       </register>
       <register name="/" type="4">
         <text>parameterized</text>
