@@ -20,11 +20,11 @@
         <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_fixtures/distributional_expectations_partition_fixtures.py" timestamp="1520455921567" />
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" timestamp="1521477673398">
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" timestamp="1521479683236">
         <mark key="'" line="339" column="10" />
-        <mark key="[" line="277" column="21" />
-        <mark key="]" line="277" column="21" />
-        <mark key="." line="277" column="21" />
+        <mark key="[" line="580" column="85" />
+        <mark key="]" line="580" column="85" />
+        <mark key="." line="580" column="85" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_fixtures/fixed_distributional_datasets.py" timestamp="1519395036823">
         <mark key="[" line="0" column="67" />
@@ -32,7 +32,11 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/batch_scratch.py" timestamp="1520605623890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1521470208676" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1521479564644">
+        <mark key="[" line="517" column="16" />
+        <mark key="]" line="517" column="16" />
+        <mark key="." line="517" column="16" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/__init__.py" timestamp="1520611573702">
         <mark key="[" line="24" column="11" />
       </file>
@@ -183,10 +187,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>gamma</text>
+        <text>lambda is negative</text>
       </register>
       <register name="-" type="4">
-        <text>gamma</text>
+        <text>lambda is negative</text>
       </register>
       <register name="/" type="4">
         <text>&quot;&quot;</text>
@@ -194,14 +198,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICJ0cmFjZWJhY2tfc3Vic3RyaW5nIjogIkludmFsaWQgcGFyYW1ldGVyczogY2hpMiBkaXN0cmlidXRpb25zIHJlcXVpcmUgMSBwb3NpdGl2ZSBwYXJhbWV0ZXIgJ2RmJyBhbmQgb3B0aW9uYWxseSAnbG9jJywgJ3NjYWxlJy4iCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ0cmFjZWJhY2tfc3Vic3RyaW5nIjogIiIK</text>
+      <register name="1" type="4">
+        <text encoding="base64">OgogICAgICAgICAgICAgICAgaWYg</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICJ0cmFjZWJhY2tfc3Vic3RyaW5nIjogIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAidGl0bGUiOiAiIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICJ0cmFjZWJhY2tfc3Vic3RyaW5nIjogIiIK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAidGl0bGUiOiAiIiwK</text>
@@ -210,16 +214,16 @@
         <text encoding="base64">ICAgICAgICAidGl0bGUiOiAiIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ0cmFjZWJhY2tfc3Vic3RyaW5nIjogIiIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJ0cmFjZWJhY2tfc3Vic3RyaW5nIjogIiIK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAidGl0bGUiOiAiIiwK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAic3VjY2VzcyI6IHRydWUKICAgICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICJ0cmFjZWJhY2tfc3Vic3RyaW5nIjogIiIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJ0cmFjZWJhY2tfc3Vic3RyaW5nIjogIiIK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAidGl0bGUiOiAiIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
