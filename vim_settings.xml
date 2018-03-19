@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset_distributional_expectations.py" timestamp="1521466385259">
+        <mark key="[" line="548" column="0" />
+        <mark key="]" line="548" column="0" />
+        <mark key="." line="548" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1520278247605">
         <mark key="[" line="0" column="0" />
       </file>
@@ -15,12 +20,19 @@
         <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_fixtures/distributional_expectations_partition_fixtures.py" timestamp="1520455921567" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" timestamp="1521470320009">
+        <mark key="'" line="283" column="10" />
+        <mark key="[" line="300" column="18" />
+        <mark key="]" line="311" column="0" />
+        <mark key="." line="311" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_fixtures/fixed_distributional_datasets.py" timestamp="1519395036823">
         <mark key="[" line="0" column="67" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/batch_scratch.py" timestamp="1520605623890">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1521470208676" />
       <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/__init__.py" timestamp="1520611573702">
         <mark key="[" line="24" column="11" />
       </file>
@@ -37,7 +49,7 @@
         <mark key="]" line="89" column="43" />
         <mark key="." line="89" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1521465447826" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1521467306275" />
       <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1521055535878">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -148,67 +160,80 @@
       <jump line="707" column="48" filename="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" />
       <jump line="1111" column="20" filename="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" />
       <jump line="363" column="19" filename="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" />
+      <jump line="202" column="83" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" />
+      <jump line="208" column="30" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" />
+      <jump line="194" column="30" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" />
+      <jump line="236" column="31" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" />
+      <jump line="359" column="0" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" />
+      <jump line="227" column="10" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" />
+      <jump line="255" column="136" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" />
+      <jump line="269" column="0" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" />
+      <jump line="244" column="8" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" />
+      <jump line="261" column="8" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" />
+      <jump line="264" column="33" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" />
+      <jump line="258" column="101" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" />
+      <jump line="272" column="11" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" />
+      <jump line="289" column="8" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" />
+      <jump line="297" column="33" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" />
+      <jump line="283" column="10" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGRlZmluZSBpdCBiZXR0ZXI=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICJ0cmFjZWJhY2tfc3Vic3RyaW5nIjogIiIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRlZmluZSBpdCBiZXR0ZXI=</text>
+        <text encoding="base64">IGk=</text>
       </register>
       <register name="/" type="4">
-        <text>parameterized</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdW5pZm9ybV9tc2cgPSAidW5pZm9ybSBkaXN0cmlidXRpb25zIHJlcXVpcmUgMCBwYXJhbWV0ZXJzIGFuZCBvcHRpb25hbGx5ICdsb2MnLCAnc2NhbGUnLiIK</text>
+        <text encoding="base64">ICAgICAgICAgICJ0cmFjZWJhY2tfc3Vic3RyaW5nIjogIkludmFsaWQgcGFyYW1ldGVyczogY2hpMiBkaXN0cmlidXRpb25zIHJlcXVpcmUgMSBwb3NpdGl2ZSBwYXJhbWV0ZXIgJ2RmJyBhbmQgb3B0aW9uYWxseSAnbG9jJywgJ3NjYWxlJy4iCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICBlbGlmIHBhcmFtc1snYWxwaGEnXSA8PSAwOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJHYW1tYSBkaXN0cmlidXRpb24gcmVxdWlyZXMgaXRzIGBhbHBoYWAgc2hhcGUgcGFyYW1ldGVyIHRvIGJlIGdyZWF0ZXIgdGhhbiAwIik=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICJ0cmFjZWJhY2tfc3Vic3RyaW5nIjogIiIK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgaWYgZGlzdHJpYnV0aW9uID09ICJub3JtIjoKICAgICAgICAjIHNjaXB5IGNkZih4LCBsb2M9MCwgc2NhbGU9MSkKICAgICAgICBwYXNz</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICJ0cmFjZWJhY2tfc3Vic3RyaW5nIjogIiIK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgIHBhcmFtc1snbWVhbiddID0gY29sdW1uLm1lYW4oKQogICAgICAgIHBhcmFtc1snc3RkX2RldiddID0gY29sdW1uLnN0ZCgp</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAidGl0bGUiOiAiIiwK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIGVsaWYgcGFyYW1zWydzdGRfZGV2J10gPCAwOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoInN0ZF9kZXYgY2Fubm90IGJlIGxlc3MgdGhhbiB6ZXJvIik=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAidGl0bGUiOiAiIiwK</text>
       </register>
-      <register name="5" type="4">
-        <text>else:
-            raise ValueError(&quot;Unsupported distribution: %s&quot; %distribution)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAidGl0bGUiOiAiIiwK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAjIGVycm9yIGNoZWNraW5nIGRvbmUgd2l0aCBzY2FsZSBhYm92ZQogICAgICAgICNlbGlmIGRpc3RyaWJ1dGlvbiA9PSAnZXhwb24nOgogICAgICAgICMgICAgcmFpc2UgVmFsdWVFcnJvcigiSW52YWxpZCBwYXJhbWV0ZXJzOiAlcyIgJWV4cG9uX21zZyk=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICJ0cmFjZWJhY2tfc3Vic3RyaW5nIjogIiIK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IyBlcnJvciBjaGVja2luZyAgZG9uZSB3aXRoIHNjYWxlIGFib3ZlCiAgICAgICAgI2VsaSBkaXN0cmlidXRpb24gPT0gJ3VuaWZvcm0nIGFuZCAocGFyYW1zLmdldCgnbG9jJywgTm9uZSkgaXMgTm9uZSBvciBwYXJhbXMuZ2V0KCdzY2FsZScsIDApIDw9IDApOgogICAgICAgICMgICAgcmFpc2UgVmFsdWVFcnJvcigiSW52YWxpZCBwYXJhbWV0ZXJzOiAlcyIgJXVuaWZvcm1fbXNnKQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJ0cmFjZWJhY2tfc3Vic3RyaW5nIjogIiIK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBpZiBwYXJhbXMuZ2V0KCdzY2FsZScsIDEpIDw9IDA6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoInNjYWxlIG11c3QgYmUgcG9zaXRpdmUiKQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAidGl0bGUiOiAiIiwK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAic3VjY2VzcyI6IHRydWUKICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>parameterized</last-search>
+      <last-search>&quot;&quot;</last-search>
       <last-offset />
-      <last-pattern>parameterized</last-pattern>
+      <last-pattern>&quot;&quot;</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>outer</entry>
-        <entry>normal</entry>
-        <entry>norm</entry>
         <entry>beta(</entry>
         <entry>norm'</entry>
         <entry>mean =</entry>
@@ -226,6 +251,9 @@
         <entry encoding="base64">XDxmcm96ZW5cPg==</entry>
         <entry>ks_test</entry>
         <entry>parameterized</entry>
+        <entry>0</entry>
+        <entry>po</entry>
+        <entry>&quot;&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>h matchpairs</entry>
