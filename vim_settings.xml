@@ -20,11 +20,12 @@
         <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_fixtures/distributional_expectations_partition_fixtures.py" timestamp="1520455921567" />
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" timestamp="1521479683236">
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" timestamp="1521481610480">
         <mark key="'" line="339" column="10" />
-        <mark key="[" line="580" column="85" />
-        <mark key="]" line="580" column="85" />
-        <mark key="." line="580" column="85" />
+        <mark key="[" line="839" column="59" />
+        <mark key="]" line="839" column="68" />
+        <mark key="." line="839" column="59" />
+        <mark key="^" line="674" column="50" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_fixtures/fixed_distributional_datasets.py" timestamp="1519395036823">
         <mark key="[" line="0" column="67" />
@@ -32,7 +33,7 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/batch_scratch.py" timestamp="1520605623890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1521479564644">
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1521480859632">
         <mark key="[" line="517" column="16" />
         <mark key="]" line="517" column="16" />
         <mark key="." line="517" column="16" />
@@ -53,7 +54,9 @@
         <mark key="]" line="89" column="43" />
         <mark key="." line="89" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1521467306275" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1521480772536">
+        <mark key="[" line="722" column="23" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1521055535878">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -77,6 +80,7 @@
       <file name="/Dummy.txt" timestamp="1520605541507">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1521481174901" />
       <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/Scratch.py" timestamp="1521119762866">
         <mark key="[" line="40" column="5" />
         <mark key="]" line="40" column="0" />
@@ -187,10 +191,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>lambda is negative</text>
+        <text>dict</text>
       </register>
       <register name="-" type="4">
-        <text>lambda is negative</text>
+        <text>dict</text>
       </register>
       <register name="/" type="4">
         <text>&quot;&quot;</text>
@@ -199,28 +203,40 @@
         <text encoding="base64">ICAgICAgICAgICJ0cmFjZWJhY2tfc3Vic3RyaW5nIjogIkludmFsaWQgcGFyYW1ldGVyczogY2hpMiBkaXN0cmlidXRpb25zIHJlcXVpcmUgMSBwb3NpdGl2ZSBwYXJhbWV0ZXIgJ2RmJyBhbmQgb3B0aW9uYWxseSAnbG9jJywgJ3NjYWxlJy4iCg==</text>
       </register>
       <register name="1" type="4">
+        <text>,
+        &quot;error&quot;: {
+          &quot;traceback_substring&quot;: &quot;&quot;
+        }</text>
+      </register>
+      <register name="2" type="4">
+        <text>,
+        &quot;error&quot;: {
+          &quot;traceback_substring&quot;: &quot;&quot;
+        }</text>
+      </register>
+      <register name="3" type="4">
+        <text>&quot;error&quot;: {
+          &quot;traceback_substring&quot;: &quot;&quot;
+        }</text>
+      </register>
+      <register name="4" type="4">
+        <text>&quot;error&quot;: {
+          &quot;traceback_substring&quot;: &quot;&quot;
+        }</text>
+      </register>
+      <register name="5" type="4">
+        <text>&quot;error&quot;: {
+          &quot;traceback_substring&quot;: &quot;&quot;
+        }</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">OgogICAgICAgICAgICAgICAgaWYg</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ0cmFjZWJhY2tfc3Vic3RyaW5nIjogIiIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ0cmFjZWJhY2tfc3Vic3RyaW5nIjogIiIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAidGl0bGUiOiAiIiwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAidGl0bGUiOiAiIiwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAidGl0bGUiOiAiIiwK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICJ0cmFjZWJhY2tfc3Vic3RyaW5nIjogIiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJ0cmFjZWJhY2tfc3Vic3RyaW5nIjogIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICJ0cmFjZWJhY2tfc3Vic3RyaW5nIjogIiIK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAidGl0bGUiOiAiIiwK</text>
