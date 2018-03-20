@@ -3,15 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset_distributional_expectations.py" timestamp="1521466385259">
-        <mark key="[" line="548" column="0" />
-        <mark key="]" line="548" column="0" />
-        <mark key="." line="548" column="0" />
+      <file name="/start_script.py" timestamp="1521573323572">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_parameterized_distribution_ks_test_p_value_to_be_greater_than.json" timestamp="1521571156869">
-        <mark key="[" line="955" column="35" />
-        <mark key="]" line="318" column="0" />
-        <mark key="." line="318" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_parameterized_distribution_ks_test_p_value_to_be_greater_than.json" timestamp="1521574786310">
+        <mark key="'" line="41" column="15" />
+        <mark key="[" line="46" column="6" />
+        <mark key="]" line="46" column="6" />
+        <mark key="." line="46" column="6" />
       </file>
       <file name="/Python Console" timestamp="1521556088279">
         <mark key="[" line="0" column="0" />
@@ -37,11 +36,11 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/batch_scratch.py" timestamp="1520605623890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1521571391766">
-        <mark key="'" line="518" column="16" />
-        <mark key="[" line="551" column="0" />
-        <mark key="]" line="551" column="0" />
-        <mark key="." line="551" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1521582885170">
+        <mark key="'" line="512" column="16" />
+        <mark key="[" line="393" column="99" />
+        <mark key="]" line="320" column="0" />
+        <mark key="." line="320" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/main.py" timestamp="1519234690112">
         <mark key="[" line="72" column="15" />
@@ -61,16 +60,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1521566948701">
-        <mark key="[" line="746" column="25" />
-        <mark key="]" line="749" column="0" />
-        <mark key="^" line="748" column="8" />
-        <mark key="." line="749" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1521055535878">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1521573654458">
+        <mark key="[" line="743" column="39" />
+        <mark key="]" line="743" column="39" />
+        <mark key="^" line="743" column="39" />
+        <mark key="." line="743" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1521056647491">
         <mark key="[" line="187" column="32" />
@@ -90,13 +84,16 @@
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/test_column_aggregate_expectations.py" timestamp="1521556615296">
         <mark key="[" line="31" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521551380117">
+      <file name="/Dummy.txt" timestamp="1521574064752">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1521556259085">
-        <mark key="[" line="1204" column="31" />
-        <mark key="]" line="1204" column="32" />
-        <mark key="." line="1204" column="98" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1521580127211">
+        <mark key="[" line="1073" column="42" />
+        <mark key="]" line="1073" column="42" />
+        <mark key="." line="1073" column="42" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/Scratch.py" timestamp="1521119762866">
         <mark key="[" line="40" column="5" />
@@ -106,11 +103,22 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Coalition.py" timestamp="1519842369664">
         <mark key="[" line="60" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1521566957121">
-        <mark key="'" line="2836" column="47" />
-        <mark key="[" line="1983" column="84" />
-        <mark key="]" line="1983" column="84" />
-        <mark key="." line="1983" column="84" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_dataset_util.py" timestamp="1521580882659">
+        <mark key="[" line="482" column="85" />
+        <mark key="]" line="482" column="85" />
+        <mark key="." line="482" column="85" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_utils.py" timestamp="1521573164586">
+        <mark key="[" line="116" column="32" />
+        <mark key="]" line="116" column="32" />
+        <mark key="." line="116" column="32" />
+        <mark key="^" line="116" column="32" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1521582812633">
+        <mark key="'" line="2807" column="47" />
+        <mark key="[" line="2010" column="29" />
+        <mark key="]" line="2010" column="29" />
+        <mark key="." line="2010" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1521556868424">
         <mark key="[" line="7" column="0" />
@@ -217,108 +225,64 @@
       <jump line="283" column="10" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" />
       <jump line="1034" column="18" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" />
       <jump line="518" column="16" filename="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" />
+      <jump line="41" column="15" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_parameterized_distribution_ks_test_p_value_to_be_greater_than.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIE5vcm0gYW5kIGV4cG9uIGFyZSBleGNsdWRlZCBiZWNhdXNlIHRoZXkgZG8gbm90IGhhdmUgcmVxdWlyZWQgcGFyYW1ldGVycwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">XAogICAgICAgICAgICAgICAgdGhlIHNwZWNpZmllZCBkaXN0cmlidXRpb24uIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2VsZiwg</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyYWlzZVw+</text>
+        <text>be between 0 and 1 exclusive</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICJ0cmFjZWJhY2tfc3Vic3RyaW5nIjogIkludmFsaWQgcGFyYW1ldGVyczogY2hpMiBkaXN0cmlidXRpb25zIHJlcXVpcmUgMSBwb3NpdGl2ZSBwYXJhbWV0ZXIgJ2RmJyBhbmQgb3B0aW9uYWxseSAnbG9jJywgJ3NjYWxlJy4iCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIE5vcm0gYW5kIGV4cG9uIGFyZSBleGNsdWRlZCBiZWNhdXNlIHRoZXkgZG8gbm90IGhhdmUgcmVxdWlyZWQgcGFyYW1ldGVycwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">XAogICAgICAgICAgICAgICAgdGhlIHNwZWNpZmllZCBkaXN0cmlidXRpb24uIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImV4cGVjdGVkX3BhcmFtcyIgKGRpY3QpOiBUaGUgZGlzdHJpYnV0aW9uIHBhcmFtZXRlcnMgdG8gdGVzdCBhZ2FpbnN0IHRoZSBwcm92aWRlZCBjb2x1bW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGEgYWdhaW5zdC5cCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgInBfdmFsdWUiIChmbG9hdCk6IFRoZSBwLXZhbHVlIHRocmVzaG9sZCBmb3IgYSBwYXNzaW5nIHRlc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIElmIG5vdCBwcm92aWRlZCwgdGhlIHBhcmFtZXRlcnMgd2lsbCBiZSBhdHRlbXB0ZWQgdG8gYmUgY29uc3RydWN0ZWQgdXNpbmcgdGhlIGNvbHVtbiBkYXRhIGFuZCBcCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAidHJ1ZV92YWx1ZSI6IChmbG9hdCkgVGhlIHRydWUgcC12YWx1ZSBmcm9tIHRoZSBLb2xtb2dvcm92LVNtaXJub3YgdGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImxhbWJkYSI6IChmbG9hdCksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC1wb2lzc29uCg==</text>
+        <text encoding="base64">ICAgICMgRklYTUUgIElORkVSIE1BWCBPUiBVU0UgU1RBTkRBUkQgU0NBTEU/Pwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>{
-        &quot;title&quot;: &quot;Raise ValueError when distribution=poisson, params is a dict, and lambda is 0&quot;,
-        &quot;exact_match_out&quot;: false,
-        &quot;in&quot;: {
-          &quot;column&quot;: &quot;poisson&quot;,
-          &quot;result_format&quot;: &quot;BASIC&quot;,
-          &quot;params&quot;: {&quot;lambda&quot;:0},
-          &quot;distribution&quot;: &quot;poisson&quot;,
-          &quot;p_value&quot;: 0.05
-        },
-        &quot;out&quot;: {},
-        &quot;error&quot;: {
-          &quot;traceback_substring&quot;: &quot;Invalid parameters: poisson distributions require 1 positive parameter 'lambda' and optionally 'loc'.&quot;
-        }
-      },
-      {
-        &quot;title&quot;: &quot;Raise ValueError when distribution=poisson, params is a dict, and lambda is negative&quot;,
-        &quot;exact_match_out&quot;: false,
-        &quot;in&quot;: {
-          &quot;column&quot;: &quot;poisson&quot;,
-          &quot;result_format&quot;: &quot;BASIC&quot;,
-          &quot;params&quot;: {&quot;lambda&quot;:-0.1},
-          &quot;distribution&quot;: &quot;poisson&quot;,
-          &quot;p_value&quot;: 0.05
-        },
-        &quot;out&quot;: {},
-        &quot;error&quot;: {
-          &quot;traceback_substring&quot;: &quot;Invalid parameters: poisson distributions require 1 positive parameter 'lambda' and optionally 'loc'.&quot;
-        }
-      },
-      {
-        &quot;title&quot;: &quot;Raise ValueError when distribution=poisson, params is a dict, and lambda is missing&quot;,
-        &quot;exact_match_out&quot;: false,
-        &quot;in&quot;: {
-          &quot;column&quot;: &quot;poisson&quot;,
-          &quot;result_format&quot;: &quot;BASIC&quot;,
-          &quot;params&quot;: {},
-          &quot;distribution&quot;: &quot;poisson&quot;,
-          &quot;p_value&quot;: 0.05
-        },
-        &quot;out&quot;: {},
-        &quot;error&quot;: {
-          &quot;traceback_substring&quot;: &quot;Invalid parameters: poisson distributions require 1 positive parameter 'lambda' and optionally 'loc'.&quot;
-        }
-      },</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAidGl0bGUiOiAiUG9zaXRpdmUgcG9pc3NvbiBkaXN0cmlidXRpb24sIHBhcmFtcyBpcyBhIGRpY3QiLAogICAgICAgICJleGFjdF9tYXRjaF9vdXQiOiBmYWxzZSwKICAgICAgICAiaW4iOiB7CiAgICAgICAgICAiY29sdW1uIjogInBvaXNzb24iLAogICAgICAgICAgInJlc3VsdF9mb3JtYXQiOiAiQkFTSUMiLAogICAgICAgICAgInBhcmFtcyI6IHsibGFtYmRhIjogOC4yLCAibG9jIjogNDB9LAogICAgICAgICAgImRpc3RyaWJ1dGlvbiI6ICJwb2lzc29uIiwKICAgICAgICAgICJwX3ZhbHVlIjogMC4wNQogICAgICAgIH0sCiAgICAgICAgIm91dCI6IHsKICAgICAgICAgICJzdWNjZXNzIjogdHJ1ZQogICAgICAgIH0KICAgICAgfSwKICAgICAgewogICAgICAgICJ0aXRsZSI6ICJQb3NpdGl2ZSBwb2lzc29uIGRpc3RyaWJ1dGlvbiwgcGFyYW1zIGlzIGEgdHVwbGUiLAogICAgICAgICJleGFjdF9tYXRjaF9vdXQiOiBmYWxzZSwKICAgICAgICAiaW4iOiB7CiAgICAgICAgICAiY29sdW1uIjogInBvaXNzb24iLAogICAgICAgICAgInJlc3VsdF9mb3JtYXQiOiAiQ09NUExFVEUiLAogICAgICAgICAgInBhcmFtcyI6IFs4LjIsIDQwXSwKICAgICAgICAgICJkaXN0cmlidXRpb24iOiAicG9pc3NvbiIsCiAgICAgICAgICAicF92YWx1ZSI6IDAuMDUKICAgICAgICB9LAogICAgICAgICJvdXQiOiB7CiAgICAgICAgICAic3VjY2VzcyI6IHRydWUKICAgICAgICB9CiAgICAgIH0sCiAgICAgIHsKICAgICAgICAidGl0bGUiOiAiTmVnYXRpdmUgcG9pc3NvbiBkaXN0cmlidXRpb24sIHBhcmFtcyBpcyBhIGRpY3QiLAogICAgICAgICJleGFjdF9tYXRjaF9vdXQiOiBmYWxzZSwKICAgICAgICAiaW4iOiB7CiAgICAgICAgICAiY29sdW1uIjogInBvaXNzb24iLAogICAgICAgICAgInJlc3VsdF9mb3JtYXQiOiAiQkFTSUMiLAogICAgICAgICAgInBhcmFtcyI6IHsibGFtYmRhIjogMC4yLCAibG9jIjogNDAwfSwKICAgICAgICAgICJkaXN0cmlidXRpb24iOiAicG9pc3NvbiIsCiAgICAgICAgICAicF92YWx1ZSI6IDAuMDUKICAgICAgICB9LAogICAgICAgICJvdXQiOiB7CiAgICAgICAgICAic3VjY2VzcyI6IGZhbHNlCiAgICAgICAgfQogICAgICB9LAogICAgICB7CiAgICAgICAgInRpdGxlIjogIk5lZ2F0aXZlIHBvaXNzb24gZGlzdHJpYnV0aW9uLCBwYXJhbXMgaXMgYSB0dXBsZSIsCiAgICAgICAgImV4YWN0X21hdGNoX291dCI6IGZhbHNlLAogICAgICAgICJpbiI6IHsKICAgICAgICAgICJjb2x1bW4iOiAicG9pc3NvbiIsCiAgICAgICAgICAicmVzdWx0X2Zvcm1hdCI6ICJCQVNJQyIsCiAgICAgICAgICAicGFyYW1zIjogWzAuMiwgNDAwXSwKICAgICAgICAgICJkaXN0cmlidXRpb24iOiAicG9pc3NvbiIsCiAgICAgICAgICAicF92YWx1ZSI6IDAuMDUKICAgICAgICB9LAogICAgICAgICJvdXQiOiB7CiAgICAgICAgICAic3VjY2VzcyI6IGZhbHNlCiAgICAgICAgfQogICAgICB9LA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyYWlzZVw+</last-search>
+      <last-search>be between 0 and 1 exclusive</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyYWlzZVw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>be between 0 and 1 exclusive</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>norm'</entry>
         <entry>mean =</entry>
         <entry>distribution</entry>
         <entry>p_value_to_be_greater</entry>
@@ -338,6 +302,7 @@
         <entry>po</entry>
         <entry>&quot;&quot;</entry>
         <entry encoding="base64">XDxyYWlzZVw+</entry>
+        <entry>be between 0 and 1 exclusive</entry>
       </history-search>
       <history-cmd>
         <entry>h matchpairs</entry>
