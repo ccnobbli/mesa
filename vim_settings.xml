@@ -17,7 +17,7 @@
         <mark key="]" line="10" column="7282" />
         <mark key="." line="10" column="7282" />
       </file>
-      <file name="/Python Console" timestamp="1521556088279">
+      <file name="/Python Console" timestamp="1521828661491">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1519059258245">
@@ -27,6 +27,13 @@
         <mark key="[" line="84" column="30" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_bootstrapped_ks_test_p_value_to_be_greater_than.json" timestamp="1521482637639">
+        <mark key="'" line="1110" column="18" />
+        <mark key="[" line="1136" column="7" />
+        <mark key="]" line="1136" column="7" />
+        <mark key="." line="1136" column="7" />
+        <mark key="^" line="1096" column="64" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_fixtures/fixed_distributional_datasets.py" timestamp="1519395036823">
         <mark key="[" line="0" column="67" />
@@ -50,11 +57,12 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Agent.py" timestamp="1519844382650">
         <mark key="[" line="69" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/batch.py" timestamp="1521822635599">
-        <mark key="'" line="123" column="8" />
-        <mark key="[" line="139" column="33" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/batch.py" timestamp="1521829350423">
+        <mark key="'" line="141" column="8" />
+        <mark key="[" line="136" column="14" />
+        <mark key="]" line="136" column="14" />
+        <mark key="." line="136" column="14" />
+        <mark key="^" line="134" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_sets/fixed_distributional_test_dataset.json" timestamp="1521563877733">
         <mark key="[" line="0" column="0" />
@@ -66,10 +74,10 @@
         <mark key="^" line="782" column="39" />
         <mark key="." line="782" column="39" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1521055535878">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1521829931555">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1521809350508">
         <mark key="[" line="41" column="29" />
@@ -230,44 +238,49 @@
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRhdGFzZXQuc2V0X2RlZmF1bHRfZXhwZWN0YXRpb25fYXJndW1lbnQoJ2NhdGNoX2V4Y2VwdGlvbnMnLCBUcnVlKQo=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>Civilians</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ0cmFjZWJhY2tfc3Vic3RyaW5nIjogIkludmFsaWQgcGFyYW1ldGVyczogY2hpMiBkaXN0cmlidXRpb25zIHJlcXVpcmUgMSBwb3NpdGl2ZSBwYXJhbWV0ZXIgJ2RmJyBhbmQgb3B0aW9uYWxseSAnbG9jJywgJ3NjYWxlJy4iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXgyLmltc2hvdyhzZWxmLnJlc3VsdHNfZnJvbV9zaW1bMF0ucG9saWNlX2hlYXRfbWFwc1tpXSwgY21hcD0ncGxhc21hJywgdm1pbj0wLCB2bWF4PTEpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGFzZXQuc2V0X2RlZmF1bHRfZXhwZWN0YXRpb25fYXJndW1lbnQoJ2NhdGNoX2V4Y2VwdGlvbnMnLCBUcnVlKQo=</text>
+      <register name="1" type="4">
+        <text>rand = []
+for i in range(1000000):
+    rand.append(np.random.choice([1,2,3,4]))
+
+plt.hist(rand, bins=[1,2,3,4,5], density=False)
+plt.show()</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQudGl0bGUoIkFuaW1hdGlvbiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgIGltcy5hcHBlbmQoYXguaW1zaG93KHN0ZXBfbG9jYXRpb25fbWFwLCBhbmltYXRlZD1UcnVlLCBjbWFwPSdob3QnLCB2bWluPTAsIHZtYXg9MSkpCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjZm9yIHN0ZXBfbG9jYXRpb25fbWFwIGluIHNlbGYucmVzdWx0c19mcm9tX3NpbVswXS5jaXZfaGVhdF9tYXBzOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNpbmdsZV9sb2Nbc2VsZi5lbnYuY2l2aWxpYW5zWzBdLnhdW3NlbGYuZW52LmNpdmlsaWFuc1swXS55XSArPSAxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjaW1zID0gW10K</text>
+        <text encoding="base64">ICAgIGRhdGFzZXQuc2V0X2RlZmF1bHRfZXhwZWN0YXRpb25fYXJndW1lbnQoJ2NhdGNoX2V4Y2VwdGlvbnMnLCBUcnVlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2l2X3N0ZXBfbG9jW2Npdi54XVtjaXYueV0gKz0gMSAgIyBhbmltYXRpb24gZGF0YSwgYmFzZSBsb2NhdGlvbnMK</text>
+        <text encoding="base64">ICAgICAgICBwbHQudGl0bGUoIkFuaW1hdGlvbiIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jaXZpbGlhbl90aW1lc19yb2JiZWRbY2l2LnVpZF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jaXZfbG9jW2Npdi54XVtjaXYueV0gKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgIGltcy5hcHBlbmQoYXguaW1zaG93KHN0ZXBfbG9jYXRpb25fbWFwLCBhbmltYXRlZD1UcnVlLCBjbWFwPSdob3QnLCB2bWluPTAsIHZtYXg9MSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
