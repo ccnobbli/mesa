@@ -50,11 +50,11 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Agent.py" timestamp="1519844382650">
         <mark key="[" line="69" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/batch.py" timestamp="1521812199533">
+      <file name="$USER_HOME$/PycharmProjects/ABM/batch.py" timestamp="1521813503454">
         <mark key="'" line="123" column="8" />
-        <mark key="[" line="293" column="47" />
-        <mark key="]" line="295" column="0" />
-        <mark key="." line="295" column="0" />
+        <mark key="[" line="318" column="4" />
+        <mark key="]" line="318" column="4" />
+        <mark key="." line="318" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_sets/fixed_distributional_test_dataset.json" timestamp="1521563877733">
         <mark key="[" line="0" column="0" />
@@ -230,11 +230,11 @@
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKCkK</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>step_location_map</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmlcPg==</text>
