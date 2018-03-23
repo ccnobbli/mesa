@@ -123,8 +123,11 @@
         <mark key="^" line="116" column="32" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1521831225729">
-        <mark key="'" line="2807" column="47" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1521832917980">
+        <mark key="'" line="2810" column="47" />
+        <mark key="[" line="716" column="22" />
+        <mark key="]" line="716" column="22" />
+        <mark key="." line="716" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1521556868424">
         <mark key="[" line="7" column="0" />
@@ -239,10 +242,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>unexpected_list.isnull())</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>unexpected_list.isnull())</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmlcPg==</text>
