@@ -60,10 +60,9 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1521805569421">
-        <mark key="[" line="170" column="17" />
-        <mark key="]" line="743" column="39" />
-        <mark key="^" line="743" column="39" />
-        <mark key="." line="743" column="39" />
+        <mark key="]" line="782" column="39" />
+        <mark key="^" line="782" column="39" />
+        <mark key="." line="782" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1521055535878">
         <mark key="[" line="7" column="0" />
@@ -107,17 +106,14 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Coalition.py" timestamp="1519842369664">
         <mark key="[" line="60" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_utils.py" timestamp="1521573164586">
-        <mark key="[" line="116" column="32" />
-        <mark key="]" line="116" column="32" />
-        <mark key="." line="116" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_utils.py" timestamp="1521806439780">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
         <mark key="^" line="116" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1521805315903">
-        <mark key="'" line="2882" column="47" />
-        <mark key="[" line="205" column="8" />
-        <mark key="]" line="757" column="0" />
-        <mark key="." line="757" column="0" />
+        <mark key="'" line="2807" column="47" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1521556868424">
         <mark key="[" line="7" column="0" />
@@ -126,9 +122,9 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_dataset.py" timestamp="1521805434626">
-        <mark key="[" line="1036" column="0" />
-        <mark key="]" line="1036" column="0" />
-        <mark key="." line="1036" column="0" />
+        <mark key="[" line="1034" column="0" />
+        <mark key="]" line="1034" column="0" />
+        <mark key="." line="1034" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations_distributional/test_pandas_dataset_distributional_expectations.py" timestamp="1521551096348">
         <mark key="[" line="547" column="134" />
@@ -232,7 +228,7 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAzYTQ4N2UzNTc4MmFhNWJkMDk3NzQ3N2VmYThlYTk1ZWEyNTI1NWFkCg==</text>
+        <text encoding="base64">ICAgIGRhdGFzZXQuc2V0X2RlZmF1bHRfZXhwZWN0YXRpb25fYXJndW1lbnQoJ2NhdGNoX2V4Y2VwdGlvbnMnLCBUcnVlKQo=</text>
       </register>
       <register name="-" type="4">
         <text>.subplots()</text>
@@ -244,31 +240,31 @@
         <text encoding="base64">ICAgICAgICAgICJ0cmFjZWJhY2tfc3Vic3RyaW5nIjogIkludmFsaWQgcGFyYW1ldGVyczogY2hpMiBkaXN0cmlidXRpb25zIHJlcXVpcmUgMSBwb3NpdGl2ZSBwYXJhbWV0ZXIgJ2RmJyBhbmQgb3B0aW9uYWxseSAnbG9jJywgJ3NjYWxlJy4iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAzYTQ4N2UzNTc4MmFhNWJkMDk3NzQ3N2VmYThlYTk1ZWEyNTI1NWFkCg==</text>
+        <text encoding="base64">ICAgIGRhdGFzZXQuc2V0X2RlZmF1bHRfZXhwZWN0YXRpb25fYXJndW1lbnQoJ2NhdGNoX2V4Y2VwdGlvbnMnLCBUcnVlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiAzYTQ4N2UzNTc4MmFhNWJkMDk3NzQ3N2VmYThlYTk1ZWEyNTI1NWFkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdWIxLnJlbW92ZV9mYWxzZV9leHBlY3RhdGlvbnMoKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAzYTQ4N2UzNTc4MmFhNWJkMDk3NzQ3N2VmYThlYTk1ZWEyNTI1NWFkCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBzdWIxLnJlbW92ZV9mYWxzZV9leHBlY3RhdGlvbnMoKQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Pj4+Pj4+PiAzYTQ4N2UzNTc4MmFhNWJkMDk3NzQ3N2VmYThlYTk1ZWEyNTI1NWFkCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzdWIxLnJlbW92ZV9mYWxzZV9leHBlY3RhdGlvbnMoKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
