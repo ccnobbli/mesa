@@ -69,11 +69,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1521830711026">
-        <mark key="]" line="782" column="39" />
-        <mark key="^" line="782" column="39" />
-        <mark key="." line="782" column="39" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1521829931555">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -123,11 +118,11 @@
         <mark key="^" line="116" column="32" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1521832917980">
-        <mark key="'" line="2810" column="47" />
-        <mark key="[" line="716" column="22" />
-        <mark key="]" line="716" column="22" />
-        <mark key="." line="716" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1521834582068">
+        <mark key="'" line="2808" column="47" />
+        <mark key="[" line="708" column="47" />
+        <mark key="]" line="716" column="0" />
+        <mark key="." line="716" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1521556868424">
         <mark key="[" line="7" column="0" />
@@ -242,10 +237,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>unexpected_list.isnull())</text>
+        <text>ange(sum(boolean_mapped_null_values))</text>
       </register>
       <register name="-" type="4">
-        <text>unexpected_list.isnull())</text>
+        <text>ange(sum(boolean_mapped_null_values))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmlcPg==</text>
@@ -253,7 +248,22 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXgyLmltc2hvdyhzZWxmLnJlc3VsdHNfZnJvbV9zaW1bMF0ucG9saWNlX2hlYXRfbWFwc1tpXSwgY21hcD0ncGxhc21hJywgdm1pbj0wLCB2bWF4PTEpCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB1bmV4cGVjdGVkX2NvdW50ID0gbGVuKHVuZXhwZWN0ZWRfbGlzdCkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICN1bmV4cGVjdGVkX3BlcmNlbnRfbm9ubWlzc2luZyA9IG51bV9ub3RfbnVsbCAvIGZsb2F0KHVuZXhwZWN0ZWRfY291bnQpICAjLyBub25udWxsX2NvdW50Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludChbeCBpcyBub3QgTm9uZSBmb3IgeCBpbiB1bmV4cGVjdGVkX2xpc3RdKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNudW1fbm90X251bGwgPSBzdW0oW3ggaXMgbm90IE5vbmUgZm9yIHggaW4gdW5leHBlY3RlZF9saXN0XSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBub25udWxsX3ZhbHVlcyA9IHNlcmllc1tib29sZWFuX21hcHBlZF9udWxsX3ZhbHVlcz09RmFsc2VdCg==</text>
+      </register>
+      <register name="6" type="4">
         <text>rand = []
 for i in range(1000000):
     rand.append(np.random.choice([1,2,3,4]))
@@ -261,29 +271,14 @@ for i in range(1000000):
 plt.hist(rand, bins=[1,2,3,4,5], density=False)
 plt.show()</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNpbmdsZV9sb2Nbc2VsZi5lbnYuY2l2aWxpYW5zWzBdLnhdW3NlbGYuZW52LmNpdmlsaWFuc1swXS55XSArPSAxCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRhdGFzZXQuc2V0X2RlZmF1bHRfZXhwZWN0YXRpb25fYXJndW1lbnQoJ2NhdGNoX2V4Y2VwdGlvbnMnLCBUcnVlKQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQudGl0bGUoIkFuaW1hdGlvbiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgIGltcy5hcHBlbmQoYXguaW1zaG93KHN0ZXBfbG9jYXRpb25fbWFwLCBhbmltYXRlZD1UcnVlLCBjbWFwPSdob3QnLCB2bWluPTAsIHZtYXg9MSkpCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
