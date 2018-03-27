@@ -6,11 +6,6 @@
       <file name="/start_script.py" timestamp="1521573323572">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset_distributional_expectations.py" timestamp="1521466385259">
-        <mark key="[" line="548" column="0" />
-        <mark key="]" line="548" column="0" />
-        <mark key="." line="548" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_parameterized_distribution_ks_test_p_value_to_be_greater_than.json" timestamp="1521727075512">
         <mark key="'" line="36" column="15" />
         <mark key="[" line="10" column="7282" />
@@ -69,7 +64,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1521829931555">
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1522150551051">
+        <mark key="[" line="326" column="21" />
+        <mark key="]" line="326" column="21" />
+        <mark key="." line="326" column="21" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1522150593426">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -118,11 +118,12 @@
         <mark key="^" line="116" column="32" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1521834582068">
-        <mark key="'" line="2808" column="47" />
-        <mark key="[" line="708" column="47" />
-        <mark key="]" line="716" column="0" />
-        <mark key="." line="716" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1522150374847">
+        <mark key="'" line="256" column="37" />
+        <mark key="[" line="715" column="82" />
+        <mark key="]" line="256" column="37" />
+        <mark key="." line="256" column="37" />
+        <mark key="^" line="256" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1521556868424">
         <mark key="[" line="7" column="0" />
@@ -231,16 +232,17 @@
       <jump line="518" column="16" filename="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" />
       <jump line="41" column="15" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_parameterized_distribution_ks_test_p_value_to_be_greater_than.json" />
       <jump line="106" column="8" filename="$USER_HOME$/PycharmProjects/ABM/batch.py" />
+      <jump line="256" column="37" filename="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ange(sum(boolean_mapped_null_values))</text>
+        <text>observed_ks_result</text>
       </register>
       <register name="-" type="4">
-        <text>ange(sum(boolean_mapped_null_values))</text>
+        <text>observed_ks_result</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmlcPg==</text>
@@ -249,21 +251,24 @@
         <text encoding="base64">ICAgICAgICAgICAgYXgyLmltc2hvdyhzZWxmLnJlc3VsdHNfZnJvbV9zaW1bMF0ucG9saWNlX2hlYXRfbWFwc1tpXSwgY21hcD0ncGxhc21hJywgdm1pbj0wLCB2bWF4PTEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1bmV4cGVjdGVkX2NvdW50ID0gbGVuKHVuZXhwZWN0ZWRfbGlzdCkK</text>
+        <text encoding="base64">ICAgICAgICBub25fbWlzc2luZ191bmV4cGVjdGVkX2NvdW50ID0gc3VtKFt4IGlzIG5vdCBOb25lIGZvciB4IGluIHVuZXhwZWN0ZWRfbGlzdF0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICN1bmV4cGVjdGVkX3BlcmNlbnRfbm9ubWlzc2luZyA9IG51bV9ub3RfbnVsbCAvIGZsb2F0KHVuZXhwZWN0ZWRfY291bnQpICAjLyBub25udWxsX2NvdW50Cg==</text>
+        <text encoding="base64">ICAgICAgICB1bmV4cGVjdGVkX2NvdW50ID0gbGVuKHVuZXhwZWN0ZWRfbGlzdCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludChbeCBpcyBub3QgTm9uZSBmb3IgeCBpbiB1bmV4cGVjdGVkX2xpc3RdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICN1bmV4cGVjdGVkX3BlcmNlbnRfbm9ubWlzc2luZyA9IG51bV9ub3RfbnVsbCAvIGZsb2F0KHVuZXhwZWN0ZWRfY291bnQpICAjLyBub25udWxsX2NvdW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNudW1fbm90X251bGwgPSBzdW0oW3ggaXMgbm90IE5vbmUgZm9yIHggaW4gdW5leHBlY3RlZF9saXN0XSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludChbeCBpcyBub3QgTm9uZSBmb3IgeCBpbiB1bmV4cGVjdGVkX2xpc3RdKQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNudW1fbm90X251bGwgPSBzdW0oW3ggaXMgbm90IE5vbmUgZm9yIHggaW4gdW5leHBlY3RlZF9saXN0XSkK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBub25udWxsX3ZhbHVlcyA9IHNlcmllc1tib29sZWFuX21hcHBlZF9udWxsX3ZhbHVlcz09RmFsc2VdCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>rand = []
 for i in range(1000000):
     rand.append(np.random.choice([1,2,3,4]))
@@ -271,14 +276,11 @@ for i in range(1000000):
 plt.hist(rand, bins=[1,2,3,4,5], density=False)
 plt.show()</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
