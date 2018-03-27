@@ -64,12 +64,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1522155931317">
-        <mark key="[" line="315" column="12" />
-        <mark key="]" line="315" column="12" />
-        <mark key="." line="315" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1522159676490">
+        <mark key="[" line="316" column="46" />
+        <mark key="]" line="321" column="0" />
+        <mark key="." line="321" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1522155857153">
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1522159466959">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -238,11 +238,11 @@
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>None for i in range(unexpected_count)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmlcPg==</text>
@@ -251,32 +251,31 @@
         <text encoding="base64">ICAgICAgICAgICAgYXgyLmltc2hvdyhzZWxmLnJlc3VsdHNfZnJvbV9zaW1bMF0ucG9saWNlX2hlYXRfbWFwc1tpXSwgY21hcD0ncGxhc21hJywgdm1pbj0wLCB2bWF4PTEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1bmV4cGVjdGVkX2NvdW50ID0gZWxlbWVudF9jb3VudCAtIHN1Y2Nlc3NfY291bnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1bmV4cGVjdGVkX2NvdW50ID0gZWxlbWVudF9jb3VudCAtIHN1Y2Nlc3NfY291bnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1bmV4cGVjdGVkX2luZGV4X2xpc3QgPSBsaXN0KHNlcmllc1soYm9vbGVhbl9tYXBwZWRfbnVsbF92YWx1ZXM9PVRydWUpXS5pbmRleCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmV0dXJuX29kZGJqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuX21hcHBlZF9zdWNjZXNzX3ZhbHVlcyA9ICFib29sZWFuX21hcHBlZF9udWxsX3ZhbHVlcwo=</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuX21hcHBlZF9zdWNjZXNzX3ZhbHVlcyA9IGJvb2xlYW5fbWFwcGVkX251bGxfdmFsdWVzPT1GYWxzZQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>= boolean_mapped_null_values
-        boolean_mapped_null_values = s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB1bmV4cGVjdGVkX2NvdW50ID0gbGVuKHVuZXhwZWN0ZWRfbGlzdCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBub25udWxsX3ZhbHVlcyA9IHNlcmllc1tib29sZWFuX21hcHBlZF9udWxsX3ZhbHVlcz09RmFsc2VdCg==</text>
+        <text encoding="base64">ICAgICAgICBzdWNjZXNzX2NvdW50ID0gYm9vbGVhbl9tYXBwZWRfc3VjY2Vzc192YWx1ZXMuc3VtKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBub25udWxsX2NvdW50ID0gaW50KChib29sZWFuX21hcHBlZF9udWxsX3ZhbHVlcz09RmFsc2UpLnN1bSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBub25udWxsX3ZhbHVlcyA9IHNlcmllc1tib29sZWFuX21hcHBlZF9udWxsX3ZhbHVlcz09RmFsc2VdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
