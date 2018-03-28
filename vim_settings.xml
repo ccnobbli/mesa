@@ -18,10 +18,10 @@
       <file name="/fragment.py" timestamp="1519059258245">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/Coalition_Crime.py" timestamp="1520968286541">
-        <mark key="[" line="84" column="30" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/Coalition_Crime.py" timestamp="1522239341382">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_fixtures/fixed_distributional_datasets.py" timestamp="1519395036823">
         <mark key="[" line="0" column="67" />
@@ -66,16 +66,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1521809350508">
-        <mark key="[" line="41" column="29" />
-        <mark key="]" line="41" column="27" />
-        <mark key="." line="41" column="27" />
-        <mark key="^" line="41" column="27" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1520966626378">
-        <mark key="[" line="115" column="8" />
-        <mark key="]" line="115" column="8" />
-        <mark key="." line="115" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1522240224569">
+        <mark key="[" line="70" column="54" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/Scratch.py" timestamp="1519839679507">
         <mark key="[" line="19" column="0" />
@@ -120,7 +114,7 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1521556868424">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
-        <mark key="^" line="34" column="0" />
+        <mark key="^" line="36" column="0" />
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_dataset.py" timestamp="1521805434626">
@@ -225,64 +219,65 @@
       <jump line="41" column="15" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_parameterized_distribution_ks_test_p_value_to_be_greater_than.json" />
       <jump line="106" column="8" filename="$USER_HOME$/PycharmProjects/ABM/batch.py" />
       <jump line="256" column="37" filename="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" />
+      <jump line="136" column="0" filename="$USER_HOME$/PycharmProjects/ABM/environment.py" />
+      <jump line="159" column="0" filename="$USER_HOME$/PycharmProjects/ABM/environment.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBuZXdfcGxhY2UgPSBbXSAgIyBQbGFjZWhvbGRlciBsaXN0Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbmlcPg==</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXgyLmltc2hvdyhzZWxmLnJlc3VsdHNfZnJvbV9zaW1bMF0ucG9saWNlX2hlYXRfbWFwc1tpXSwgY21hcD0ncGxhc21hJywgdm1pbj0wLCB2bWF4PTEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBlbnYsIG51bV9ydW5zLCBkb19hbmltYXRpb249RmFsc2UsNyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXdfcGxhY2UgPSBbXSAgIyBQbGFjZWhvbGRlciBsaXN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5yZXN1bHRzX2Zyb21fc2ltWzBdLmNpdl9oZWF0X21hcHMpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNyaW1lc190aGlzX3R1cm4gPSBuZXdfcGxhY2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBoZWF0cGxvdCA9IGF4Lmltc2hvdyhzZWxmLnJlc3VsdHNfZnJvbV9zaW1bMF0uY3JpbWluYWxfaGVhdF9tYXBzWzBdLCBjbWFwPSdob3QnLCB2bWluPTAsIHZtYXg9MSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0cihjcmltaW5hbC51aWQpLCBzdHIoY29hbGl0aW9uLnVpZCksIHN0cihuZXdfY29hbGl0aW9uLnVpZCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoZWF0cGxvdCA9IGF4Lmltc2hvdyhzZWxmLnJlc3VsdHNfZnJvbV9zaW1bMF0ucG9saWNlX2hlYXRfbWFwc1swXSwgY21hcD0naG90Jywgdm1pbj0wLCB2bWF4PTEpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIEZJWE1FIFVzaW5nIG5ldyBDb2FsaXRpb24uTWVyZ2VfQ29hbGl0aW9ucyAtIEN1cnJlbnRseSBmaXJzdCBjb2FsaXRpb24gd2lsbCBhYnNvcmIgc2Vjb25kLCBvcmRlciByYW5kb21pemVkLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBoZWF0cGxvdCA9IGF4Lmltc2hvdyhzZWxmLnJlc3VsdHNfZnJvbV9zaW1bMF0ucG9saWNlX2hlYXRfbWFwc1swXSwgY21hcD0naG90Jywgdm1pbj0wLCB2bWF4PTEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGVuKGNvYWxpdGlvbi5tZW1iZXJzKSkgKyAiIG1lbWJlcnMiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQueGxhYmVsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiQ29hbGl0aW9uICIgKyBzdHIoY29hbGl0aW9uLnVpZCkgKyAiIG1lcmdlZCB3aXRoIGFub3RoZXIgY29hbGl0aW9uIGFuZCBub3cgaGFzICIgKyBzdHIoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQueGxhYmVsCiAgICAgICAgYXguc2V0KHhsaW09KDAsIHNlbGYucmVzdWx0c19mcm9tX3NpbVswXS5lbnYuZ3JpZF93aWR0aCksIHlsaW09KDAsIHNlbGYucmVzdWx0c19mcm9tX3NpbVswXS5lbnYuZ3JpZF9oZWlnaHQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoIkNyaW1pbmFsICVzIHNwbGl0IGZyb20gQ29hbGl0aW9uICVzIHRvIGZvcm0gbmV3IENvYWxpdGlvbiAlcyIgJSAoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQueGxhYmVsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoIkNyaW1pbmFsICIgKyBzdHIoY3JpbWluYWwudWlkKSArICIgaXMgY2F1Z2h0IGF0ICIgKyBzdHIoW2NyaW1pbmFsLngsIGNyaW1pbmFsLnldKSArICIuIikK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgIyBDaXZpbGlhbiBsb2NhdGlvbiBoZWF0IG1hcAogICAgICAgIGYsIChheDEsIGF4MiwgYXgzKSA9IHBsdC5zdWJwbG90cygxLCAzLCBzaGFyZXk9VHJ1ZSkKICAgICAgICBheDEuaW1zaG93KGFnZ19pbml0X2NpdmlsaWFuX2xvY2F0aW9ucywgY21hcD0naG90JywgYXNwZWN0PSdhdXRvJykKICAgICAgICBheDEuc2V0X3RpdGxlKCJBZ2dyZWdhdGUgSW5pdGlhbCBDaXZpbGlhbiBMb2NhdGlvbnMiKQogICAgICAgIGF4Mi5pbXNob3coYWdnX2NpdmlsaWFuX2xvY2F0aW9ucywgY21hcD0naG90JywgYXNwZWN0PSdhdXRvJykKICAgICAgICBheDIuc2V0X3RpdGxlKCJBZ2dyZWdhdGUgQ2l2aWxpYW4gTG9jYXRpb25zIikKICAgICAgICBheDMuaW1zaG93KGFnZ19jcmltZV9sb2NhdGlvbnMsIGNtYXA9J2hvdCcsIGFzcGVjdD0nYXV0bycpCiAgICAgICAgYXgzLnNldF90aXRsZSgiQWdncmVnYXRlIENyaW1lIExvY2F0aW9ucyIpCiAgICAgICAgYXgxLmludmVydF95YXhpcygpCiAgICAgICAgcGx0LnNob3coKQoKICAgICAgICAjIFBvbGljZSBpbmZvcm1hdGlvbiBoZWF0bWFwcwogICAgICAgIGYsIChheDEsIGF4MiwgYXgzKSA9IHBsdC5zdWJwbG90cygxLCAzLCBzaGFyZXk9VHJ1ZSkKICAgICAgICBheDEuaW1zaG93KGFnZ19pbml0X3BvbGljZV9sb2NhdGlvbnMsIGNtYXA9J2hvdCcsIGFzcGVjdD0nYXV0bycpCiAgICAgICAgYXgxLnNldF90aXRsZSgiQWdncmVnYXRlIEluaXRpYWwgUG9saWNlIExvY2F0aW9ucyIpCiAgICAgICAgYXgyLmltc2hvdyhhZ2dfcG9saWNlX2xvY2F0aW9ucywgY21hcD0naG90JywgYXNwZWN0PSdhdXRvJykKICAgICAgICBheDIuc2V0X3RpdGxlKCJBZ2dyZWdhdGUgUG9saWNlIExvY2F0aW9ucyIpCiAgICAgICAgYXgzLmltc2hvdyhhZ2dfY3JpbWVfbG9jYXRpb25zLCBjbWFwPSdob3QnLCBhc3BlY3Q9J2F1dG8nKQogICAgICAgIGF4My5zZXRfdGl0bGUoIkFnZ3JlZ2F0ZSBDcmltZSBMb2NhdGlvbnMiKQogICAgICAgIGF4MS5pbnZlcnRfeWF4aXMoKQogICAgICAgIHBsdC5zaG93KCkKCiAgICAgICAgIyBDcmltaW5hbCBoZWF0bWFwcwogICAgICAgIGYsIChheDEsIGF4MiwgYXgzKSA9IHBsdC5zdWJwbG90cygxLCAzLCBzaGFyZXk9VHJ1ZSkKICAgICAgICBheDEuaW1zaG93KGFnZ19pbml0X2NyaW1pbmFsX2xvY2F0aW9ucywgY21hcD0naG90JywgYXNwZWN0PSdhdXRvJykKICAgICAgICBheDEuc2V0X3RpdGxlKCJBZ2dyZWdhdGUgSW5pdGlhbCBDcmltaW5hbCBMb2NhdGlvbnMiKQogICAgICAgIGF4Mi5pbXNob3coYWdnX2NyaW1pbmFsX2xvY2F0aW9ucywgY21hcD0naG90JywgYXNwZWN0PSdhdXRvJykKICAgICAgICBheDIuc2V0X3RpdGxlKCJBZ2dyZWdhdGUgQ3JpbWluYWwgTG9jYXRpb25zIikKICAgICAgICBheDMuaW1zaG93KGFnZ19jcmltZV9sb2NhdGlvbnMsIGNtYXA9J2hvdCcsIGFzcGVjdD0nYXV0bycpCiAgICAgICAgYXgzLnNldF90aXRsZSgiQWdncmVnYXRlIENyaW1lIExvY2F0aW9ucyIpCiAgICAgICAgYXgxLmludmVydF95YXhpcygpCiAgICAgICAgcGx0LnNob3coKQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQoIkNsb3Nlc3QgUG9saWNlIG9mZmljZXIgIiArIHN0cihjbG9zZXN0X3BvbGljZS51aWQpICsgIiBhdCBbIiArIHN0cihjbG9zZXN0X3BvbGljZS54KSArICIsICIgKyBzdHIoY2xvc2VzdF9wb2xpY2UueSkgKyAiXSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbmlcPg==</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbmlcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>print</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>distribution</entry>
         <entry>p_value_to_be_greater</entry>
         <entry>gamma</entry>
         <entry>max</entry>
@@ -302,6 +297,7 @@
         <entry encoding="base64">XDxyYWlzZVw+</entry>
         <entry>be between 0 and 1 exclusive</entry>
         <entry encoding="base64">XDxhbmlcPg==</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>h matchpairs</entry>
