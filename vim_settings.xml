@@ -36,10 +36,13 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/batch_scratch.py" timestamp="1522332201203">
         <mark key="[" line="2" column="31" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/schedule.py" timestamp="1522343660982">
+        <mark key="[" line="6" column="29" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/agents.py" timestamp="1522339341352">
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="16" column="7" />
-        <mark key="." line="16" column="7" />
+        <mark key="[" line="17" column="7" />
+        <mark key="]" line="17" column="7" />
+        <mark key="." line="17" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/animation.py" timestamp="1521811983283">
         <mark key="[" line="24" column="0" />
@@ -67,6 +70,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/config/environment_config.py" timestamp="1522344097916">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="5" />
+        <mark key="." line="10" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1522248811134">
         <mark key="'" line="1301" column="23" />
@@ -116,12 +124,11 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Coalition.py" timestamp="1519842369664">
         <mark key="[" line="60" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/model.py" timestamp="1522340091375">
-        <mark key="'" line="19" column="13" />
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="21" />
-        <mark key="." line="19" column="21" />
-        <mark key="^" line="19" column="56" />
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/model.py" timestamp="1522344285039">
+        <mark key="'" line="27" column="13" />
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="24" column="19" />
+        <mark key="." line="24" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_utils.py" timestamp="1521825045886">
         <mark key="[" line="143" column="0" />
@@ -259,11 +266,11 @@
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRpYWxfcG9wdWxhdGlvbiA9IGluaXRpYWxfcG9wdWxhdGlvbgo=</text>
+      <register name="&quot;" type="4">
+        <text>l_criminal</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>l_criminal</text>
       </register>
       <register name="/" type="4">
         <text>criminal</text>
@@ -272,33 +279,39 @@
         <text encoding="base64">ICAgICAgICAgICAgYXgyLmltc2hvdyhzZWxmLnJlc3VsdHNfZnJvbV9zaW1bMF0ucG9saWNlX2hlYXRfbWFwc1tpXSwgY21hcD0ncGxhc21hJywgdm1pbj0wLCB2bWF4PTEpCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgI21ldGFib2xpc20gPSByYW5kb20ucmFuZHJhbmdlKDIsIDQpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjIENyZWF0ZSBhZ2VudDoK</text>
+      </register>
+      <register name="3" type="4">
+        <text>import numpy as np
+        sugar_distribution = np.genfromtxt(&quot;sugarscape/sugar-map.txt&quot;)
+        for _, x, y in self.grid.coord_iter():
+            max_sugar = sugar_distribution[x, y]
+            sugar = Sugar((x, y), self, max_sugar)
+            self.grid.place_agent(sugar, (x, y))
+            self.schedule.add(sugar)</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmluaXRpYWxfcG9wdWxhdGlvbiA9IGluaXRpYWxfcG9wdWxhdGlvbgo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>height=50, width=50,
                  initial_population=10</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>height=50, width=50,
                  initial_population=100)</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICIiIgogICAgICAgIAogICAgICAgIDpyZXR1cm46IAogICAgICAgICIiIg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBGSVhNRSBQb3NzaWJseSBwYXNzIGluIHRoZSBtb3ZpbmcgYXZlcmFnZSBjb2VmZmljaWVudD8K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGRucC50ZXN0aW5nLmFzc2VydF9lcXVhbChhLCBjKQo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICMgZnJvbSBodHRwczogLy8gc3RhY2tvdmVyZmxvdy5jb20gLyBxdWVzdGlvbnMgLyAxMDcxMDMyOCAvIGNvbXBhcmluZyAtIG51bXB5IC0gYXJyYXlzIC0gY29udGFpbmluZyAtIG5hbgogICAgICAgIGRlZiBuYW5fZXF1YWwoYXJyYXlfYSwgYXJyYXlfYik6CiAgICAgICAgICAgICIiIkhlbHBlciBmdW5jdGlvbiB0byBhc3NlcnQgZXF1YWxpdHkgd2l0aCBhcnJheSdzIGNvbnRhaW5pbmcgbnAubmFuIiIiCiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIG5wLnRlc3RpbmcuYXNzZXJ0X2VxdWFsKGFycmF5X2EsIGFycmF5X2IpCiAgICAgICAgICAgIGV4Y2VwdCBBc3NlcnRpb25FcnJvcjo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBGSVhNRSBQb3NzaWJseSBwYXNzIGluIHRoZSBtb3ZpbmcgYXZlcmFnZSBjb2VmZmljaWVudD8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
