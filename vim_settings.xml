@@ -33,16 +33,17 @@
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_fixtures/fixed_distributional_datasets.py" timestamp="1519395036823">
         <mark key="[" line="0" column="67" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/wolf_sheep/wolf_sheep/server.py" timestamp="1522347063755" />
       <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/batch_scratch.py" timestamp="1522332201203">
         <mark key="[" line="2" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/schedule.py" timestamp="1522343660982">
         <mark key="[" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/agents.py" timestamp="1522339341352">
-        <mark key="[" line="17" column="7" />
-        <mark key="]" line="17" column="7" />
-        <mark key="." line="17" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/agents.py" timestamp="1522348665739">
+        <mark key="[" line="45" column="13" />
+        <mark key="]" line="78" column="15" />
+        <mark key="." line="78" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/animation.py" timestamp="1521811983283">
         <mark key="[" line="24" column="0" />
@@ -71,10 +72,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/config/environment_config.py" timestamp="1522344097916">
-        <mark key="[" line="10" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/config/environment_config.py" timestamp="1522347751078">
+        <mark key="[" line="7" column="8" />
         <mark key="]" line="10" column="5" />
         <mark key="." line="10" column="5" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/server.py" timestamp="1522348603789">
+        <mark key="[" line="67" column="36" />
+        <mark key="]" line="67" column="36" />
+        <mark key="." line="67" column="36" />
+        <mark key="^" line="54" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1522248811134">
         <mark key="'" line="1301" column="23" />
@@ -96,6 +103,7 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/sugarscape_cg/sugarscape/server.py" timestamp="1522347398023" />
       <file name="$USER_HOME$/PycharmProjects/great_expectations/Scratch.py" timestamp="1519839679507">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -104,7 +112,7 @@
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/test_column_aggregate_expectations.py" timestamp="1521556615296">
         <mark key="[" line="31" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521635060386">
+      <file name="/Dummy.txt" timestamp="1522347572218">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -124,11 +132,10 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Coalition.py" timestamp="1519842369664">
         <mark key="[" line="60" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/model.py" timestamp="1522344285039">
-        <mark key="'" line="27" column="13" />
-        <mark key="[" line="24" column="19" />
-        <mark key="]" line="24" column="19" />
-        <mark key="." line="24" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/model.py" timestamp="1522348698186">
+        <mark key="[" line="75" column="8" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_utils.py" timestamp="1521825045886">
         <mark key="[" line="143" column="0" />
@@ -148,6 +155,7 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/wolf_sheep/wolf_sheep/random_walk.py" timestamp="1522346816264" />
       <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1522333902359">
         <mark key="[" line="13" column="27" />
         <mark key="]" line="7" column="0" />
@@ -266,11 +274,11 @@
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>l_criminal</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIEZJWE1FIGNvbnRpbnVlIHRvIGdlbmVyYXRlIG1hcCBsaWtlIHdlIGRpZCBmb3IgUkFUCg==</text>
       </register>
       <register name="-" type="4">
-        <text>l_criminal</text>
+        <text>ec.environ</text>
       </register>
       <register name="/" type="4">
         <text>criminal</text>
@@ -279,39 +287,31 @@
         <text encoding="base64">ICAgICAgICAgICAgYXgyLmltc2hvdyhzZWxmLnJlc3VsdHNfZnJvbV9zaW1bMF0ucG9saWNlX2hlYXRfbWFwc1tpXSwgY21hcD0ncGxhc21hJywgdm1pbj0wLCB2bWF4PTEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI21ldGFib2xpc20gPSByYW5kb20ucmFuZHJhbmdlKDIsIDQpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIEZJWE1FIGNvbnRpbnVlIHRvIGdlbmVyYXRlIG1hcCBsaWtlIHdlIGRpZCBmb3IgUkFUCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIENyZWF0ZSBhZ2VudDoK</text>
+        <text encoding="base64">ICAgICAgICAjIEZJWE1FIHN0b3BwZWQgaGVyZSB3aGlsZSByZWZhY3RvcmluZyBzdWdhcnNjYXBlIG1vZGVsCg==</text>
       </register>
       <register name="3" type="4">
-        <text>import numpy as np
-        sugar_distribution = np.genfromtxt(&quot;sugarscape/sugar-map.txt&quot;)
-        for _, x, y in self.grid.coord_iter():
-            max_sugar = sugar_distribution[x, y]
-            sugar = Sugar((x, y), self, max_sugar)
-            self.grid.place_agent(sugar, (x, y))
-            self.schedule.add(sugar)</text>
+        <text encoding="base64">ICAjIExlYXZlIHRoZSBjb25maWcgZmlsZXMgZm9yIGxhdGVyIGFjY2VzcyBpZiBuZWVkZWQKICAgICAgICBzZWxmLiA9IA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRpYWxfcG9wdWxhdGlvbiA9IGluaXRpYWxfcG9wdWxhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBwb3J0cmF5YWxbIkNvbG9yIl0gPSBbIiM4NGUxODQiLCAiI2FkZWJhZCIsICIjZDZmNWQ2Il0K</text>
       </register>
-      <register name="5" type="4">
-        <text>height=50, width=50,
-                 initial_population=10</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>height=50, width=50,
-                 initial_population=100)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBhZ2VudC5mdWxseV9ncm93bjoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb3J0cmF5YWxbInRleHQiXSA9IHJvdW5kKGFnZW50LmVuZXJneSwgMSkK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICIiIgogICAgICAgIAogICAgICAgIDpyZXR1cm46IAogICAgICAgICIiIg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Y2xhc3MgUG9saWNlKEFnZW50KToK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGSVhNRSBQb3NzaWJseSBwYXNzIGluIHRoZSBtb3ZpbmcgYXZlcmFnZSBjb2VmZmljaWVudD8K</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGlmIHNlbGYudmVyYm9zZToKICAgICAgICAgICAgcHJpbnQoJycpCiAgICAgICAgICAgIHByaW50KCdGaW5hbCBudW1iZXIgU3VnYXJzY2FwZSBBZ2VudDogJywKICAgICAgICAgICAgICAgICAgc2VsZi5zY2hlZHVsZS5nZXRfYnJlZWRfY291bnQoU3NBZ2VudCkp</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
