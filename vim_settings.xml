@@ -36,6 +36,11 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/batch_scratch.py" timestamp="1522332201203">
         <mark key="[" line="2" column="31" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/agents.py" timestamp="1522339341352">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/animation.py" timestamp="1521811983283">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -102,6 +107,7 @@
         <mark key="]" line="95" column="7" />
         <mark key="." line="95" column="7" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/wolf_sheep/wolf_sheep/agents.py" timestamp="1522339401143" />
       <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/Scratch.py" timestamp="1521119762866">
         <mark key="[" line="40" column="5" />
         <mark key="]" line="40" column="0" />
@@ -109,6 +115,13 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/Coalition.py" timestamp="1519842369664">
         <mark key="[" line="60" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/model.py" timestamp="1522340091375">
+        <mark key="'" line="19" column="13" />
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="21" />
+        <mark key="." line="19" column="21" />
+        <mark key="^" line="19" column="56" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_utils.py" timestamp="1521825045886">
         <mark key="[" line="143" column="0" />
@@ -122,6 +135,11 @@
         <mark key="]" line="256" column="37" />
         <mark key="." line="256" column="37" />
         <mark key="^" line="256" column="37" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/sugarscape_cg/sugarscape/model.py" timestamp="1522340082067">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1522333902359">
         <mark key="[" line="13" column="27" />
@@ -235,64 +253,66 @@
       <jump line="159" column="0" filename="$USER_HOME$/PycharmProjects/ABM/environment.py" />
       <jump line="324" column="116" filename="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" />
       <jump line="1297" column="23" filename="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" />
+      <jump line="19" column="13" filename="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/model.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>jj</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBGSVhNRSBQb3NzaWJseSBwYXNzIGluIHRoZSBtb3ZpbmcgYXZlcmFnZSBjb2VmZmljaWVudD8K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRpYWxfcG9wdWxhdGlvbiA9IGluaXRpYWxfcG9wdWxhdGlvbgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>criminal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXgyLmltc2hvdyhzZWxmLnJlc3VsdHNfZnJvbV9zaW1bMF0ucG9saWNlX2hlYXRfbWFwc1tpXSwgY21hcD0ncGxhc21hJywgdm1pbj0wLCB2bWF4PTEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBGSVhNRSBQb3NzaWJseSBwYXNzIGluIHRoZSBtb3ZpbmcgYXZlcmFnZSBjb2VmZmljaWVudD8K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRpYWxfcG9wdWxhdGlvbiA9IGluaXRpYWxfcG9wdWxhdGlvbgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZGRucC50ZXN0aW5nLmFzc2VydF9lcXVhbChhLCBjKQo=</text>
+      <register name="2" type="4">
+        <text>height=50, width=50,
+                 initial_population=10</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICMgZnJvbSBodHRwczogLy8gc3RhY2tvdmVyZmxvdy5jb20gLyBxdWVzdGlvbnMgLyAxMDcxMDMyOCAvIGNvbXBhcmluZyAtIG51bXB5IC0gYXJyYXlzIC0gY29udGFpbmluZyAtIG5hbgogICAgICAgIGRlZiBuYW5fZXF1YWwoYXJyYXlfYSwgYXJyYXlfYik6CiAgICAgICAgICAgICIiIkhlbHBlciBmdW5jdGlvbiB0byBhc3NlcnQgZXF1YWxpdHkgd2l0aCBhcnJheSdzIGNvbnRhaW5pbmcgbnAubmFuIiIiCiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIG5wLnRlc3RpbmcuYXNzZXJ0X2VxdWFsKGFycmF5X2EsIGFycmF5X2IpCiAgICAgICAgICAgIGV4Y2VwdCBBc3NlcnRpb25FcnJvcjo=</text>
+        <text>height=50, width=50,
+                 initial_population=100)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+        <text encoding="base64">ICIiIgogICAgICAgIAogICAgICAgIDpyZXR1cm46IAogICAgICAgICIiIg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBGSVhNRSBQb3NzaWJseSBwYXNzIGluIHRoZSBtb3ZpbmcgYXZlcmFnZSBjb2VmZmljaWVudD8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfcGxhY2UgPSBbXSAgIyBQbGFjZWhvbGRlciBsaXN0Cg==</text>
+        <text encoding="base64">ZGRucC50ZXN0aW5nLmFzc2VydF9lcXVhbChhLCBjKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNyaW1lc190aGlzX3R1cm4gPSBuZXdfcGxhY2UK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICMgZnJvbSBodHRwczogLy8gc3RhY2tvdmVyZmxvdy5jb20gLyBxdWVzdGlvbnMgLyAxMDcxMDMyOCAvIGNvbXBhcmluZyAtIG51bXB5IC0gYXJyYXlzIC0gY29udGFpbmluZyAtIG5hbgogICAgICAgIGRlZiBuYW5fZXF1YWwoYXJyYXlfYSwgYXJyYXlfYik6CiAgICAgICAgICAgICIiIkhlbHBlciBmdW5jdGlvbiB0byBhc3NlcnQgZXF1YWxpdHkgd2l0aCBhcnJheSdzIGNvbnRhaW5pbmcgbnAubmFuIiIiCiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIG5wLnRlc3RpbmcuYXNzZXJ0X2VxdWFsKGFycmF5X2EsIGFycmF5X2IpCiAgICAgICAgICAgIGV4Y2VwdCBBc3NlcnRpb25FcnJvcjo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0cihjcmltaW5hbC51aWQpLCBzdHIoY29hbGl0aW9uLnVpZCksIHN0cihuZXdfY29hbGl0aW9uLnVpZCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>criminal</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>criminal</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>p_value_to_be_greater</entry>
         <entry>gamma</entry>
         <entry>max</entry>
         <entry>andN</entry>
@@ -312,6 +332,7 @@
         <entry>be between 0 and 1 exclusive</entry>
         <entry encoding="base64">XDxhbmlcPg==</entry>
         <entry>print</entry>
+        <entry>criminal</entry>
       </history-search>
       <history-cmd>
         <entry>h matchpairs</entry>
