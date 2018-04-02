@@ -24,12 +24,12 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Agent.py" timestamp="1519844382650">
         <mark key="[" line="69" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/batch.py" timestamp="1522683850816">
-        <mark key="'" line="179" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/batch.py" timestamp="1522687689588">
         <mark key="k" line="136" column="16" />
-        <mark key="[" line="124" column="57" />
-        <mark key="]" line="124" column="57" />
-        <mark key="." line="124" column="57" />
+        <mark key="[" line="301" column="38" />
+        <mark key="]" line="301" column="38" />
+        <mark key="." line="301" column="38" />
+        <mark key="^" line="293" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_sets/fixed_distributional_test_dataset.json" timestamp="1521563877733">
         <mark key="[" line="0" column="0" />
@@ -266,101 +266,64 @@
       <jump line="324" column="116" filename="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" />
       <jump line="1297" column="23" filename="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" />
       <jump line="19" column="13" filename="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/model.py" />
+      <jump line="385" column="10" filename="$USER_HOME$/PycharmProjects/ABM/batch.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>gridspec_kw={'width_ratios': [1,1, 1], 'height_ratios': [1]})</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>gridspec_kw={'width_ratios': [1,1, 1], 'height_ratios': [1]})</text>
+        <text>police_step_loc</text>
       </register>
       <register name="/" type="4">
-        <text>HEAD</text>
+        <text encoding="base64">XDxBZGRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXguc2V0X3RpdGxlKCJDaXZpbGlhbnMiKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaWcuY29sb3JiYXIoaW0pCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQoc3RyKGNyaW1pbmFsLnVpZCkgKyAiOiAiICsgc3RyKGNyaW1pbmFsLngpICsgIiwgIiArIHN0cihjcmltaW5hbC55KSkK</text>
+        <text encoding="base64">ICAgICAgICAjIFNvbHV0aW9uPz8gQXBwbHkgbW92aW5nIGF2ZXJhZ2UgY29mZmljaWVudCB0byBsYXN0IGZyYW1lLCBUSEVOIHVwZGF0ZSB3aGVyZSBjaXZpbGlhbnMgYXJlID0gMQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCgiQ09BTElUSU9OOiAiICsgc3RyKGNvYWxpdGlvbi51aWQpICsgIiAiICsgc3RyKGNvYWxpdGlvbi54KSArICIsICIgKyBzdHIoY29hbGl0aW9uLnkpKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAjIC0tLS0tLS0tLURFUFJFQ0FURUQtLS0tLS0tLS0tLQoKICAgICAgICAjIC0tLS0gQ2l2aWxpYW5zCiAgICAgICAgcHJpbnQoIkNyZWF0aW5nIGNpdmlsaWFuIGFuaW1hdGlvbi4uLiIpCgogICAgICAgIGZpZywgYXggPSBwbHQuc3VicGxvdHMoKQogICAgICAgIGZpZy5jb2xvcmJhcihpbSkKICAgICAgICBheC5zZXQoeGxpbT0oMCwgc2VsZi5yZXN1bHRzX2Zyb21fc2ltWzBdLmVudi5ncmlkX3dpZHRoKSwgeWxpbT0oMCwgc2VsZi5yZXN1bHRzX2Zyb21fc2ltWzBdLmVudi5ncmlkX2hlaWdodCkpCgogICAgICAgICNoZWF0cGxvdCA9IGF4Lmltc2hvdyhzZWxmLnJlc3VsdHNfZnJvbV9zaW1bMF0uY2l2X2hlYXRfbWFwc1swXSwgY21hcD0naG90Jywgdm1pbj0wLCB2bWF4PTEpCiAgICAgICAgZGVmIGFuaW1hdGVfY2l2aWxpYW4oaSk6CiAgICAgICAgICAgIGF4LmNsZWFyKCkKCiAgICAgICAgICAgIGF4LnNldF90aXRsZSgiQ2l2aWxpYW5zIikKICAgICAgICAgICAgYXguaW1zaG93KHNlbGYucmVzdWx0c19mcm9tX3NpbVswXS5jaXZfaGVhdF9tYXBzW2ldLCBjbWFwPSdwbGFzbWEnLCB2bWluPTAsIHZtYXg9MSkKICAgICAgICAgICAgYXguc2V0X3hsYWJlbCgiU3RlcCAjICVzIiAlIHN0cihpKSkKICAgICAgICAgICAgYXguaW52ZXJ0X3lheGlzKCkKCiAgICAgICAgYW5pbSA9IGFuaW1hdGlvbi5GdW5jQW5pbWF0aW9uKGZpZywgYW5pbWF0ZV9jaXZpbGlhbiwgaW50ZXJ2YWw9MTAwLCBmcmFtZXM9c2VsZi5udW1fc3RlcHMsIHJlcGVhdF9kZWxheT0xMDAwKQoKICAgICAgICBwbHQudGl0bGUoIkNpdmlsaWFuIEFuaW1hdGlvbiIpCiAgICAgICAgYW5pbS5zYXZlKCJhbmltYXRpb25zL2FsbF90b2dldGhlcl9oZWF0bWFwLm1wNCIsIHdyaXRlcj0nZmZtcGVnJykKICAgICAgICBwbHQuZHJhdygpCiAgICAgICAgcGx0LnNob3coKQoKCiAgICAgICAgIyAtLS0tLS0gUG9saWNlCiAgICAgICAgcHJpbnQoIkNyZWF0aW5nIHBvbGljZSBhbmltYXRpb24uLi4iKQoKICAgICAgICBmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKCkKICAgICAgICBmaWcuY29sb3JiYXIoaW0pCiAgICAgICAgcGx0LnRpdGxlKCJQb2xpY2UiKQogICAgICAgIGF4LnNldCh4bGltPSgwLCBzZWxmLnJlc3VsdHNfZnJvbV9zaW1bMF0uZW52LmdyaWRfd2lkdGgpLCB5bGltPSgwLCBzZWxmLnJlc3VsdHNfZnJvbV9zaW1bMF0uZW52LmdyaWRfaGVpZ2h0KSkKICAgICAgICBkZWYgYW5pbWF0ZV9wb2xpY2UoaSk6CiAgICAgICAgICAgIGF4LmNsZWFyKCkKICAgICAgICAgICAgYXguc2V0X3RpdGxlKCJQb2xpY2UiKQogICAgICAgICAgICBheC5zZXRfeGxhYmVsKCJTdGVwICMgJXMiICUgc3RyKGkpKQogICAgICAgICAgICBheC5pbXNob3coc2VsZi5yZXN1bHRzX2Zyb21fc2ltWzBdLnBvbGljZV9oZWF0X21hcHNbaV0sIGNtYXA9J3BsYXNtYScsIHZtaW49MCwgdm1heD0xKQogICAgICAgICAgICBheC5pbnZlcnRfeWF4aXMoKQoKICAgICAgICBhbmltID0gYW5pbWF0aW9uLkZ1bmNBbmltYXRpb24oZmlnLCBhbmltYXRlX3BvbGljZSwgaW50ZXJ2YWw9MTAwLCBmcmFtZXM9c2VsZi5udW1fc3RlcHMsIHJlcGVhdF9kZWxheT0xMDAwKQogICAgICAgIGFuaW0uc2F2ZSgiYW5pbWF0aW9ucy9wb2xpY2VfaGVhdG1hcC5tcDQiLCB3cml0ZXI9J2ZmbXBlZycpCiAgICAgICAgcGx0LmRyYXcoKQogICAgICAgIHBsdC5zaG93KCkKCiAgICAgICAgIyAtLS0tLS0gQ3JpbWluYWxzCiAgICAgICAgcHJpbnQoIkNyZWF0aW5nIGNyaW1pbmFsIGFuaW1hdGlvbi4uLiIpCgogICAgICAgIGZpZywgYXggPSBwbHQuc3VicGxvdHMoKQogICAgICAgIGZpZy5jb2xvcmJhcihpbSkKICAgICAgICBwbHQudGl0bGUoIkNyaW1pbmFscyIpCiAgICAgICAgYXguc2V0KHhsaW09KDAsIHNlbGYucmVzdWx0c19mcm9tX3NpbVswXS5lbnYuZ3JpZF93aWR0aCksIHlsaW09KDAsIHNlbGYucmVzdWx0c19mcm9tX3NpbVswXS5lbnYuZ3JpZF9oZWlnaHQpKQoKICAgICAgICBkZWYgYW5pbWF0ZV9jcmltaW5hbChpKToKICAgICAgICAgICAgYXguY2xlYXIoKQogICAgICAgICAgICBheC5zZXRfdGl0bGUoIkNyaW1pbmFscyIpCiAgICAgICAgICAgIGF4LnNldF94bGFiZWwoIlN0ZXAgIzogJXMiICUgc3RyKGkpKQogICAgICAgICAgICBheC5pbXNob3coc2VsZi5yZXN1bHRzX2Zyb21fc2ltWzBdLmNyaW1pbmFsX2hlYXRfbWFwc1tpXSwgY21hcD0ncGxhc21hJywgdm1pbj0wLCB2bWF4PTEpCiAgICAgICAgICAgIGF4LmludmVydF95YXhpcygpCgogICAgICAgIGFuaW0gPSBhbmltYXRpb24uRnVuY0FuaW1hdGlvbihmaWcsIGFuaW1hdGVfY3JpbWluYWwsIGludGVydmFsPTEwMCwgZnJhbWVzPXNlbGYubnVtX3N0ZXBzLCByZXBlYXRfZGVsYXk9MTAwMCkKICAgICAgICBhbmltLnNhdmUoImFuaW1hdGlvbnMvY3JpbWluYWxfaGVhdG1hcC5tcDQiLCB3cml0ZXI9J2ZmbXBlZycpCiAgICAgICAgcGx0LmRyYXcoKQogICAgICAgIHBsdC5zaG93KCkKCiAgICAgICAgcmV0dXJu</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQoc3RyKGNyaW1pbmFsLnVpZCkgKyAiOiAiICsgc3RyKGNyaW1pbmFsLngpICsgIiwgIiArIHN0cihjcmltaW5hbC55KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCgiQ09BTElUSU9OOiAiICsgc3RyKGNvYWxpdGlvbi51aWQpICsgIiAiICsgc3RyKGNvYWxpdGlvbi54KSArICIsICIgKyBzdHIoY29hbGl0aW9uLnkpKQo=</text>
+        <text encoding="base64">ICAgICAgICBmaWcuY29sb3JiYXIoaW0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoIkNyaW1pbmFsICIgKyBzdHIoY3JpbWluYWwudWlkKSArICIgaXMgY2F1Z2h0IGF0ICIgKyBzdHIoW2NyaW1pbmFsLngsIGNyaW1pbmFsLnldKSArICIuIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQoc3RyKGNyaW1pbmFsLnVpZCkgKyAiOiAiICsgc3RyKGNyaW1pbmFsLngpICsgIiwgIiArIHN0cihjcmltaW5hbC55KSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludCgiQ2xvc2VzdCBQb2xpY2Ugb2ZmaWNlciAiICsgc3RyKGNsb3Nlc3RfcG9saWNlLnVpZCkgKyAiIGF0IFsiICsgc3RyKGNsb3Nlc3RfcG9saWNlLngpICsgIiwgIiArIHN0cihjbG9zZXN0X3BvbGljZS55KSArICJdIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCgiQ09BTElUSU9OOiAiICsgc3RyKGNvYWxpdGlvbi51aWQpICsgIiAiICsgc3RyKGNvYWxpdGlvbi54KSArICIsICIgKyBzdHIoY29hbGl0aW9uLnkpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJDb2FsaXRpb24gIiArIHN0cihnLnVpZCkgKyAiIHJvYnMgc29tZW9uZSBhdCAiICsgc3RyKG5ld19wbGFjZVstMV0pICsgIi4iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQoc3RyKGNyaW1pbmFsLnVpZCkgKyAiOiAiICsgc3RyKGNyaW1pbmFsLngpICsgIiwgIiArIHN0cihjcmltaW5hbC55KSkK</text>
       </register>
-      <register name="9" type="4">
-        <text># ------ Police
-        print(&quot;Creating police animation...&quot;)
-
-        fig, (axCiv, axCrim, axPol) = plt.subplots(1, 3)
-        fig.colorbar(im)
-        plt.title(&quot;Police&quot;)
-        ax.set(xlim=(0, self.results_from_sim[0].env.grid_width), ylim=(0, self.results_from_sim[0].env.grid_height))
-        def animate_police(i):
-            ax.clear()
-            ax.set_title(&quot;Police&quot;)
-            ax.set_xlabel(&quot;Step # %s&quot; % str(i))
-            ax.imshow(self.results_from_sim[0].police_heat_maps[i], cmap='plasma', vmin=0, vmax=1)
-            ax.invert_yaxis()
-
-        anim = animation.FuncAnimation(fig, animate_police, interval=100, frames=self.num_steps, repeat_delay=1000)
-        anim.save(&quot;animations/police_heatmap.mp4&quot;, writer='ffmpeg')
-        plt.draw()
-        plt.show()
-
-        # ------ Criminals
-        print(&quot;Creating criminal animation...&quot;)
-
-        fig, ax = plt.subplots()
-        fig.colorbar(im)
-        plt.title(&quot;Criminals&quot;)
-        ax.set(xlim=(0, self.results_from_sim[0].env.grid_width), ylim=(0, self.results_from_sim[0].env.grid_height))
-
-        def animate_criminal(i):
-            ax.clear()
-            ax.set_title(&quot;Criminals&quot;)
-            ax.set_xlabel(&quot;Step #: %s&quot; % str(i))
-            ax.imshow(self.results_from_sim[0].criminal_heat_maps[i], cmap='plasma', vmin=0, vmax=1)
-            ax.invert_yaxis()
-
-        anim = animation.FuncAnimation(fig, animate_criminal, interval=100, frames=self.num_steps, repeat_delay=1000)
-        anim.save(&quot;animations/criminal_heatmap.mp4&quot;, writer='ffmpeg')
-        plt.draw()
-        plt.show()</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCgiQ09BTElUSU9OOiAiICsgc3RyKGNvYWxpdGlvbi51aWQpICsgIiAiICsgc3RyKGNvYWxpdGlvbi54KSArICIsICIgKyBzdHIoY29hbGl0aW9uLnkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>HEAD</last-search>
+      <last-search encoding="base64">XDxBZGRcPg==</last-search>
       <last-offset />
-      <last-pattern>HEAD</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxBZGRcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>max</entry>
         <entry>andN</entry>
         <entry>and</entry>
         <entry>scale</entry>
@@ -380,6 +343,7 @@
         <entry>print</entry>
         <entry>criminal</entry>
         <entry>HEAD</entry>
+        <entry encoding="base64">XDxBZGRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>h matchpairs</entry>
