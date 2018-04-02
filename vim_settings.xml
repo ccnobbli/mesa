@@ -6,22 +6,93 @@
       <file name="/start_script.py" timestamp="1521573323572">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/expect_column_parameterized_distribution_ks_test_p_value_to_be_greater_than.json" timestamp="1521727075512">
-        <mark key="'" line="36" column="15" />
-        <mark key="[" line="10" column="7282" />
-        <mark key="]" line="10" column="7282" />
-        <mark key="." line="10" column="7282" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/Coalition_Crime.py" timestamp="1522239341382">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ABM/animation.py" timestamp="1521811983283">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ABM/main.py" timestamp="1519234690112">
+        <mark key="[" line="72" column="15" />
+        <mark key="]" line="90" column="38" />
+        <mark key="." line="90" column="38" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ABM/Agent.py" timestamp="1519844382650">
+        <mark key="[" line="69" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_sets/fixed_distributional_test_dataset.json" timestamp="1521563877733">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_map_expectations/test_column_map_expectations.py" timestamp="1522675432556">
+        <mark key="[" line="57" column="25" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/config/environment_config.py" timestamp="1522347751078">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="10" column="5" />
+        <mark key="." line="10" column="5" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/mesa/agent.py" timestamp="1522333647118">
+        <mark key="[" line="14" column="25" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1522251305947">
+        <mark key="[" line="21" column="48" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1522332613100">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1522676786633">
+        <mark key="[" line="1608" column="58" />
+        <mark key="]" line="95" column="7" />
+        <mark key="." line="95" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/other_expectations/test_other_expectations.py" timestamp="1522676541010">
+        <mark key="[" line="58" column="25" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/model.py" timestamp="1522348698186">
+        <mark key="[" line="75" column="8" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1522677852491">
+        <mark key="[" line="705" column="0" />
+        <mark key="]" line="705" column="0" />
+        <mark key="." line="705" column="0" />
+        <mark key="^" line="270" column="27" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/sugarscape_cg/sugarscape/model.py" timestamp="1522340082067">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/sqlalchemy_dataset.py" timestamp="1522677187086">
+        <mark key="[" line="180" column="17" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_dataset.py" timestamp="1522677122394">
+        <mark key="[" line="1134" column="14" />
+        <mark key="]" line="1035" column="0" />
+        <mark key="." line="1035" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations_distributional/test_pandas_dataset_distributional_expectations.py" timestamp="1521551096348">
+        <mark key="[" line="547" column="134" />
+      </file>
+      <file name="$USER_HOME$/ABM/main.py" timestamp="1519065838365">
+        <mark key="[" line="28" column="17" />
       </file>
       <file name="/Python Console" timestamp="1521828661491">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1519059258245">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/Coalition_Crime.py" timestamp="1522239341382">
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_fixtures/fixed_distributional_datasets.py" timestamp="1519395036823">
         <mark key="[" line="0" column="67" />
@@ -38,40 +109,8 @@
         <mark key="]" line="78" column="15" />
         <mark key="." line="78" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/animation.py" timestamp="1521811983283">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/__init__.py" timestamp="1522672552562">
         <mark key="[" line="16" column="11" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/main.py" timestamp="1519234690112">
-        <mark key="[" line="72" column="15" />
-        <mark key="]" line="90" column="38" />
-        <mark key="." line="90" column="38" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/Agent.py" timestamp="1519844382650">
-        <mark key="[" line="69" column="18" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/batch.py" timestamp="1522337980296">
-        <mark key="'" line="139" column="8" />
-        <mark key="[" line="314" column="0" />
-        <mark key="]" line="314" column="0" />
-        <mark key="." line="314" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_sets/fixed_distributional_test_dataset.json" timestamp="1521563877733">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_map_expectations/test_column_map_expectations.py" timestamp="1522675432556">
-        <mark key="[" line="57" column="25" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/config/environment_config.py" timestamp="1522347751078">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="10" column="5" />
-        <mark key="." line="10" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/server.py" timestamp="1522349504174">
         <mark key="[" line="70" column="36" />
@@ -86,38 +125,22 @@
         <mark key="." line="339" column="84" />
         <mark key="^" line="339" column="76" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mesa_abm/mesa/agent.py" timestamp="1522333647118">
-        <mark key="[" line="14" column="25" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1522251305947">
-        <mark key="[" line="21" column="48" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1522332613100">
-        <mark key="[" line="14" column="7" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/sugarscape_cg/sugarscape/server.py" timestamp="1522347398023" />
       <file name="$USER_HOME$/PycharmProjects/great_expectations/Scratch.py" timestamp="1519839679507">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/test_column_aggregate_expectations.py" timestamp="1522672836315">
-        <mark key="[" line="58" column="49" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/test_column_aggregate_expectations.py" timestamp="1522676145871">
+        <mark key="[" line="59" column="28" />
+        <mark key="]" line="59" column="28" />
+        <mark key="." line="59" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522675390341">
+      <file name="/Dummy.txt" timestamp="1522677761575">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1522253162346">
-        <mark key="[" line="95" column="7" />
-        <mark key="]" line="95" column="7" />
-        <mark key="." line="95" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/wolf_sheep/wolf_sheep/agents.py" timestamp="1522339401143" />
       <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/Scratch.py" timestamp="1521119762866">
@@ -128,26 +151,14 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Coalition.py" timestamp="1519842369664">
         <mark key="[" line="60" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/model.py" timestamp="1522348698186">
-        <mark key="[" line="75" column="8" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_utils.py" timestamp="1521825045886">
         <mark key="[" line="143" column="0" />
         <mark key="]" line="143" column="0" />
         <mark key="^" line="116" column="32" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1522672782718">
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="208" column="0" />
-        <mark key="." line="208" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/sugarscape_cg/sugarscape/model.py" timestamp="1522340082067">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_great_expectations.py" timestamp="1522677209940">
+        <mark key="[" line="360" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/wolf_sheep/wolf_sheep/random_walk.py" timestamp="1522346816264" />
       <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1522333902359">
@@ -156,22 +167,8 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_dataset.py" timestamp="1522672279643">
-        <mark key="[" line="1035" column="0" />
-        <mark key="]" line="1035" column="0" />
-        <mark key="." line="1035" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations_distributional/test_pandas_dataset_distributional_expectations.py" timestamp="1521551096348">
-        <mark key="[" line="547" column="134" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_fixtures/fixed_distribution_data.py" timestamp="1521726981736">
-        <mark key="'" line="12" column="17" />
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/ABM/main.py" timestamp="1519065838365">
-        <mark key="[" line="28" column="17" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/sqlalchemy_dataset/test_sqlalchemydataset.py" timestamp="1522676572657">
+        <mark key="[" line="61" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -269,10 +266,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIEZJWE1FIFNob3VsZCBiZSBhIHByaXZhdGUgZnVuY3Rpb24K</text>
+        <text encoding="base64">PT09PT09PQogICAgZGVmIHZhbGlkYXRlKHNlbGYsIGV4cGVjdGF0aW9uc19jb25maWc9Tm9uZSwgY2F0Y2hfZXhjZXB0aW9ucz1UcnVlLCBvdXRwdXRfZm9ybWF0PU5vbmUsIGluY2x1ZGVfY29uZmlnPU5vbmUsIG9ubHlfcmV0dXJuX2ZhaWx1cmVzPUZhbHNlKToKPj4+Pj4+PiAzYTE5ZTM2YWVjMzk2MjBlYjQ4ZmY2MzY4MGYyMjhlYWE3Y2Y4YjNlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ec.environ</text>
+        <text>e.dataset.Dataset(test_case[&quot;dataset&quot;])</text>
       </register>
       <register name="/" type="4">
         <text>criminal</text>
@@ -281,31 +278,31 @@
         <text encoding="base64">ICAgICAgICAgICAgYXgyLmltc2hvdyhzZWxmLnJlc3VsdHNfZnJvbV9zaW1bMF0ucG9saWNlX2hlYXRfbWFwc1tpXSwgY21hcD0ncGxhc21hJywgdm1pbj0wLCB2bWF4PTEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIEZJWE1FIFNob3VsZCBiZSBhIHByaXZhdGUgZnVuY3Rpb24K</text>
+        <text encoding="base64">PT09PT09PQogICAgZGVmIHZhbGlkYXRlKHNlbGYsIGV4cGVjdGF0aW9uc19jb25maWc9Tm9uZSwgY2F0Y2hfZXhjZXB0aW9ucz1UcnVlLCBvdXRwdXRfZm9ybWF0PU5vbmUsIGluY2x1ZGVfY29uZmlnPU5vbmUsIG9ubHlfcmV0dXJuX2ZhaWx1cmVzPUZhbHNlKToKPj4+Pj4+PiAzYTE5ZTM2YWVjMzk2MjBlYjQ4ZmY2MzY4MGYyMjhlYWE3Y2Y4YjNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAzYTQ4N2UzNTc4MmFhNWJkMDk3NzQ3N2VmYThlYTk1ZWEyNTI1NWFkCg==</text>
+        <text encoding="base64">ICAgIGRlZiB2YWxpZGF0ZShzZWxmLCBleHBlY3RhdGlvbnNfY29uZmlnPU5vbmUsIGNhdGNoX2V4Y2VwdGlvbnM9VHJ1ZSwgcmVzdWx0X2Zvcm1hdD1Ob25lLCBvbmx5X3JldHVybl9mYWlsdXJlcz1GYWxzZSk6Cj09PT09PT0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgc3ViMS5yZW1vdmVfZmFsc2VfZXhwZWN0YXRpb25zKCkKPT09PT09PQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAzYTQ4N2UzNTc4MmFhNWJkMDk3NzQ3N2VmYThlYTk1ZWEyNTI1NWFkCg==</text>
+        <text encoding="base64">ICAgIGRlZiB2YWxpZGF0ZShzZWxmLCBleHBlY3RhdGlvbnNfY29uZmlnPU5vbmUsIGNhdGNoX2V4Y2VwdGlvbnM9VHJ1ZSwgcmVzdWx0X2Zvcm1hdD1Ob25lLCBvbmx5X3JldHVybl9mYWlsdXJlcz1GYWxzZSk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgc3ViMS5yZW1vdmVfZmFsc2VfZXhwZWN0YXRpb25zKCkKPT09PT09PQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAzYTQ4N2UzNTc4MmFhNWJkMDk3NzQ3N2VmYThlYTk1ZWEyNTI1NWFkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiAzYTE5ZTM2YWVjMzk2MjBlYjQ4ZmY2MzY4MGYyMjhlYWE3Y2Y4YjNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
