@@ -6,28 +6,8 @@
       <file name="/start_script.py" timestamp="1521573323572">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/Coalition_Crime.py" timestamp="1522239341382">
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/animation.py" timestamp="1521811983283">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/main.py" timestamp="1519234690112">
-        <mark key="[" line="72" column="15" />
-        <mark key="]" line="90" column="38" />
-        <mark key="." line="90" column="38" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/Agent.py" timestamp="1519844382650">
         <mark key="[" line="69" column="18" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_sets/fixed_distributional_test_dataset.json" timestamp="1521563877733">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_map_expectations/test_column_map_expectations.py" timestamp="1522675432556">
         <mark key="[" line="57" column="25" />
@@ -40,17 +20,7 @@
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/mesa/agent.py" timestamp="1522333647118">
         <mark key="[" line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1522251305947">
-        <mark key="[" line="21" column="48" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1522332613100">
-        <mark key="[" line="14" column="7" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1522676786633">
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1522679437370">
         <mark key="[" line="1608" column="58" />
         <mark key="]" line="95" column="7" />
         <mark key="." line="95" column="7" />
@@ -77,10 +47,11 @@
       <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/sqlalchemy_dataset.py" timestamp="1522677187086">
         <mark key="[" line="180" column="17" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_dataset.py" timestamp="1522677122394">
-        <mark key="[" line="1134" column="14" />
-        <mark key="]" line="1035" column="0" />
-        <mark key="." line="1035" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_dataset.py" timestamp="1522679232545">
+        <mark key="[" line="1034" column="0" />
+        <mark key="]" line="1034" column="0" />
+        <mark key="." line="1034" column="0" />
+        <mark key="^" line="931" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations_distributional/test_pandas_dataset_distributional_expectations.py" timestamp="1521551096348">
         <mark key="[" line="547" column="134" />
@@ -126,11 +97,6 @@
         <mark key="^" line="339" column="76" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/sugarscape_cg/sugarscape/server.py" timestamp="1522347398023" />
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/Scratch.py" timestamp="1519839679507">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/test_column_aggregate_expectations.py" timestamp="1522676145871">
         <mark key="[" line="59" column="28" />
         <mark key="]" line="59" column="28" />
@@ -143,11 +109,6 @@
         <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/wolf_sheep/wolf_sheep/agents.py" timestamp="1522339401143" />
-      <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/Scratch.py" timestamp="1521119762866">
-        <mark key="[" line="40" column="5" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/Coalition.py" timestamp="1519842369664">
         <mark key="[" line="60" column="18" />
       </file>
@@ -266,58 +227,57 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">PT09PT09PQogICAgZGVmIHZhbGlkYXRlKHNlbGYsIGV4cGVjdGF0aW9uc19jb25maWc9Tm9uZSwgY2F0Y2hfZXhjZXB0aW9ucz1UcnVlLCBvdXRwdXRfZm9ybWF0PU5vbmUsIGluY2x1ZGVfY29uZmlnPU5vbmUsIG9ubHlfcmV0dXJuX2ZhaWx1cmVzPUZhbHNlKToKPj4+Pj4+PiAzYTE5ZTM2YWVjMzk2MjBlYjQ4ZmY2MzY4MGYyMjhlYWE3Y2Y4YjNlCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiAzYTQ4N2UzNTc4MmFhNWJkMDk3NzQ3N2VmYThlYTk1ZWEyNTI1NWFkCg==</text>
       </register>
       <register name="-" type="4">
         <text>e.dataset.Dataset(test_case[&quot;dataset&quot;])</text>
       </register>
       <register name="/" type="4">
-        <text>criminal</text>
+        <text>HEAD</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXgyLmltc2hvdyhzZWxmLnJlc3VsdHNfZnJvbV9zaW1bMF0ucG9saWNlX2hlYXRfbWFwc1tpXSwgY21hcD0ncGxhc21hJywgdm1pbj0wLCB2bWF4PTEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PT09PT09PQogICAgZGVmIHZhbGlkYXRlKHNlbGYsIGV4cGVjdGF0aW9uc19jb25maWc9Tm9uZSwgY2F0Y2hfZXhjZXB0aW9ucz1UcnVlLCBvdXRwdXRfZm9ybWF0PU5vbmUsIGluY2x1ZGVfY29uZmlnPU5vbmUsIG9ubHlfcmV0dXJuX2ZhaWx1cmVzPUZhbHNlKToKPj4+Pj4+PiAzYTE5ZTM2YWVjMzk2MjBlYjQ4ZmY2MzY4MGYyMjhlYWE3Y2Y4YjNlCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiAzYTQ4N2UzNTc4MmFhNWJkMDk3NzQ3N2VmYThlYTk1ZWEyNTI1NWFkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiB2YWxpZGF0ZShzZWxmLCBleHBlY3RhdGlvbnNfY29uZmlnPU5vbmUsIGNhdGNoX2V4Y2VwdGlvbnM9VHJ1ZSwgcmVzdWx0X2Zvcm1hdD1Ob25lLCBvbmx5X3JldHVybl9mYWlsdXJlcz1GYWxzZSk6Cj09PT09PT0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzdWIxLnJlbW92ZV9mYWxzZV9leHBlY3RhdGlvbnMoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiB2YWxpZGF0ZShzZWxmLCBleHBlY3RhdGlvbnNfY29uZmlnPU5vbmUsIGNhdGNoX2V4Y2VwdGlvbnM9VHJ1ZSwgcmVzdWx0X2Zvcm1hdD1Ob25lLCBvbmx5X3JldHVybl9mYWlsdXJlcz1GYWxzZSk6Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiAzYTQ4N2UzNTc4MmFhNWJkMDk3NzQ3N2VmYThlYTk1ZWEyNTI1NWFkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgc3ViMS5yZW1vdmVfZmFsc2VfZXhwZWN0YXRpb25zKCkKPT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Pj4+Pj4+PiAzYTQ4N2UzNTc4MmFhNWJkMDk3NzQ3N2VmYThlYTk1ZWEyNTI1NWFkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgc3ViMS5yZW1vdmVfZmFsc2VfZXhwZWN0YXRpb25zKCkKPT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAzYTE5ZTM2YWVjMzk2MjBlYjQ4ZmY2MzY4MGYyMjhlYWE3Y2Y4YjNlCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiAzYTQ4N2UzNTc4MmFhNWJkMDk3NzQ3N2VmYThlYTk1ZWEyNTI1NWFkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>criminal</last-search>
+      <last-search>HEAD</last-search>
       <last-offset />
-      <last-pattern>criminal</last-pattern>
+      <last-pattern>HEAD</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gamma</entry>
         <entry>max</entry>
         <entry>andN</entry>
         <entry>and</entry>
@@ -337,6 +297,7 @@
         <entry encoding="base64">XDxhbmlcPg==</entry>
         <entry>print</entry>
         <entry>criminal</entry>
+        <entry>HEAD</entry>
       </history-search>
       <history-cmd>
         <entry>h matchpairs</entry>
