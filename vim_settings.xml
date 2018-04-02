@@ -24,13 +24,12 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Agent.py" timestamp="1519844382650">
         <mark key="[" line="69" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/batch.py" timestamp="1522682979421">
-        <mark key="'" line="175" column="8" />
-        <mark key="k" line="137" column="16" />
-        <mark key="[" line="148" column="28" />
-        <mark key="]" line="148" column="28" />
-        <mark key="^" line="136" column="38" />
-        <mark key="." line="148" column="28" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/batch.py" timestamp="1522683850816">
+        <mark key="'" line="179" column="8" />
+        <mark key="k" line="136" column="16" />
+        <mark key="[" line="124" column="57" />
+        <mark key="]" line="124" column="57" />
+        <mark key="." line="124" column="57" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_sets/fixed_distributional_test_dataset.json" timestamp="1521563877733">
         <mark key="[" line="0" column="0" />
@@ -272,11 +271,11 @@
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQoc3RyKGNyaW1pbmFsLnVpZCkgKyAiOiAiICsgc3RyKGNyaW1pbmFsLngpICsgIiwgIiArIHN0cihjcmltaW5hbC55KSkK</text>
+      <register name="&quot;" type="4">
+        <text>gridspec_kw={'width_ratios': [1,1, 1], 'height_ratios': [1]})</text>
       </register>
       <register name="-" type="4">
-        <text>Animatio</text>
+        <text>gridspec_kw={'width_ratios': [1,1, 1], 'height_ratios': [1]})</text>
       </register>
       <register name="/" type="4">
         <text>HEAD</text>
@@ -285,27 +284,30 @@
         <text encoding="base64">ICAgICAgICAgICAgYXguc2V0X3RpdGxlKCJDaXZpbGlhbnMiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQoc3RyKGNyaW1pbmFsLnVpZCkgKyAiOiAiICsgc3RyKGNyaW1pbmFsLngpICsgIiwgIiArIHN0cihjcmltaW5hbC55KSkK</text>
+        <text encoding="base64">ICAgICAgICBmaWcuY29sb3JiYXIoaW0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCgiQ09BTElUSU9OOiAiICsgc3RyKGNvYWxpdGlvbi51aWQpICsgIiAiICsgc3RyKGNvYWxpdGlvbi54KSArICIsICIgKyBzdHIoY29hbGl0aW9uLnkpKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQoc3RyKGNyaW1pbmFsLnVpZCkgKyAiOiAiICsgc3RyKGNyaW1pbmFsLngpICsgIiwgIiArIHN0cihjcmltaW5hbC55KSkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCgiQ09BTElUSU9OOiAiICsgc3RyKGNvYWxpdGlvbi51aWQpICsgIiAiICsgc3RyKGNvYWxpdGlvbi54KSArICIsICIgKyBzdHIoY29hbGl0aW9uLnkpKQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQoc3RyKGNyaW1pbmFsLnVpZCkgKyAiOiAiICsgc3RyKGNyaW1pbmFsLngpICsgIiwgIiArIHN0cihjcmltaW5hbC55KSkK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoIkNyaW1pbmFsICIgKyBzdHIoY3JpbWluYWwudWlkKSArICIgaXMgY2F1Z2h0IGF0ICIgKyBzdHIoW2NyaW1pbmFsLngsIGNyaW1pbmFsLnldKSArICIuIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCgiQ09BTElUSU9OOiAiICsgc3RyKGNvYWxpdGlvbi51aWQpICsgIiAiICsgc3RyKGNvYWxpdGlvbi54KSArICIsICIgKyBzdHIoY29hbGl0aW9uLnkpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludCgiQ2xvc2VzdCBQb2xpY2Ugb2ZmaWNlciAiICsgc3RyKGNsb3Nlc3RfcG9saWNlLnVpZCkgKyAiIGF0IFsiICsgc3RyKGNsb3Nlc3RfcG9saWNlLngpICsgIiwgIiArIHN0cihjbG9zZXN0X3BvbGljZS55KSArICJdIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoIkNyaW1pbmFsICIgKyBzdHIoY3JpbWluYWwudWlkKSArICIgaXMgY2F1Z2h0IGF0ICIgKyBzdHIoW2NyaW1pbmFsLngsIGNyaW1pbmFsLnldKSArICIuIikK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludCgiQ2xvc2VzdCBQb2xpY2Ugb2ZmaWNlciAiICsgc3RyKGNsb3Nlc3RfcG9saWNlLnVpZCkgKyAiIGF0IFsiICsgc3RyKGNsb3Nlc3RfcG9saWNlLngpICsgIiwgIiArIHN0cihjbG9zZXN0X3BvbGljZS55KSArICJdIikK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJDb2FsaXRpb24gIiArIHN0cihnLnVpZCkgKyAiIHJvYnMgc29tZW9uZSBhdCAiICsgc3RyKG5ld19wbGFjZVstMV0pICsgIi4iKQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text># ------ Police
         print(&quot;Creating police animation...&quot;)
 
@@ -344,9 +346,6 @@
         anim.save(&quot;animations/criminal_heatmap.mp4&quot;, writer='ffmpeg')
         plt.draw()
         plt.show()</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjaGVhdHBsb3QgPSBheC5pbXNob3coc2VsZi5yZXN1bHRzX2Zyb21fc2ltWzBdLmNpdl9oZWF0X21hcHNbMF0sIGNtYXA9J2hvdCcsIHZtaW49MCwgdm1heD0xKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
