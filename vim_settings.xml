@@ -11,8 +11,10 @@
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1522759862759">
-        <mark key="[" line="552" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1522760793483">
+        <mark key="[" line="560" column="8" />
+        <mark key="]" line="560" column="8" />
+        <mark key="." line="560" column="8" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/animation.py" timestamp="1521811983283">
         <mark key="[" line="24" column="0" />
@@ -50,10 +52,10 @@
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/mesa/agent.py" timestamp="1522333647118">
         <mark key="[" line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1522251305947">
-        <mark key="[" line="21" column="48" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1522760412519">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1522689702720">
         <mark key="[" line="84" column="48" />
@@ -99,7 +101,7 @@
       <file name="$USER_HOME$/ABM/main.py" timestamp="1519065838365">
         <mark key="[" line="28" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1521828661491">
+      <file name="/Python Console" timestamp="1522760894616">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1519059258245">
@@ -131,13 +133,6 @@
         <mark key="]" line="33" column="30" />
         <mark key="^" line="32" column="32" />
         <mark key="." line="33" column="30" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" timestamp="1522673373976">
-        <mark key="'" line="1315" column="23" />
-        <mark key="[" line="173" column="17" />
-        <mark key="]" line="339" column="84" />
-        <mark key="." line="339" column="84" />
-        <mark key="^" line="339" column="76" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/Scratch.py" timestamp="1519839679507">
         <mark key="[" line="19" column="0" />
@@ -277,11 +272,11 @@
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmNyaW1lc190aGlzX3R1cm4pCg==</text>
+      <register name="&quot;" type="4">
+        <text>df.apply(getattr(df, expectation_type),  axis=1)</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>df.apply(getattr(df, expectation_type),  axis=1)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRcPg==</text>
@@ -290,31 +285,31 @@
         <text encoding="base64">ICAgICAgICAgICAgYXguc2V0X3RpdGxlKCJDaXZpbGlhbnMiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmNyaW1lc190aGlzX3R1cm4pCg==</text>
+        <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNyaW1lc190aGlzX3R1cm4gPSAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CmEgPSBbbnAubmFuXQpiID0gW25wLm5hbl0KYyA9IFtucC5uYW5dCgpucC50ZXN0aW5nLmFzc2VydF9hbGxjbG9zZShhLCBiLCBlcXVhbF9uYW49VHJ1ZSkKbnAudGVzdGluZy5hc3NlcnRfYXJyYXlfZXF1YWwoYSxhKQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNyaW1lc190aGlzX3R1cm4gPSBuZXdfcGxhY2UK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmNyaW1lc190aGlzX3R1cm4pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfcGxhY2UgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNyaW1lc190aGlzX3R1cm4gPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNyaW1lc190aGlzX3R1cm4gPSBuZXdfcGxhY2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFnZW50c19saXN0PWNpdmlsaWFucykK</text>
+        <text encoding="base64">ICAgICAgICBuZXdfcGxhY2UgPSBbXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI3ZpY3RpbXMgPSBzZWxmLm1lbWJlcnNbMF0ubG9va19mb3JfYWdlbnRzKGFnZW50X3JvbGU9QWdlbnQuUm9sZS5DSVZJTElBTiwgY2VsbF9yYWRpdXM9Y3JpbWVfcmFkaXVzLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBBZ2VudC5jZWxsX3JhZGl1cyBuZWVkcyB0byBiZSBtb2RpZmllZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFnZW50c19saXN0PWNpdmlsaWFucykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgI3ZpY3RpbXMgPSBzZWxmLm1lbWJlcnNbMF0ubG9va19mb3JfYWdlbnRzKGFnZW50X3JvbGU9QWdlbnQuUm9sZS5DSVZJTElBTiwgY2VsbF9yYWRpdXM9Y3JpbWVfcmFkaXVzLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
