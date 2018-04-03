@@ -11,10 +11,10 @@
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1522773614067">
-        <mark key="[" line="561" column="11" />
-        <mark key="]" line="561" column="0" />
-        <mark key="." line="561" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1522785141720">
+        <mark key="[" line="557" column="0" />
+        <mark key="]" line="557" column="0" />
+        <mark key="." line="557" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/animation.py" timestamp="1521811983283">
         <mark key="[" line="24" column="0" />
@@ -277,12 +277,11 @@
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,
-                                                               'h'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIENyZWF0ZXMgYW4gZXhwZWN0YXRpb24gZm9yIGVhY2ggb2YgdGhlIGdpdmVuIGNvbHVtbnMgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>df.apply(getattr(df, expectation_type),  axis=1)</text>
+        <text encoding="base64">IG5hbWUgb2YgdGhl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRcPg==</text>
@@ -290,34 +289,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXguc2V0X3RpdGxlKCJDaXZpbGlhbnMiKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>,
-                                                               'h'</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIENyZWF0ZXMgYW4gZXhwZWN0YXRpb24gZm9yIGVhY2ggb2YgdGhlIGdpdmVuIGNvbHVtbnMgCg==</text>
       </register>
       <register name="2" type="4">
         <text>,
-                                                         ['hi']</text>
+                                                               'h'</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHRzWzBdKQo=</text>
+      <register name="3" type="4">
+        <text>,
+                                                         ['hi']</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHRzWzBdKQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHRzWzBdKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpZiBrd2FyZ3M6Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgZWxzZToKICAgICAgICAgICAgcHJpbnQoZXhwZWN0YXRpb24oY29sdW1uLCAqYXJncykp</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text />
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CmEgPSBbbnAubmFuXQpiID0gW25wLm5hbl0KYyA9IFtucC5uYW5dCgpucC50ZXN0aW5nLmFzc2VydF9hbGxjbG9zZShhLCBiLCBlcXVhbF9uYW49VHJ1ZSkKbnAudGVzdGluZy5hc3NlcnRfYXJyYXlfZXF1YWwoYSxhKQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmNyaW1lc190aGlzX3R1cm4pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
