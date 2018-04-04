@@ -57,15 +57,15 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1522689702720">
-        <mark key="[" line="84" column="48" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1522861029779">
+        <mark key="[" line="50" column="7" />
+        <mark key="]" line="50" column="7" />
+        <mark key="." line="50" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1522860243063">
-        <mark key="[" line="274" column="8" />
-        <mark key="]" line="274" column="8" />
-        <mark key="." line="274" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1522860935635">
+        <mark key="[" line="241" column="8" />
+        <mark key="]" line="241" column="8" />
+        <mark key="." line="241" column="8" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1522680072339">
         <mark key="[" line="1608" column="58" />
@@ -74,6 +74,9 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/other_expectations/test_other_expectations.py" timestamp="1522676541010">
         <mark key="[" line="58" column="25" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ABM/scheduler.py" timestamp="1522861048645">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/model.py" timestamp="1522348698186">
         <mark key="[" line="75" column="8" />
@@ -288,10 +291,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>concerned_cells =</text>
+        <text encoding="base64">IHNlbGYuY3JpbWVzX3RoaXNfdHVybiA9IGxpc3QoKQoKICAgICAgICAjIGNvbW1pdCBhIGNyaW1lCiAgICAgICAgbmV3X3BsYWNlID0gW10KICAgICAgICBmb3IgZyBpbiBzZWxmLmNvYWxpdGlvbnM6CiAgICAgICAgICAgIGNyaW1lID0gZy5jb21taXRfY3JpbWUoY2l2aWxpYW5zPXNlbGYuY2l2aWxpYW5zLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwb2xpY2U9c2VsZi5wb2xpY2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRocmVzaG9sZD1zZWxmLmNvbmZpZ1snY3JpbWVfcHJvcGVuc2l0eV90aHJlc2hvbGQnXSwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpc2lvbl9yYWRpdXM9c2VsZi5jb25maWdbJ2FnZW50X3Zpc2lvbl9saW1pdCddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjcmltZV9yYWRpdXM9c2VsZi5jb25maWdbJ2NyaW1lX2Rpc3RhbmNlJ10pCiAgICAgICAgICAgIGlmIGNyaW1lOgogICAgICAgICAgICAgICAgbmV3X3BsYWNlLmFwcGVuZChbY3JpbWVbMF0sIGNyaW1lWzFdXSkKCiAgICAgICAgc2VsZi5jcmltZXNfdGhpc190dXJuID0gbmV3X3BsYWNlCiAgICAgICAgc2VsZi5jcmltZV9wbGFjZSArPSBuZXdfcGxhY2U=</text>
       </register>
       <register name="-" type="4">
-        <text>concerned_cells =</text>
+        <text>environment rules</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRcPg==</text>
@@ -299,32 +302,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXguc2V0X3RpdGxlKCJDaXZpbGlhbnMiKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHNlbGYuY3JpbWVzX3RoaXNfdHVybiA9IGxpc3QoKQoKICAgICAgICAjIGNvbW1pdCBhIGNyaW1lCiAgICAgICAgbmV3X3BsYWNlID0gW10KICAgICAgICBmb3IgZyBpbiBzZWxmLmNvYWxpdGlvbnM6CiAgICAgICAgICAgIGNyaW1lID0gZy5jb21taXRfY3JpbWUoY2l2aWxpYW5zPXNlbGYuY2l2aWxpYW5zLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwb2xpY2U9c2VsZi5wb2xpY2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRocmVzaG9sZD1zZWxmLmNvbmZpZ1snY3JpbWVfcHJvcGVuc2l0eV90aHJlc2hvbGQnXSwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpc2lvbl9yYWRpdXM9c2VsZi5jb25maWdbJ2FnZW50X3Zpc2lvbl9saW1pdCddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjcmltZV9yYWRpdXM9c2VsZi5jb25maWdbJ2NyaW1lX2Rpc3RhbmNlJ10pCiAgICAgICAgICAgIGlmIGNyaW1lOgogICAgICAgICAgICAgICAgbmV3X3BsYWNlLmFwcGVuZChbY3JpbWVbMF0sIGNyaW1lWzFdXSkKCiAgICAgICAgc2VsZi5jcmltZXNfdGhpc190dXJuID0gbmV3X3BsYWNlCiAgICAgICAgc2VsZi5jcmltZV9wbGFjZSArPSBuZXdfcGxhY2U=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>else:
+            self.random_move()</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIE1vdmUgdG8gYW55IG9mIHRob3NlIGNlbGxzIHRoYXQgZG8gbm90IGhhdmUgcG9saWNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndhbGtfYW5kX2F2b2lkKFBvbGljZSwgcHJlZmVycmVkX2NlbGxzPXBvdGVudGlhbF92aWN0aW1fY2VsbHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIE1vdmUgdG8gYW55IG9mIHRob3NlIGNlbGxzIHRoYXQgZG8gbm90IGhhdmUgcG9saWNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndhbGtfYW5kX2F2b2lkKFBvbGljZSwgcHJlZmVycmVkX2NlbGxzPXBvdGVudGlhbF92aWN0aW1fY2VsbHMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1vZGVsLmdyaWQubW92ZV9hZ2VudChzZWxmLCBuZXh0X21vdmUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIE5vdyBtb3ZlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
