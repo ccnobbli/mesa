@@ -63,16 +63,17 @@
         <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/wolf_sheep/wolf_sheep/test_random_walk.py" timestamp="1522865146067" />
-      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1522870917858">
-        <mark key="'" line="99" column="96" />
-        <mark key="[" line="99" column="96" />
-        <mark key="]" line="99" column="96" />
-        <mark key="." line="99" column="96" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1522872218702">
+        <mark key="'" line="121" column="96" />
+        <mark key="[" line="80" column="26" />
+        <mark key="]" line="80" column="26" />
+        <mark key="." line="80" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1522870633372">
-        <mark key="[" line="93" column="60" />
-        <mark key="]" line="93" column="60" />
-        <mark key="." line="93" column="60" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1522875798896">
+        <mark key="'" line="436" column="17" />
+        <mark key="[" line="449" column="18" />
+        <mark key="]" line="449" column="18" />
+        <mark key="." line="449" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1522680072339">
         <mark key="[" line="1608" column="58" />
@@ -186,7 +187,7 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1522864508643">
         <mark key="[" line="10" column="5" />
         <mark key="]" line="10" column="5" />
-        <mark key="^" line="37" column="0" />
+        <mark key="^" line="38" column="0" />
         <mark key="." line="10" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/sqlalchemy_dataset/test_sqlalchemydataset.py" timestamp="1522676572657">
@@ -283,16 +284,17 @@
       <jump line="19" column="13" filename="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/model.py" />
       <jump line="385" column="10" filename="$USER_HOME$/PycharmProjects/ABM/batch.py" />
       <jump line="93" column="96" filename="$USER_HOME$/PycharmProjects/ABM/environment.py" />
+      <jump line="426" column="17" filename="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>agent if type(agent) is Police else for agent in police]</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>agent if type(agent) is Police else for agent in police]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRcPg==</text>
@@ -300,43 +302,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXguc2V0X3RpdGxlKCJDaXZpbGlhbnMiKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBheC5zY2F0dGVyKFthZ2VudC5wb3NbMF0gXSkK</text>
+      </register>
+      <register name="2" type="4">
         <text>else:
             # Agent is at destination
             return True</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBkZXN0aW5hdGlvbiA9IHNlbGYucG9zWzBdICsgZHgsIHNlbGYucG9zWzFdICsgZHkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0aW9uID0gY29vcmRfZGlmZgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBjb29yZF9kaWZmID0gbnAuc3VidHJhZGRjdChucC5hcnJheShzZWxmLnBvcyksIG5wLmFycmF5KGNvb3JkaW5hdGVzKSkK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>if np.array_equal():
             # Agent arrived at desired cell
             return True</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAjIEZJWE1FIGRpdmlkZSBieSB6ZXJvCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICBkZCBwcmludCgiVGhlcmUgaXMgYSB2aWN0aW0gJXMiICUgc3RyKHBvdGVudGlhbF92aWN0aW0pKQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text># We are interested in the intersection of the Criminal's neighborhood and cells in proximity to pos
-        cells = list(set(self.model.grid.get_neighborhood(pos, True)).intersection(set(neighborhood)))
-
-        # Iterate through those cells, return True if one of the agents is Police
-        for cell in cells:
-            for agent in cell.get_all_cell_contents():
-                if type(agent) == Police:
-                    return True</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
