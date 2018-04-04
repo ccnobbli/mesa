@@ -36,6 +36,11 @@
         <mark key="." line="301" column="38" />
         <mark key="^" line="293" column="38" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ABM/SpatialGrid.py" timestamp="1522863581290">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_sets/fixed_distributional_test_dataset.json" timestamp="1521563877733">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -57,15 +62,17 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1522861029779">
-        <mark key="[" line="50" column="7" />
-        <mark key="]" line="50" column="7" />
-        <mark key="." line="50" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/wolf_sheep/wolf_sheep/test_random_walk.py" timestamp="1522865146067" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1522870917858">
+        <mark key="'" line="99" column="96" />
+        <mark key="[" line="99" column="96" />
+        <mark key="]" line="99" column="96" />
+        <mark key="." line="99" column="96" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1522860935635">
-        <mark key="[" line="241" column="8" />
-        <mark key="]" line="241" column="8" />
-        <mark key="." line="241" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1522870633372">
+        <mark key="[" line="93" column="60" />
+        <mark key="]" line="93" column="60" />
+        <mark key="." line="93" column="60" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1522680072339">
         <mark key="[" line="1608" column="58" />
@@ -75,7 +82,7 @@
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/other_expectations/test_other_expectations.py" timestamp="1522676541010">
         <mark key="[" line="58" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/scheduler.py" timestamp="1522861048645">
+      <file name="$USER_HOME$/PycharmProjects/ABM/scheduler.py" timestamp="1522861515074">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/model.py" timestamp="1522348698186">
@@ -83,7 +90,11 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/anaconda3/lib/python3.6/site-packages/mesa/space.py" timestamp="1522847524437" />
+      <file name="$USER_HOME$/anaconda3/lib/python3.6/site-packages/mesa/space.py" timestamp="1522867143783">
+        <mark key="[" line="426" column="0" />
+        <mark key="]" line="426" column="0" />
+        <mark key="." line="426" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1522677852491">
         <mark key="[" line="705" column="0" />
         <mark key="]" line="705" column="0" />
@@ -110,7 +121,7 @@
       <file name="$USER_HOME$/ABM/main.py" timestamp="1519065838365">
         <mark key="[" line="28" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1522760894616">
+      <file name="/Python Console" timestamp="1522864789102">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1519059258245">
@@ -125,7 +136,7 @@
         <mark key="]" line="2" column="63" />
         <mark key="." line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/schedule.py" timestamp="1522681313977">
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/schedule.py" timestamp="1522861569955">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
@@ -155,17 +166,9 @@
         <mark key="]" line="59" column="28" />
         <mark key="." line="59" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522680073833">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/wolf_sheep/wolf_sheep/agents.py" timestamp="1522339401143" />
-      <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/Scratch.py" timestamp="1521119762866">
-        <mark key="[" line="40" column="5" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/Scratch.py" timestamp="1522864024068">
+        <mark key="[" line="9" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/Coalition.py" timestamp="1519842369664">
         <mark key="[" line="60" column="18" />
@@ -175,21 +178,16 @@
         <mark key="]" line="547" column="100" />
         <mark key="." line="547" column="100" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_utils.py" timestamp="1521825045886">
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="^" line="116" column="32" />
-        <mark key="." line="143" column="0" />
-      </file>
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/mesa/space.py" timestamp="1522863433689" />
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_great_expectations.py" timestamp="1522677209940">
         <mark key="[" line="360" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/wolf_sheep/wolf_sheep/random_walk.py" timestamp="1522346816264" />
-      <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1522766161242">
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="38" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/wolf_sheep/wolf_sheep/random_walk.py" timestamp="1522865303794" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1522864508643">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="5" />
+        <mark key="^" line="37" column="0" />
+        <mark key="." line="10" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/sqlalchemy_dataset/test_sqlalchemydataset.py" timestamp="1522676572657">
         <mark key="[" line="61" column="19" />
@@ -243,7 +241,6 @@
       <jump line="356" column="44" filename="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" />
       <jump line="362" column="28" filename="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" />
       <jump line="43" column="12" filename="$USER_HOME$/PycharmProjects/ABM/environment.py" />
-      <jump line="93" column="8" filename="$USER_HOME$/PycharmProjects/ABM/environment.py" />
       <jump line="197" column="16" filename="$USER_HOME$/PycharmProjects/ABM/environment.py" />
       <jump line="1430" column="7" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" />
       <jump line="1522" column="25" filename="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" />
@@ -285,16 +282,17 @@
       <jump line="1297" column="23" filename="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/pandas_dataset.py" />
       <jump line="19" column="13" filename="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/model.py" />
       <jump line="385" column="10" filename="$USER_HOME$/PycharmProjects/ABM/batch.py" />
+      <jump line="93" column="96" filename="$USER_HOME$/PycharmProjects/ABM/environment.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHNlbGYuY3JpbWVzX3RoaXNfdHVybiA9IGxpc3QoKQoKICAgICAgICAjIGNvbW1pdCBhIGNyaW1lCiAgICAgICAgbmV3X3BsYWNlID0gW10KICAgICAgICBmb3IgZyBpbiBzZWxmLmNvYWxpdGlvbnM6CiAgICAgICAgICAgIGNyaW1lID0gZy5jb21taXRfY3JpbWUoY2l2aWxpYW5zPXNlbGYuY2l2aWxpYW5zLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwb2xpY2U9c2VsZi5wb2xpY2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRocmVzaG9sZD1zZWxmLmNvbmZpZ1snY3JpbWVfcHJvcGVuc2l0eV90aHJlc2hvbGQnXSwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpc2lvbl9yYWRpdXM9c2VsZi5jb25maWdbJ2FnZW50X3Zpc2lvbl9saW1pdCddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjcmltZV9yYWRpdXM9c2VsZi5jb25maWdbJ2NyaW1lX2Rpc3RhbmNlJ10pCiAgICAgICAgICAgIGlmIGNyaW1lOgogICAgICAgICAgICAgICAgbmV3X3BsYWNlLmFwcGVuZChbY3JpbWVbMF0sIGNyaW1lWzFdXSkKCiAgICAgICAgc2VsZi5jcmltZXNfdGhpc190dXJuID0gbmV3X3BsYWNlCiAgICAgICAgc2VsZi5jcmltZV9wbGFjZSArPSBuZXdfcGxhY2U=</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>environment rules</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRcPg==</text>
@@ -303,32 +301,42 @@
         <text encoding="base64">ICAgICAgICAgICAgYXguc2V0X3RpdGxlKCJDaXZpbGlhbnMiKQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IHNlbGYuY3JpbWVzX3RoaXNfdHVybiA9IGxpc3QoKQoKICAgICAgICAjIGNvbW1pdCBhIGNyaW1lCiAgICAgICAgbmV3X3BsYWNlID0gW10KICAgICAgICBmb3IgZyBpbiBzZWxmLmNvYWxpdGlvbnM6CiAgICAgICAgICAgIGNyaW1lID0gZy5jb21taXRfY3JpbWUoY2l2aWxpYW5zPXNlbGYuY2l2aWxpYW5zLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwb2xpY2U9c2VsZi5wb2xpY2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRocmVzaG9sZD1zZWxmLmNvbmZpZ1snY3JpbWVfcHJvcGVuc2l0eV90aHJlc2hvbGQnXSwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpc2lvbl9yYWRpdXM9c2VsZi5jb25maWdbJ2FnZW50X3Zpc2lvbl9saW1pdCddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjcmltZV9yYWRpdXM9c2VsZi5jb25maWdbJ2NyaW1lX2Rpc3RhbmNlJ10pCiAgICAgICAgICAgIGlmIGNyaW1lOgogICAgICAgICAgICAgICAgbmV3X3BsYWNlLmFwcGVuZChbY3JpbWVbMF0sIGNyaW1lWzFdXSkKCiAgICAgICAgc2VsZi5jcmltZXNfdGhpc190dXJuID0gbmV3X3BsYWNlCiAgICAgICAgc2VsZi5jcmltZV9wbGFjZSArPSBuZXdfcGxhY2U=</text>
-      </register>
-      <register name="2" type="4">
         <text>else:
-            self.random_move()</text>
+            # Agent is at destination
+            return True</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkZXN0aW5hdGlvbiA9IHNlbGYucG9zWzBdICsgZHgsIHNlbGYucG9zWzFdICsgZHkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0aW9uID0gY29vcmRfZGlmZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb29yZF9kaWZmID0gbnAuc3VidHJhZGRjdChucC5hcnJheShzZWxmLnBvcyksIG5wLmFycmF5KGNvb3JkaW5hdGVzKSkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIE1vdmUgdG8gYW55IG9mIHRob3NlIGNlbGxzIHRoYXQgZG8gbm90IGhhdmUgcG9saWNlCg==</text>
+      <register name="6" type="4">
+        <text>if np.array_equal():
+            # Agent arrived at desired cell
+            return True</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndhbGtfYW5kX2F2b2lkKFBvbGljZSwgcHJlZmVycmVkX2NlbGxzPXBvdGVudGlhbF92aWN0aW1fY2VsbHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIEZJWE1FIGRpdmlkZSBieSB6ZXJvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBkZCBwcmludCgiVGhlcmUgaXMgYSB2aWN0aW0gJXMiICUgc3RyKHBvdGVudGlhbF92aWN0aW0pKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text># We are interested in the intersection of the Criminal's neighborhood and cells in proximity to pos
+        cells = list(set(self.model.grid.get_neighborhood(pos, True)).intersection(set(neighborhood)))
+
+        # Iterate through those cells, return True if one of the agents is Police
+        for cell in cells:
+            for agent in cell.get_all_cell_contents():
+                if type(agent) == Police:
+                    return True</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
