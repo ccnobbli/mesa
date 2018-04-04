@@ -62,6 +62,11 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1522847903267">
+        <mark key="[" line="42" column="8" />
+        <mark key="]" line="42" column="7" />
+        <mark key="." line="42" column="7" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1522680072339">
         <mark key="[" line="1608" column="58" />
         <mark key="]" line="95" column="7" />
@@ -75,6 +80,7 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/anaconda3/lib/python3.6/site-packages/mesa/space.py" timestamp="1522847524437" />
       <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1522677852491">
         <mark key="[" line="705" column="0" />
         <mark key="]" line="705" column="0" />
@@ -110,6 +116,7 @@
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_fixtures/fixed_distributional_datasets.py" timestamp="1519395036823">
         <mark key="[" line="0" column="67" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/wolf_sheep/wolf_sheep/server.py" timestamp="1522347063755" />
       <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/batch_scratch.py" timestamp="1522688800461">
         <mark key="[" line="2" column="63" />
         <mark key="]" line="2" column="63" />
@@ -120,7 +127,7 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/agents.py" timestamp="1522348665739">
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/RAT/agents.py" timestamp="1522847482934">
         <mark key="[" line="45" column="13" />
         <mark key="]" line="78" column="15" />
         <mark key="." line="78" column="15" />
@@ -134,6 +141,7 @@
         <mark key="^" line="32" column="32" />
         <mark key="." line="33" column="30" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/sugarscape_cg/sugarscape/server.py" timestamp="1522347398023" />
       <file name="$USER_HOME$/PycharmProjects/great_expectations/Scratch.py" timestamp="1519839679507">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -150,6 +158,7 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/wolf_sheep/wolf_sheep/agents.py" timestamp="1522339401143" />
       <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/Scratch.py" timestamp="1521119762866">
         <mark key="[" line="40" column="5" />
         <mark key="]" line="40" column="0" />
@@ -172,6 +181,7 @@
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_great_expectations.py" timestamp="1522677209940">
         <mark key="[" line="360" column="34" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/wolf_sheep/wolf_sheep/random_walk.py" timestamp="1522346816264" />
       <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1522766161242">
         <mark key="[" line="13" column="27" />
         <mark key="]" line="7" column="0" />
@@ -277,11 +287,11 @@
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIENyZWF0ZXMgYW4gZXhwZWN0YXRpb24gZm9yIGVhY2ggb2YgdGhlIGdpdmVuIGNvbHVtbnMgCg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG5hbWUgb2YgdGhl</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRcPg==</text>
@@ -290,33 +300,31 @@
         <text encoding="base64">ICAgICAgICAgICAgYXguc2V0X3RpdGxlKCJDaXZpbGlhbnMiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENyZWF0ZXMgYW4gZXhwZWN0YXRpb24gZm9yIGVhY2ggb2YgdGhlIGdpdmVuIGNvbHVtbnMgCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1lbW9yeSA9IFtdCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>,
-                                                               'h'</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjc2VsZi5faW5zdGFuY2VzLmFkZCh3ZWFrcmVmLnJlZihzZWxmKSkK</text>
       </register>
-      <register name="3" type="4">
-        <text>,
-                                                         ['hi']</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFsbGllcyA9IGFsbGllcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHRzWzBdKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbXBldGl0b3JzID0gY29tcGV0aXRvcnMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHRzWzBdKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnggPSB4Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBrd2FyZ3M6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnkgPSB5Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgZWxzZToKICAgICAgICAgICAgcHJpbnQoZXhwZWN0YXRpb24oY29sdW1uLCAqYXJncykp</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnJvbGUgPSBvZl90eXBlCg==</text>
       </register>
       <register name="8" type="2">
-        <text />
+        <text encoding="base64">ICAgICAgICBzZWxmLmNyaW1lX3Byb3BlbnNpdHkgPSBjcmltZV9wcm9wZW5zaXR5Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CmEgPSBbbnAubmFuXQpiID0gW25wLm5hbl0KYyA9IFtucC5uYW5dCgpucC50ZXN0aW5nLmFzc2VydF9hbGxjbG9zZShhLCBiLCBlcXVhbF9uYW49VHJ1ZSkKbnAudGVzdGluZy5hc3NlcnRfYXJyYXlfZXF1YWwoYSxhKQ==</text>
+        <text encoding="base64">ICAgI19pbnN0YW5jZXMgPSBzZXQoKQoKICAgIGNsYXNzIFJvbGUoRW51bSk6CiAgICAgICAgQ0lWSUxJQU4gPSAxCiAgICAgICAgQ1JJTUlOQUwgPSAyCiAgICAgICAgUE9MSUNFID0gMw==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
