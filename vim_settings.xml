@@ -62,10 +62,10 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1522848447436">
-        <mark key="[" line="223" column="8" />
-        <mark key="]" line="223" column="8" />
-        <mark key="." line="223" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1522849454346">
+        <mark key="[" line="61" column="10" />
+        <mark key="]" line="61" column="10" />
+        <mark key="." line="61" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1522680072339">
         <mark key="[" line="1608" column="58" />
@@ -288,10 +288,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>nearby cell</text>
+        <text encoding="base64">ICBmb3IgY2VsbCBpbiBwcmVmZXJyZWRfY2VsbHM6</text>
       </register>
       <register name="-" type="4">
-        <text>nearby cell</text>
+        <text encoding="base64">ICBmb3IgY2VsbCBpbiBwcmVmZXJyZWRfY2VsbHM6</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRcPg==</text>
@@ -300,31 +300,31 @@
         <text encoding="base64">ICAgICAgICAgICAgYXguc2V0X3RpdGxlKCJDaXZpbGlhbnMiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1lbW9yeSA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGFzX3ZpY3RpbSA9IEZhbHNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjc2VsZi5faW5zdGFuY2VzLmFkZCh3ZWFrcmVmLnJlZihzZWxmKSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1lbW9yeSA9IFtdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFsbGllcyA9IGFsbGllcwo=</text>
+        <text encoding="base64">ICAgICAgICAjc2VsZi5faW5zdGFuY2VzLmFkZCh3ZWFrcmVmLnJlZihzZWxmKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbXBldGl0b3JzID0gY29tcGV0aXRvcnMK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFsbGllcyA9IGFsbGllcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnggPSB4Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbXBldGl0b3JzID0gY29tcGV0aXRvcnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnkgPSB5Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnggPSB4Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJvbGUgPSBvZl90eXBlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnkgPSB5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNyaW1lX3Byb3BlbnNpdHkgPSBjcmltZV9wcm9wZW5zaXR5Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJvbGUgPSBvZl90eXBlCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgI19pbnN0YW5jZXMgPSBzZXQoKQoKICAgIGNsYXNzIFJvbGUoRW51bSk6CiAgICAgICAgQ0lWSUxJQU4gPSAxCiAgICAgICAgQ1JJTUlOQUwgPSAyCiAgICAgICAgUE9MSUNFID0gMw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNyaW1lX3Byb3BlbnNpdHkgPSBjcmltZV9wcm9wZW5zaXR5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
