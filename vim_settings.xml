@@ -52,20 +52,20 @@
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/mesa/agent.py" timestamp="1522333647118">
         <mark key="[" line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1522760412519">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1522850497483">
+        <mark key="[" line="17" column="6" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1522689702720">
         <mark key="[" line="84" column="48" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1522849454346">
-        <mark key="[" line="61" column="10" />
-        <mark key="]" line="61" column="10" />
-        <mark key="." line="61" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1522853840146">
+        <mark key="[" line="252" column="36" />
+        <mark key="]" line="247" column="0" />
+        <mark key="." line="247" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1522680072339">
         <mark key="[" line="1608" column="58" />
@@ -287,11 +287,11 @@
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICBmb3IgY2VsbCBpbiBwcmVmZXJyZWRfY2VsbHM6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICBmb3IgY2VsbCBpbiBwcmVmZXJyZWRfY2VsbHM6</text>
+        <text>def check_for_police(self, pos):</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRcPg==</text>
@@ -300,31 +300,31 @@
         <text encoding="base64">ICAgICAgICAgICAgYXguc2V0X3RpdGxlKCJDaXZpbGlhbnMiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFzX3ZpY3RpbSA9IEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1lbW9yeSA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjc2VsZi5faW5zdGFuY2VzLmFkZCh3ZWFrcmVmLnJlZihzZWxmKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFsbGllcyA9IGFsbGllcwo=</text>
+        <text encoding="base64">ICAgICAgICAjIE1vdmUgdG8gYW55IG9mIHRob3NlIGNlbGxzIHRoYXQgZG8gbm90IGhhdmUgcG9saWNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbXBldGl0b3JzID0gY29tcGV0aXRvcnMK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndhbGtfYW5kX2F2b2lkKFBvbGljZSwgcHJlZmVycmVkX2NlbGxzPXBvdGVudGlhbF92aWN0aW1fY2VsbHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnggPSB4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnkgPSB5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJvbGUgPSBvZl90eXBlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1vZGVsLmdyaWQubW92ZV9hZ2VudChzZWxmLCBuZXh0X21vdmUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNyaW1lX3Byb3BlbnNpdHkgPSBjcmltZV9wcm9wZW5zaXR5Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIE5vdyBtb3ZlOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
