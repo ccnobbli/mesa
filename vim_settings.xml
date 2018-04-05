@@ -63,17 +63,17 @@
         <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/wolf_sheep/wolf_sheep/test_random_walk.py" timestamp="1522865146067" />
-      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1522876840946">
-        <mark key="'" line="121" column="96" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1522939423042">
+        <mark key="'" line="127" column="96" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1522929395218">
-        <mark key="'" line="479" column="17" />
-        <mark key="[" line="444" column="8" />
-        <mark key="]" line="444" column="8" />
-        <mark key="." line="444" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1522940023396">
+        <mark key="'" line="504" column="17" />
+        <mark key="[" line="277" column="44" />
+        <mark key="]" line="526" column="0" />
+        <mark key="." line="526" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1522680072339">
         <mark key="[" line="1608" column="58" />
@@ -184,10 +184,10 @@
         <mark key="[" line="360" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/wolf_sheep/wolf_sheep/random_walk.py" timestamp="1522865303794" />
-      <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1522864508643">
+      <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1522940049787">
         <mark key="[" line="10" column="5" />
         <mark key="]" line="10" column="5" />
-        <mark key="^" line="38" column="0" />
+        <mark key="^" line="39" column="0" />
         <mark key="." line="10" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/sqlalchemy_dataset/test_sqlalchemydataset.py" timestamp="1522676572657">
@@ -290,11 +290,11 @@
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>target = self.model.grid.get_neighbors(self.pos, moore=True, include_center=True, radius=self.vision)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHR5cGUob2ZmaWNlcikpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>target = self.model.grid.get_neighbors(self.pos, moore=True, include_center=True, radius=self.vision)</text>
+        <text>cell.get_cell_list_contents]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRcPg==</text>
@@ -303,34 +303,36 @@
         <text encoding="base64">ICAgICAgICAgICAgYXguc2V0X3RpdGxlKCJDaXZpbGlhbnMiKQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHR5cGUob2ZmaWNlcikpCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>next_move = random.choice(next_moves)
+        # Now move:
+        self.model.grid.move_agent(self, next_move)</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChwb2xpY2UpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>if self.pos == self.dispatch_coordinates:
                 # Start criminal investigation if arrived at scene</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICAjIEZpbmQgYW4gb2ZmaWNlciBjbG9zZSBieSBhbmQgc2VuZCB0aGVtIHRvIHRoZSBjcmltZSBzaXRlCiAgICAgICAg</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBheC5zY2F0dGVyKFthZ2VudC5wb3NbMF0gXSkK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>else:
             # Agent is at destination
             return True</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZXN0aW5hdGlvbiA9IHNlbGYucG9zWzBdICsgZHgsIHNlbGYucG9zWzFdICsgZHkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0aW9uID0gY29vcmRfZGlmZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
