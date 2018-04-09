@@ -11,7 +11,7 @@
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1523281902657">
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1523286329692">
         <mark key="[" line="158" column="9" />
         <mark key="]" line="158" column="9" />
         <mark key="." line="158" column="9" />
@@ -148,10 +148,11 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Coalition.py" timestamp="1519842369664">
         <mark key="[" line="60" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_dataset_util.py" timestamp="1523283789902">
-        <mark key="[" line="147" column="53" />
-        <mark key="]" line="147" column="53" />
-        <mark key="." line="147" column="53" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_dataset_util.py" timestamp="1523287411005">
+        <mark key="[" line="143" column="57" />
+        <mark key="]" line="143" column="57" />
+        <mark key="." line="143" column="57" />
+        <mark key="^" line="164" column="48" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_utils.py" timestamp="1521825045886">
         <mark key="[" line="143" column="0" />
@@ -271,47 +272,45 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>float</text>
+        <text>9999999999999999876</text>
       </register>
       <register name="-" type="4">
-        <text>float</text>
+        <text>9999999999999999876</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXguc2V0X3RpdGxlKCJDaXZpbGlhbnMiKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHR5cGUoeFsnbnAuY29tcGxleDY0J11bMF0pLCBjb21wbGV4KQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHR5cGUoeFsnbnAuY29tcGxleDUxMiddWzBdKSwgY29tcGxleCkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ25wLmNvbXBsZXg1MTInOiBucC5hcnJheShbbnAuY29tcGxleDUxMig4MC45OTk5OTk5OSArIDQwLjk5OTk5OTk5aildKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHR5cGUoeFsnbnAuZmxvYXQyNTYnXVswXSksIGZsb2F0KQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ25wLmZsb2F0MjU2JzogbnAuYXJyYXkoW25wLmZsb2F0MjU2KDUuOTk5OTk5OTk5OTk5OTk5OTk5OSldKSwK</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">CgpucC5pc3N1Yg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CnByaW50KA==</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>print(type(var))
 print(isinstance(var, np.int))</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>isinstance(test_obj, (np.int_, np.int8, np.int16, np.int32, np.int64, np.uint8, np.uint16, np.uint32,
                                np.uint64, np.intc, np.intp)):</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmFzc2VydCg=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">I2Nvb3JkID0gWy0xMCwgMF0KCiNwcmludChucC5kaXZpZGUoY29vcmQsIG5wLmFicyhjb29yZCkpKQo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHR5cGUob2ZmaWNlcikpCg==</text>
-      </register>
       <register name="9" type="4">
-        <text>next_move = random.choice(next_moves)
-        # Now move:
-        self.model.grid.move_agent(self, next_move)</text>
+        <text encoding="base64">CmFzc2VydCg=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
