@@ -148,10 +148,10 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Coalition.py" timestamp="1519842369664">
         <mark key="[" line="60" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_dataset_util.py" timestamp="1522764165622">
-        <mark key="[" line="547" column="100" />
-        <mark key="]" line="547" column="100" />
-        <mark key="." line="547" column="100" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_dataset_util.py" timestamp="1523283789902">
+        <mark key="[" line="147" column="53" />
+        <mark key="]" line="147" column="53" />
+        <mark key="." line="147" column="53" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_utils.py" timestamp="1521825045886">
         <mark key="[" line="143" column="0" />
@@ -271,10 +271,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dGVzdCA9PSA=</text>
+        <text>float</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGVzdCA9PSA=</text>
+        <text>float</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRcPg==</text>
