@@ -136,7 +136,7 @@
         <mark key="]" line="59" column="28" />
         <mark key="." line="59" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523295454198">
+      <file name="/Dummy.txt" timestamp="1523297460206">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -149,11 +149,11 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Coalition.py" timestamp="1519842369664">
         <mark key="[" line="60" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_dataset_util.py" timestamp="1523290181482">
-        <mark key="[" line="165" column="12" />
-        <mark key="]" line="165" column="12" />
-        <mark key="." line="165" column="12" />
-        <mark key="^" line="173" column="48" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_dataset_util.py" timestamp="1523298599570">
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="0" />
+        <mark key="." line="185" column="0" />
+        <mark key="^" line="185" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_utils.py" timestamp="1521825045886">
         <mark key="[" line="143" column="0" />
@@ -273,11 +273,11 @@
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>self.assertEqual(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>self.assertEqual(</text>
+        <text># see option 1 in testing: http://python-future.org/compatible_idioms.html#long-integers</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRcPg==</text>
@@ -286,33 +286,32 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHR5cGUoeFsnbnAuY29tcGxleDY0J11bMF0pLCBjb21wbGV4KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHR5cGUoeFsnbnAuY29tcGxleDUxMiddWzBdKSwgY29tcGxleCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25wLmNvbXBsZXg1MTInOiBucC5hcnJheShbbnAuY29tcGxleDUxMig4MC45OTk5OTk5OSArIDQwLjk5OTk5OTk5aildKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHR5cGUoeFsnbnAuZmxvYXQyNTYnXVswXSksIGZsb2F0KQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25wLmZsb2F0MjU2JzogbnAuYXJyYXkoW25wLmZsb2F0MjU2KDUuOTk5OTk5OTk5OTk5OTk5OTk5OSldKSwK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICAgICAgc2VsZi5hc3NlcnRUcnVlKAogICAgICAgICAgICAgICAgaXNpbnN0YW5jZSh4WyducC5zdHInXVswXSwgKHN0ciwgdW5pY29kZSkpKQogICAgICAgIGV4Y2VwdCBOYW1lRXJyb3I6</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgpucC5pc3N1Yg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBzeXMgaW1wb3J0IGZsb2F0X2luZm8K</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CnByaW50KA==</text>
+        <text>import future
+#from builtins import int</text>
       </register>
-      <register name="7" type="4">
-        <text>print(type(var))
-print(isinstance(var, np.int))</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHR5cGUoeFsnbnAuY29tcGxleDUxMiddWzBdKSwgY29tcGxleCkK</text>
       </register>
-      <register name="8" type="4">
-        <text>isinstance(test_obj, (np.int_, np.int8, np.int16, np.int32, np.int64, np.uint8, np.uint16, np.uint32,
-                               np.uint64, np.intc, np.intp)):</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ25wLmNvbXBsZXg1MTInOiBucC5hcnJheShbbnAuY29tcGxleDUxMig4MC45OTk5OTk5OSArIDQwLjk5OTk5OTk5aildKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmFzc2VydCg=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHR5cGUoeFsnbnAuZmxvYXQyNTYnXVswXSksIGZsb2F0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
