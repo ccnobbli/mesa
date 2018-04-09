@@ -11,37 +11,15 @@
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1522785141720">
-        <mark key="[" line="557" column="0" />
-        <mark key="]" line="557" column="0" />
-        <mark key="." line="557" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/animation.py" timestamp="1521811983283">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/main.py" timestamp="1519234690112">
-        <mark key="[" line="72" column="15" />
-        <mark key="]" line="90" column="38" />
-        <mark key="." line="90" column="38" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1523281902657">
+        <mark key="[" line="158" column="9" />
+        <mark key="]" line="158" column="9" />
+        <mark key="." line="158" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/Agent.py" timestamp="1519844382650">
         <mark key="[" line="69" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/batch.py" timestamp="1522688432218">
-        <mark key="k" line="136" column="16" />
-        <mark key="[" line="301" column="38" />
-        <mark key="]" line="301" column="38" />
-        <mark key="." line="301" column="38" />
-        <mark key="^" line="293" column="38" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/SpatialGrid.py" timestamp="1522863581290">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_sets/fixed_distributional_test_dataset.json" timestamp="1521563877733">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -57,10 +35,11 @@
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/mesa/agent.py" timestamp="1522333647118">
         <mark key="[" line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1522850497483">
-        <mark key="[" line="17" column="6" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/scratch/Scratch.py" timestamp="1523282583169">
+        <mark key="[" line="51" column="6" />
+        <mark key="]" line="51" column="6" />
+        <mark key="^" line="35" column="0" />
+        <mark key="." line="51" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/wolf_sheep/wolf_sheep/test_random_walk.py" timestamp="1522865146067" />
       <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1522939423042">
@@ -95,12 +74,6 @@
         <mark key="[" line="426" column="0" />
         <mark key="]" line="426" column="0" />
         <mark key="." line="426" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/base.py" timestamp="1522677852491">
-        <mark key="[" line="705" column="0" />
-        <mark key="]" line="705" column="0" />
-        <mark key="." line="705" column="0" />
-        <mark key="^" line="270" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/sugarscape_cg/sugarscape/model.py" timestamp="1522340082067">
         <mark key="[" line="40" column="0" />
@@ -157,15 +130,16 @@
         <mark key="." line="33" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/sugarscape_cg/sugarscape/server.py" timestamp="1522347398023" />
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/Scratch.py" timestamp="1519839679507">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/test_column_aggregate_expectations.py" timestamp="1522676145871">
         <mark key="[" line="59" column="28" />
         <mark key="]" line="59" column="28" />
         <mark key="." line="59" column="28" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1523277082100">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/wolf_sheep/wolf_sheep/agents.py" timestamp="1522339401143" />
       <file name="$USER_HOME$/PycharmProjects/ABM/Scratch/Scratch.py" timestamp="1522864024068">
@@ -178,6 +152,12 @@
         <mark key="[" line="547" column="100" />
         <mark key="]" line="547" column="100" />
         <mark key="." line="547" column="100" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_utils.py" timestamp="1521825045886">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="^" line="116" column="32" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/mesa/space.py" timestamp="1522863433689" />
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_great_expectations.py" timestamp="1522677209940">
@@ -290,11 +270,11 @@
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHR5cGUob2ZmaWNlcikpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGVzdCA9PSA=</text>
       </register>
       <register name="-" type="4">
-        <text>cell.get_cell_list_contents]</text>
+        <text encoding="base64">dGVzdCA9PSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRcPg==</text>
@@ -302,37 +282,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXguc2V0X3RpdGxlKCJDaXZpbGlhbnMiKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHR5cGUob2ZmaWNlcikpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgpucC5pc3N1Yg==</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CnByaW50KA==</text>
+      </register>
+      <register name="3" type="4">
+        <text>print(type(var))
+print(isinstance(var, np.int))</text>
+      </register>
+      <register name="4" type="4">
+        <text>isinstance(test_obj, (np.int_, np.int8, np.int16, np.int32, np.int64, np.uint8, np.uint16, np.uint32,
+                               np.uint64, np.intc, np.intp)):</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CmFzc2VydCg=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">I2Nvb3JkID0gWy0xMCwgMF0KCiNwcmludChucC5kaXZpZGUoY29vcmQsIG5wLmFicyhjb29yZCkpKQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHR5cGUob2ZmaWNlcikpCg==</text>
+      </register>
+      <register name="9" type="4">
         <text>next_move = random.choice(next_moves)
         # Now move:
         self.model.grid.move_agent(self, next_move)</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwb2xpY2UpCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>if self.pos == self.dispatch_coordinates:
-                # Start criminal investigation if arrived at scene</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAjIEZpbmQgYW4gb2ZmaWNlciBjbG9zZSBieSBhbmQgc2VuZCB0aGVtIHRvIHRoZSBjcmltZSBzaXRlCiAgICAgICAg</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBheC5zY2F0dGVyKFthZ2VudC5wb3NbMF0gXSkK</text>
-      </register>
-      <register name="8" type="4">
-        <text>else:
-            # Agent is at destination
-            return True</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
