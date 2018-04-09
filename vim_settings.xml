@@ -149,11 +149,11 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/Coalition.py" timestamp="1519842369664">
         <mark key="[" line="60" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_dataset_util.py" timestamp="1523287411005">
-        <mark key="[" line="143" column="57" />
-        <mark key="]" line="143" column="57" />
-        <mark key="." line="143" column="57" />
-        <mark key="^" line="164" column="48" />
+      <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_dataset_util.py" timestamp="1523290181482">
+        <mark key="[" line="165" column="12" />
+        <mark key="]" line="165" column="12" />
+        <mark key="." line="165" column="12" />
+        <mark key="^" line="173" column="48" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_utils.py" timestamp="1521825045886">
         <mark key="[" line="143" column="0" />
@@ -274,10 +274,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>9999999999999999876</text>
+        <text>self.assertEqual(</text>
       </register>
       <register name="-" type="4">
-        <text>9999999999999999876</text>
+        <text>self.assertEqual(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRcPg==</text>
