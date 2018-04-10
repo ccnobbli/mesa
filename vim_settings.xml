@@ -43,17 +43,17 @@
         <mark key="." line="51" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/wolf_sheep/wolf_sheep/test_random_walk.py" timestamp="1522865146067" />
-      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1523359900174">
+      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1523365797728">
         <mark key="'" line="131" column="96" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="19" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1523361497049">
-        <mark key="'" line="511" column="17" />
-        <mark key="[" line="296" column="32" />
-        <mark key="]" line="296" column="32" />
-        <mark key="." line="296" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1523368072498">
+        <mark key="'" line="531" column="17" />
+        <mark key="[" line="286" column="22" />
+        <mark key="]" line="336" column="0" />
+        <mark key="." line="336" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1522680072339">
         <mark key="[" line="1608" column="58" />
@@ -98,7 +98,7 @@
       <file name="$USER_HOME$/ABM/main.py" timestamp="1519065838365">
         <mark key="[" line="28" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1522864789102">
+      <file name="/Python Console" timestamp="1523365968271">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1519059258245">
@@ -282,11 +282,11 @@
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHdpdGggbm8gcG9saWNlIGFyb3VuZA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiRG9uJ3Qgc2VlIGFueSB2aWN0aW1zICVzIGNlbGxzIGF3YXkuIiAlIHJhZGl1cykK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHdpdGggbm8gcG9saWNlIGFyb3VuZA==</text>
+        <text>, spatial=True)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRcPg==</text>
@@ -295,33 +295,32 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHR5cGUoeFsnbnAuY29tcGxleDY0J11bMF0pLCBjb21wbGV4KQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiRG9uJ3Qgc2VlIGFueSB2aWN0aW1zICVzIGNlbGxzIGF3YXkuIiAlIHJhZGl1cykK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnZpc2lvbikK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>elif type(agent) == Police:
+                # Police hinder our ability to enact crime</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgIyBBZGQgY3JpbWluYWwgdG8gdmljdGltJ3MgbWVtb3J5LCByZWdhcmRsZXNzIGlmIHN1Y2Nlc3NmdWwKICAgICAgICB2aWN0aW0uYWRkX3RvX21lbW9yeShzZWxmKQ==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAjIEZJWE1FIEkgRG9uJ3QgdGhpbmsgdGhpcyBpcyByaWdodAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CmQ=</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgaWYgdmljdGltIGlzIE5vbmU6CiAgICAgICAgICAgICMgTm8gY2l2aWxpYW5zIGluIHRoaXMgY2VsbAogICAgICAgICAgICByZXR1cm4=</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAjIEdldCB0aGUgYWdlbnRzIGluIHRoaXMgY2VsbAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwb3RlbnRpYWxfdmljdGltcyA9IHNlbGYubW9kZWwuZ3JpZC5nZXRfbmVpZ2hib3JzKHBvcz1zZWxmLnBvcywgbW9vcmU9RmFsc2UsIHJhZGl1cz0wLCBpbmNsdWRlX2NlbnRlcj1UcnVlKQo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgIyBSZXR1cm4gdGhlIGxpc3Qgb2YgcG90ZW50aWFsIHZpY3RpbXMsIHJldHVybiBGYWxzZSBpZiB0aGVyZSBhcmUgbm8gdmljdGltcwogICAgICAgIGlmIGxlbih2aWN0aW1zKSA+IDA6CiAgICAgICAgICAgIHJldHVybiB2aWN0aW1zCiAgICAgICAgZWxzZTo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>if agent.pos[0] == self.pos[0] and agent.pos[1] == self.pos[1]:
-                    # We are on top of the victim - get them!</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgTm90IG9uIHRvcCBvZiB0aGUgdmljdGltLCBpbmNsdWRlIHRoZW0gYXMgYSBwb3RlbnRpYWwgdmljdGltCiAgICAgICAgICAgICAgICB2aWN0aW1zLmFwcGVuZChhZ2VudCk=</text>
-      </register>
-      <register name="9" type="4">
-        <text>for radius in range(0, self.vision):
-            # Look for close victims first, then look farther away</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
