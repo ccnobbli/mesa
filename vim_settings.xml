@@ -43,17 +43,17 @@
         <mark key="." line="51" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/wolf_sheep/wolf_sheep/test_random_walk.py" timestamp="1522865146067" />
-      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1522939423042">
-        <mark key="'" line="127" column="96" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="147" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1523359900174">
+        <mark key="'" line="131" column="96" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1522940023396">
-        <mark key="'" line="512" column="17" />
-        <mark key="[" line="277" column="44" />
-        <mark key="]" line="534" column="0" />
-        <mark key="." line="534" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1523361497049">
+        <mark key="'" line="511" column="17" />
+        <mark key="[" line="296" column="32" />
+        <mark key="]" line="296" column="32" />
+        <mark key="." line="296" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1522680072339">
         <mark key="[" line="1608" column="58" />
@@ -283,10 +283,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBARG9jSW5oZXJpdAogICAgQERhdGFzZXQuZXhwY3RhdGlvCiAgICBkZWYgZXhwZWN0X2NvbHVtbl90b19leGlzdCgKICAgICAgICAgICAgc2VsZiwgY29sdW1uLCBjb2x1bW5faW5kZXg9Tm9uZSwgcmVzdWx0X2Zvcm1hdD1Ob25lLCBpbmNsdWRlX2NvbmZpZz1GYWxzZSwKICAgICAgICAgICAgY2F0Y2hfZXhjZXB0aW9ucz1Ob25lLCBtZXRhPU5vbmUKICAgICk6CiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcg==</text>
+        <text encoding="base64">IHdpdGggbm8gcG9saWNlIGFyb3VuZA==</text>
       </register>
       <register name="-" type="4">
-        <text># see option 1 in testing: http://python-future.org/compatible_idioms.html#long-integers</text>
+        <text encoding="base64">IHdpdGggbm8gcG9saWNlIGFyb3VuZA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRcPg==</text>
@@ -294,33 +294,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHR5cGUoeFsnbnAuY29tcGxleDY0J11bMF0pLCBjb21wbGV4KQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBARG9jSW5oZXJpdAogICAgQERhdGFzZXQuZXhwY3RhdGlvCiAgICBkZWYgZXhwZWN0X2NvbHVtbl90b19leGlzdCgKICAgICAgICAgICAgc2VsZiwgY29sdW1uLCBjb2x1bW5faW5kZXg9Tm9uZSwgcmVzdWx0X2Zvcm1hdD1Ob25lLCBpbmNsdWRlX2NvbmZpZz1GYWxzZSwKICAgICAgICAgICAgY2F0Y2hfZXhjZXB0aW9ucz1Ob25lLCBtZXRhPU5vbmUKICAgICk6CiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAjIEZJWE1FIEkgRG9uJ3QgdGhpbmsgdGhpcyBpcyByaWdodAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CmQ=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgdmljdGltIGlzIE5vbmU6CiAgICAgICAgICAgICMgTm8gY2l2aWxpYW5zIGluIHRoaXMgY2VsbAogICAgICAgICAgICByZXR1cm4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjIEdldCB0aGUgYWdlbnRzIGluIHRoaXMgY2VsbAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICAgICAgc2VsZi5hc3NlcnRUcnVlKAogICAgICAgICAgICAgICAgaXNpbnN0YW5jZSh4WyducC5zdHInXVswXSwgKHN0ciwgdW5pY29kZSkpKQogICAgICAgIGV4Y2VwdCBOYW1lRXJyb3I6</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwb3RlbnRpYWxfdmljdGltcyA9IHNlbGYubW9kZWwuZ3JpZC5nZXRfbmVpZ2hib3JzKHBvcz1zZWxmLnBvcywgbW9vcmU9RmFsc2UsIHJhZGl1cz0wLCBpbmNsdWRlX2NlbnRlcj1UcnVlKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBzeXMgaW1wb3J0IGZsb2F0X2luZm8K</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgIyBSZXR1cm4gdGhlIGxpc3Qgb2YgcG90ZW50aWFsIHZpY3RpbXMsIHJldHVybiBGYWxzZSBpZiB0aGVyZSBhcmUgbm8gdmljdGltcwogICAgICAgIGlmIGxlbih2aWN0aW1zKSA+IDA6CiAgICAgICAgICAgIHJldHVybiB2aWN0aW1zCiAgICAgICAgZWxzZTo=</text>
       </register>
       <register name="7" type="4">
-        <text>import future
-#from builtins import int</text>
+        <text>if agent.pos[0] == self.pos[0] and agent.pos[1] == self.pos[1]:
+                    # We are on top of the victim - get them!</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHR5cGUoeFsnbnAuY29tcGxleDUxMiddWzBdKSwgY29tcGxleCkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgTm90IG9uIHRvcCBvZiB0aGUgdmljdGltLCBpbmNsdWRlIHRoZW0gYXMgYSBwb3RlbnRpYWwgdmljdGltCiAgICAgICAgICAgICAgICB2aWN0aW1zLmFwcGVuZChhZ2VudCk=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25wLmNvbXBsZXg1MTInOiBucC5hcnJheShbbnAuY29tcGxleDUxMig4MC45OTk5OTk5OSArIDQwLjk5OTk5OTk5aildKQo=</text>
+      <register name="9" type="4">
+        <text>for radius in range(0, self.vision):
+            # Look for close victims first, then look farther away</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
