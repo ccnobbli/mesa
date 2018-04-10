@@ -43,9 +43,9 @@
         <mark key="." line="51" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/wolf_sheep/wolf_sheep/test_random_walk.py" timestamp="1522865146067" />
-      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1523371820795">
+      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1523372684033">
         <mark key="'" line="131" column="96" />
-        <mark key="[" line="195" column="14" />
+        <mark key="[" line="195" column="35" />
         <mark key="]" line="178" column="21" />
         <mark key="." line="178" column="21" />
         <mark key="^" line="178" column="21" />
