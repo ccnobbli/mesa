@@ -43,14 +43,19 @@
         <mark key="." line="51" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mesa_abm/examples/wolf_sheep/wolf_sheep/test_random_walk.py" timestamp="1522865146067" />
-      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1523365797728">
+      <file name="$USER_HOME$/PycharmProjects/ABM/environment.py" timestamp="1523371820795">
         <mark key="'" line="131" column="96" />
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="19" column="26" />
-        <mark key="." line="19" column="26" />
+        <mark key="[" line="195" column="14" />
+        <mark key="]" line="178" column="21" />
+        <mark key="." line="178" column="21" />
+        <mark key="^" line="178" column="21" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1523370404846">
-        <mark key="'" line="537" column="17" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1523371615164">
+        <mark key="'" line="540" column="17" />
+        <mark key="[" line="455" column="18" />
+        <mark key="]" line="455" column="18" />
+        <mark key="^" line="494" column="30" />
+        <mark key="." line="455" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1522680072339">
         <mark key="[" line="1608" column="58" />
@@ -280,11 +285,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>else:
-                # Look for target and update their position to our dispatch coordinates - if we see them.</text>
+        <text>.dispatch_coordinates = None</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>.dispatch_coordinates = None</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRcPg==</text>
@@ -294,32 +298,33 @@
       </register>
       <register name="1" type="4">
         <text>else:
+                return False</text>
+      </register>
+      <register name="2" type="4">
+        <text>else:
                 # Look for target and update their position to our dispatch coordinates - if we see them.</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZHgsIGR5ID0gZHggLyBhYnMoZHgpLCBkeSAvIGFicyhkeSkgICMgU2NhbGUgdG8gLTEvMQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiRG9uJ3Qgc2VlIGFueSB2aWN0aW1zICVzIGNlbGxzIGF3YXkuIiAlIHJhZGl1cykK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnZpc2lvbikK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>elif type(agent) == Police:
                 # Police hinder our ability to enact crime</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgIyBBZGQgY3JpbWluYWwgdG8gdmljdGltJ3MgbWVtb3J5LCByZWdhcmRsZXNzIGlmIHN1Y2Nlc3NmdWwKICAgICAgICB2aWN0aW0uYWRkX3RvX21lbW9yeShzZWxmKQ==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAjIEZJWE1FIEkgRG9uJ3QgdGhpbmsgdGhpcyBpcyByaWdodAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmQ=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
