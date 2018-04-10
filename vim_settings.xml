@@ -49,11 +49,8 @@
         <mark key="]" line="19" column="26" />
         <mark key="." line="19" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1523368072498">
-        <mark key="'" line="531" column="17" />
-        <mark key="[" line="286" column="22" />
-        <mark key="]" line="336" column="0" />
-        <mark key="." line="336" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1523370404846">
+        <mark key="'" line="537" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1522680072339">
         <mark key="[" line="1608" column="58" />
@@ -282,11 +279,12 @@
       <register name="a" type="4">
         <text>jj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiRG9uJ3Qgc2VlIGFueSB2aWN0aW1zICVzIGNlbGxzIGF3YXkuIiAlIHJhZGl1cykK</text>
+      <register name="&quot;" type="4">
+        <text>else:
+                # Look for target and update their position to our dispatch coordinates - if we see them.</text>
       </register>
       <register name="-" type="4">
-        <text>, spatial=True)</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRcPg==</text>
@@ -294,33 +292,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHR5cGUoeFsnbnAuY29tcGxleDY0J11bMF0pLCBjb21wbGV4KQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiRG9uJ3Qgc2VlIGFueSB2aWN0aW1zICVzIGNlbGxzIGF3YXkuIiAlIHJhZGl1cykK</text>
+      <register name="1" type="4">
+        <text>else:
+                # Look for target and update their position to our dispatch coordinates - if we see them.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnZpc2lvbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHgsIGR5ID0gZHggLyBhYnMoZHgpLCBkeSAvIGFicyhkeSkgICMgU2NhbGUgdG8gLTEvMQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiRG9uJ3Qgc2VlIGFueSB2aWN0aW1zICVzIGNlbGxzIGF3YXkuIiAlIHJhZGl1cykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnZpc2lvbikK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>elif type(agent) == Police:
                 # Police hinder our ability to enact crime</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgIyBBZGQgY3JpbWluYWwgdG8gdmljdGltJ3MgbWVtb3J5LCByZWdhcmRsZXNzIGlmIHN1Y2Nlc3NmdWwKICAgICAgICB2aWN0aW0uYWRkX3RvX21lbW9yeShzZWxmKQ==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAjIEZJWE1FIEkgRG9uJ3QgdGhpbmsgdGhpcyBpcyByaWdodAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CmQ=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgdmljdGltIGlzIE5vbmU6CiAgICAgICAgICAgICMgTm8gY2l2aWxpYW5zIGluIHRoaXMgY2VsbAogICAgICAgICAgICByZXR1cm4=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIEdldCB0aGUgYWdlbnRzIGluIHRoaXMgY2VsbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
