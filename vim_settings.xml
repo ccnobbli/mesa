@@ -50,12 +50,12 @@
         <mark key="." line="178" column="21" />
         <mark key="^" line="178" column="21" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1523371615164">
-        <mark key="'" line="540" column="17" />
-        <mark key="[" line="455" column="18" />
-        <mark key="]" line="455" column="18" />
-        <mark key="^" line="494" column="30" />
-        <mark key="." line="455" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" timestamp="1523373738964">
+        <mark key="'" line="412" column="17" />
+        <mark key="[" line="174" column="16" />
+        <mark key="]" line="174" column="16" />
+        <mark key="." line="174" column="16" />
+        <mark key="^" line="176" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_pandas_dataset.py" timestamp="1522680072339">
         <mark key="[" line="1608" column="58" />
@@ -285,10 +285,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.dispatch_coordinates = None</text>
+        <text>if not self.check_for_police():</text>
       </register>
       <register name="-" type="4">
-        <text>.dispatch_coordinates = None</text>
+        <text>if not self.check_for_police():</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRcPg==</text>
@@ -296,35 +296,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHR5cGUoeFsnbnAuY29tcGxleDY0J11bMF0pLCBjb21wbGV4KQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>else:
-                return False</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>else:
-                # Look for target and update their position to our dispatch coordinates - if we see them.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHgsIGR5ID0gZHggLyBhYnMoZHgpLCBkeSAvIGFicyhkeSkgICMgU2NhbGUgdG8gLTEvMQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGRlZiBnZXRIaWVyYXJjaHkoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuaGllcmFyY2h5CgogICAgZGVmIGdldEhpc3Rvcnlfc2VsZihzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5oaXN0b3J5X3NlbGYKCiAgICBkZWYgZ2V0SGlzdG9yeV9vdGhlcnMoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuaGlzdG9yeV9vdGhlcnMKCiAgICBkZWYgZ2V0UG9saWN5KHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnBvbGljeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiRG9uJ3Qgc2VlIGFueSB2aWN0aW1zICVzIGNlbGxzIGF3YXkuIiAlIHJhZGl1cykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnZpc2lvbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGdldEluc3RhbmNlcyhjbHMpOgogICAgICAgIGRlYWQgPSBzZXQoKQogICAgICAgIGZvciByZWYgaW4gY2xzLl9pbnN0YW5jZXM6CiAgICAgICAgICAgIG9iaiA9IHJlZigpCiAgICAgICAgICAgIGlmIG9iaiBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIHlpZWxkIG9iagogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgZGVhZC5hZGQocmVmKQogICAgICAgIGNscy5faW5zdGFuY2VzIC09IGRlYWQ=</text>
       </register>
-      <register name="7" type="4">
-        <text>elif type(agent) == Police:
-                # Police hinder our ability to enact crime</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgIyBBZGQgY3JpbWluYWwgdG8gdmljdGltJ3MgbWVtb3J5LCByZWdhcmRsZXNzIGlmIHN1Y2Nlc3NmdWwKICAgICAgICB2aWN0aW0uYWRkX3RvX21lbW9yeShzZWxmKQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIEZJWE1FIEkgRG9uJ3QgdGhpbmsgdGhpcyBpcyByaWdodAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CmQ=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
