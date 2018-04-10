@@ -6,6 +6,9 @@
       <file name="/start_script.py" timestamp="1521573323572">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ABM/RAT_example/Police_Department.py" timestamp="1523382811467">
+        <mark key="[" line="9" column="23" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/Coalition_Crime.py" timestamp="1522689178615">
         <mark key="[" line="139" column="29" />
         <mark key="]" line="141" column="0" />
@@ -142,10 +145,15 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/RAT/Police_Department.py" timestamp="1523376114608">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/RAT_example/rat_agents.py" timestamp="1523377869786">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/RAT_example/Coalition_Crime.py" timestamp="1523382917344">
+        <mark key="[" line="31" column="35" />
+        <mark key="]" line="31" column="35" />
+        <mark key="." line="31" column="35" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ABM/RAT_example/rat_agents.py" timestamp="1523379103366">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/test_column_aggregate_expectations.py" timestamp="1522676145871">
         <mark key="[" line="59" column="28" />
@@ -181,18 +189,23 @@
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_great_expectations.py" timestamp="1522677209940">
         <mark key="[" line="360" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/ABM/environment.py" timestamp="1523376408822">
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/ABM/environment.py" timestamp="1523382932825">
+        <mark key="'" line="119" column="66" />
+        <mark key="[" line="293" column="33" />
+        <mark key="]" line="293" column="33" />
+        <mark key="." line="293" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1523376644102">
+      <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1523379563590">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="10" column="5" />
-        <mark key="^" line="40" column="0" />
+        <mark key="^" line="42" column="0" />
         <mark key="." line="10" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/sqlalchemy_dataset/test_sqlalchemydataset.py" timestamp="1522676572657">
         <mark key="[" line="61" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ABM/ABM/Coalition.py" timestamp="1523378640962">
+        <mark key="[" line="15" column="67" />
       </file>
     </filemarks>
     <jumps>
@@ -287,16 +300,17 @@
       <jump line="93" column="96" filename="$USER_HOME$/PycharmProjects/ABM/environment.py" />
       <jump line="426" column="17" filename="$USER_HOME$/PycharmProjects/ABM/agent_cma_zl.py" />
       <jump line="166" column="39" filename="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" />
+      <jump line="114" column="66" filename="$USER_HOME$/PycharmProjects/ABM/ABM/environment.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcg==</text>
+        <text>environment=</text>
       </register>
       <register name="-" type="4">
-        <text>Criminal, Civilian, Police</text>
+        <text>environment=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRcPg==</text>
@@ -305,111 +319,35 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHR5cGUoeFsnbnAuY29tcGxleDY0J11bMF0pLCBjb21wbGV4KQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcg==</text>
+        <text>#self.x = x
+        #self.y = y
+        #self.combined_crime_propensity = combined_crime_propensity</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+      <register name="2" type="4">
+        <text>network=None, history_self=[],
+                 history_others=[], policy=None, competitors=[], x=0, y=0</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiQ3JpbWluYWwgaXMgYXQgJXMiICUgc3RyKHNlbGYucG9zKSkK</text>
+        <text encoding="base64">ICAgICAgICBjb2FsaXRpb24uYWRkX21lbWJlcihhZ2VudCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBBQk0uYWdlbnRfY21hX3psIGltcG9ydCBDcmltaW5hbCwgQ2l2aWxpYW4sIFBvbGljZSwgUG9saWNlRGVwYXJ0bWVudAo=</text>
+        <text encoding="base64">ZnJvbSBBQk0uYWdlbnRfY21hX3psIGltcG9ydCBBZ2VudAo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Y2xhc3MgUG9saWNlRGVwYXJ0bWVudChDb2FsaXRpb24pOgogICAgIiIiQSBncm91cCBvZiBQb2xpY2Ugb2ZmaWNlcnMgd2hvIGNvb3JkaW5hdGUgdG9nZXRoZXIgdG8gc3RvcCBFZWVlZVZJTCIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBlbnZpcm9ubWVudCk6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXyhlbnZpcm9ubWVudCkKICAgICAgICBzZWxmLnBvcyA9IHJhbmRvbS5yYW5kcmFuZ2UoZW52aXJvbm1lbnQuZ3JpZC53aWR0aCksIHJhbmRvbS5yYW5kcmFuZ2UoZW52aXJvbm1lbnQuZ3JpZC5oZWlnaHQpCgogICAgZGVmIGRpc3BhdGNoKHNlbGYsIHZpY3RpbSwgdGFyZ2V0X2FnZW50KToKICAgICAgICAiIiJEaXNwYXRjaCBhbiBvZmZpY2VyIHRvIHRhbGsgdG8gYSBDaXZpbGlhbiB3aG8gY2FsbGVkIGluIGFib3V0IGEgcm9iYmVyeQoKICAgICAgICA6cGFyYW0gYWdlbnQ6IFRoZSBhZ2VudCB3aG8gY2FsbGVkCiAgICAgICAgOnJldHVybjogTm9uZQogICAgICAgICIiIgogICAgICAgIG9mZmljZXIgPSBzZWxmLmZpbmRfY2xvc2VzdF9mcmVlX29mZmljZXIodmljdGltLnBvcykKCiAgICAgICAgaWYgb2ZmaWNlciBpcyBOb25lOgogICAgICAgICAgICBwcmludCgiTm8gYXZhaWxhYmxlIG9mZmljZXJzIHRvIGRpc3BhdGNoIikKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCgogICAgICAgIG9mZmljZXIuZGlzcGF0Y2hfY29vcmRpbmF0ZXMgPSB2aWN0aW0ucG9zCiAgICAgICAgb2ZmaWNlci50YXJnZXQgPSB0YXJnZXRfYWdlbnQKICAgICAgICBwcmludCgiT2ZmaWNlciBkaXNwYXRjaGVkIHRvIENyaW1lIFNjZW5lIikKCiAgICBkZWYgZmluZF9jbG9zZXN0X2ZyZWVfb2ZmaWNlcihzZWxmLCBwb3MpOgogICAgICAgICIiIkZpbmQgdGhlIGNsb3Nlc3Qgb2ZmaWNlciBpbiB0aGUgZWZmZWN0aXZlIHJhbmdlIG9mIHBvbGljZSBvZmZpY2VycyIiIgogICAgICAgIHBvbGljZSA9IHNlbGYuZW52aXJvbm1lbnQuZ3JpZC5nZXRfbmVpZ2hib3JzKHBvcywgbW9vcmU9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbmNsdWRlX2NlbnRlcj1UcnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJhZGl1cz1zZWxmLmVudmlyb25tZW50LmNvbmZpZ1snZWZmZWN0aXZlX3BvbGljZV9yYWRpdXMnXSkKICAgICAgICBwb2xpY2UgPSBsaXN0KGZpbHRlcihsYW1iZGEgeDogdHlwZSh4KSBpcyBQb2xpY2UsIHBvbGljZSkpCgogICAgICAgIHJhbmRvbS5zaHVmZmxlKHBvbGljZSkKICAgICAgICBmb3Igb2ZmaWNlciBpbiBwb2xpY2U6CiAgICAgICAgICAgIGlmIG9mZmljZXIuZGlzcGF0Y2hfY29vcmRpbmF0ZXMgaXMgTm9uZToKICAgICAgICAgICAgICAgIHJldHVybiBvZmZpY2VyCg==</text>
+        <text encoding="base64">CiAgICBAb3ZlcnJpZGU=</text>
       </register>
       <register name="6" type="4">
-        <text>class Coalition(object):
-    &quot;&quot;&quot;Parent class, A group of agents&quot;&quot;&quot;
-
-    def __init__(self, environment):
-        &quot;&quot;&quot;A coalition needs it's environment and list of members.&quot;&quot;&quot;
-        self.environment = environment
-        self.members = list()
-
-    def merge(self, other_coatlition):
-        &quot;&quot;&quot;Merge another coalition's members into this coalition&quot;&quot;&quot;
-        raise NotImplementedError
-
-    def remove_member(self, agent):
-        &quot;&quot;&quot;Remove the specified agent from the coalition&quot;&quot;&quot;
-        for member in self.members:
-            if agent is member:
-                self.members.remove(agent)
-                return
-
-    def add_member(self, agent):
-        &quot;&quot;&quot;Add specified agent to this coalition.&quot;&quot;&quot;
-        raise NotImplementedError
-
-    def remove_coalition(self):
-        &quot;&quot;&quot;Dissolve this coalition.&quot;&quot;&quot;
-        raise NotImplementedError</text>
+        <text encoding="base64">IHNlbGYuYWdlbnRzLmFwcGVuZChuZXdfYWdlbnQpCiAgICAgICAgICAgIHNlbGYuY3JpbWluYWxzLmFwcGVuZChuZXdfYWdlbnQpCiAgICAgICAgICAgIG5ld19jb2FsaXRpb24ubWVtYmVycy5hcHBlbmQobmV3X2FnZW50KQogICAgICAgICAgICBuZXdfY29hbGl0aW9uLngsIG5ld19jb2FsaXRpb24ueSA9IG5ld19hZ2VudC54LCBuZXdfYWdlbnQueQogICAgICAgICAgICBzZWxmLmNvYWxpdGlvbnMuYXBwZW5kKG5ld19jb2FsaXRpb24p</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IG9uIFN1biBGZWIgMjUgMTE6Mzk6NTggMjAxOAo=</text>
+      <register name="7" type="4">
+        <text>x=np.random.randint(0, self.config['grid_width']),
+                                 y=np.random.randint(0, self.config['grid_height'] ),</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGF1dGhvcjogemxpMzQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>class Coalition(object):
-    &quot;&quot;&quot;A coalition in an organization/network
-    Attributes:
-        of_type: The type of the coalition
-        members: List of agents in the coalition
-        uid: unique ID for coalition
-        network: The original network id where the coalition is nested in 
-        resources: The amount of each asset the coalition has
-        history_self, history_others: The coalition's memory of history of itself and others
-        policy: The coalition's policy
-        competitors: The coalition's competitors
-    &quot;&quot;&quot;
-    
-    def __init__(self, of_type = None, members = [], resources = [], uid = None, network = None, history_self = [], history_others = [], policy=None, competitors = []):
-        
-        self.resources = resources
-        self.uid = uid
-        self.network = network       
-        self.history_self = history_self
-        self.history_others = history_others
-        self.policy = policy
-        self.competitors = competitors
-        self.of_type = of_type
-        self.members= members
-        
-    def getUid(self):
-        return self.uid
-    
-    def getResources(self):
-        return self.resources
-    
-    def getNetwork(self):
-        return self.network
-    
-    def getHistory_self(self):
-        return self.history_self
-    
-    def getHistory_others(self):
-        return self.history_others
-    
-    def getPolicy(self):
-        return self.policy
-    
-    def updateHistory_self(self, state, action, reward):
-        #update its history which contains its state, action, reward and so on 
-        self.history_self = [self.history_self, [state, action, reward]]
-        return self.history_self
-        
-    def updateHistory_others(self, state, actions, rewards):
-        #update others' history which contains their states, actions, rewards and so on
-        self.history_others = [self.history_others, [states, actions, rewards]]
-        return self.history_others
-            
-    def die(self):
-        pass
-        #delete the coalition under some conditions</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jb2FsaXRpb25faWQgKz0gMQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
