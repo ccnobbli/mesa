@@ -145,15 +145,15 @@
       <file name="$USER_HOME$/PycharmProjects/ABM/RAT/Police_Department.py" timestamp="1523376114608">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/RAT_example/Coalition_Crime.py" timestamp="1523382917344">
-        <mark key="[" line="31" column="35" />
-        <mark key="]" line="31" column="35" />
-        <mark key="." line="31" column="35" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/RAT_example/Coalition_Crime.py" timestamp="1523390695486">
+        <mark key="[" line="65" column="47" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/RAT_example/rat_agents.py" timestamp="1523379103366">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/RAT_example/rat_agents.py" timestamp="1523390418070">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/test_column_aggregate_expectations.py" timestamp="1522676145871">
         <mark key="[" line="59" column="28" />
@@ -189,14 +189,14 @@
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/test_great_expectations.py" timestamp="1522677209940">
         <mark key="[" line="360" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/ABM/environment.py" timestamp="1523382932825">
-        <mark key="'" line="119" column="66" />
-        <mark key="[" line="293" column="33" />
-        <mark key="]" line="293" column="33" />
-        <mark key="." line="293" column="33" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/ABM/environment.py" timestamp="1523390876937">
+        <mark key="'" line="120" column="66" />
+        <mark key="[" line="329" column="8" />
+        <mark key="]" line="329" column="8" />
+        <mark key="." line="329" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1523379563590">
-        <mark key="[" line="21" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/ABM/config/environ_config.py" timestamp="1523389158619">
+        <mark key="[" line="9" column="27" />
         <mark key="]" line="10" column="5" />
         <mark key="^" line="42" column="0" />
         <mark key="." line="10" column="5" />
@@ -204,7 +204,7 @@
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/sqlalchemy_dataset/test_sqlalchemydataset.py" timestamp="1522676572657">
         <mark key="[" line="61" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ABM/ABM/Coalition.py" timestamp="1523378640962">
+      <file name="$USER_HOME$/PycharmProjects/ABM/ABM/Coalition.py" timestamp="1523386765717">
         <mark key="[" line="15" column="67" />
       </file>
     </filemarks>
@@ -307,10 +307,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>environment=</text>
+        <text>coalition.members = None</text>
       </register>
       <register name="-" type="4">
-        <text>environment=</text>
+        <text>coalition.members = None</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRcPg==</text>
@@ -318,36 +318,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHR5cGUoeFsnbnAuY29tcGxleDY0J11bMF0pLCBjb21wbGV4KQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>#self.x = x
-        #self.y = y
-        #self.combined_crime_propensity = combined_crime_propensity</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAjIEFkZCBuZXcgY3JpbWluYWxzIHRvIG9yZ2FuaXphdGlvbgo=</text>
       </register>
-      <register name="2" type="4">
-        <text>network=None, history_self=[],
-                 history_others=[], policy=None, competitors=[], x=0, y=0</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjcmltaW5hbHMgPSBjb3B5LmRlZXBjb3B5KG90aGVyX2NvYWxpdGlvbi5tZW1iZXJzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb2FsaXRpb24uYWRkX21lbWJlcihhZ2VudCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3RyKHNlbGYubW9kZWwuY3JpbWluYWxfY29hbGl0aW9ucykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBBQk0uYWdlbnRfY21hX3psIGltcG9ydCBBZ2VudAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiTG9va2luZyBmb3IgcG90ZW50aWFsIHZpY3RpbSAlcyBjZWxscyBhd2F5IiAlIHN0cihyYWRpdXMpKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBAb3ZlcnJpZGU=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkFnZW50IHNwb3R0ZWQ6ICVzIiAlIHN0cihhZ2VudCkpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHNlbGYuYWdlbnRzLmFwcGVuZChuZXdfYWdlbnQpCiAgICAgICAgICAgIHNlbGYuY3JpbWluYWxzLmFwcGVuZChuZXdfYWdlbnQpCiAgICAgICAgICAgIG5ld19jb2FsaXRpb24ubWVtYmVycy5hcHBlbmQobmV3X2FnZW50KQogICAgICAgICAgICBuZXdfY29hbGl0aW9uLngsIG5ld19jb2FsaXRpb24ueSA9IG5ld19hZ2VudC54LCBuZXdfYWdlbnQueQogICAgICAgICAgICBzZWxmLmNvYWxpdGlvbnMuYXBwZW5kKG5ld19jb2FsaXRpb24p</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiSm9pbmluZyBmb3JjZXMgd2l0aCB7MH0gYXQgezF9Ii5mb3JtYXQoYWdlbnQsIGFnZW50LnBvcykpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>x=np.random.randint(0, self.config['grid_width']),
-                                 y=np.random.randint(0, self.config['grid_height'] ),</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkRvZXMgbm90IGhhdmUgc3VmZmljaWVudCBwcm9wZW5zaXR5IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb2FsaXRpb24ucmVtb3ZlX2NvYWxpdGlvbigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jb2FsaXRpb25faWQgKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5ldHdvcmsgPSBOb25lCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
