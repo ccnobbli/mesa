@@ -14,12 +14,6 @@
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/great_expectations/great_expectations/dataset/util.py" timestamp="1523288396479">
-        <mark key="'" line="166" column="39" />
-        <mark key="[" line="158" column="9" />
-        <mark key="]" line="158" column="9" />
-        <mark key="." line="158" column="9" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/Agent.py" timestamp="1519844382650">
         <mark key="[" line="69" column="18" />
       </file>
@@ -150,11 +144,17 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ABM/ABM/data_collector.py" timestamp="1523452536624">
+        <mark key="[" line="20" column="10" />
+        <mark key="]" line="20" column="10" />
+        <mark key="." line="20" column="10" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ABM/RAT_example/rat_agents.py" timestamp="1523390418070">
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="0" />
         <mark key="." line="140" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ABM/RAT_example/batch.py" timestamp="1523452248953" />
       <file name="$USER_HOME$/PycharmProjects/great_expectations/tests/column_aggregate_expectations/test_column_aggregate_expectations.py" timestamp="1522676145871">
         <mark key="[" line="59" column="28" />
         <mark key="]" line="59" column="28" />
@@ -307,10 +307,10 @@
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>coalition.members = None</text>
+        <text>Manager</text>
       </register>
       <register name="-" type="4">
-        <text>coalition.members = None</text>
+        <text>Manager</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRcPg==</text>
